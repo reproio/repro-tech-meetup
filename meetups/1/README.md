@@ -34,7 +34,9 @@ Rettyでクライアントサイドからサーバーサイドまでをこなす
 
 ### kei_q at Repro
 
-TBD
+![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/1/images/kei_q.jpg | width=200)
+
+2016年にReproに入社
 
 # LT
 
