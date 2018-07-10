@@ -34,7 +34,9 @@ Rettyでクライアントサイドからサーバーサイドまでをこなす
 
 ### kei_q at Repro
 
-TBD
+![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/1/images/kei_q.jpg | width=200)
+
+2016年にReproに入社
 
 # LT
 
@@ -50,7 +52,7 @@ LT参加をご希望の方は、応募時または、FeedへLTのタイトルを
 19:00 | 開場
 19:30 | はじめに
 19:40 | title TBD by 櫻井洋一郎
-20:00 | title TBD by @kei_q
+20:00 | ReproとECSの今と昔 by @kei_q
 20:20 | LT 10min
 20:30 | LT 10min
 20:40 | LT 5min
