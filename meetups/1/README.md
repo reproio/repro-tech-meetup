@@ -34,9 +34,11 @@ Rettyでクライアントサイドからサーバーサイドまでをこなす
 
 ### kei_q at Repro
 
-![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/1/images/kei_q.jpg | width=200)
+<img src="https://github.com/reproio/repro-tech-meetup/blob/master/meetups/1/images/kei_q.jpg" width=200>
 
-2016年にReproに入社
+2016年にReproに入社し、直後から課題となっていたリリースマネジメントや障害一次対応などをまるっと引き受け改善。
+チームや組織の生産性を向上するのが至上の喜び。でもHaskellの方が好き。
+最近の趣味は、プリズナートレーニング。
 
 # LT
 
