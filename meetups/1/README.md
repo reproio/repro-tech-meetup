@@ -25,16 +25,16 @@ k8sを始めとしたdocker エコシステムのデファクトが決まって�
 
 # 登壇者
 
-### 櫻井 洋一郎
+### 櫻井 洋一郎 at [Retty](https://corp.retty.me/)
 
 <img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/c194.46.572.572/s320x320/1011637_395795957199148_1857539277_n.jpg?_nc_cat=0&oh=128de92a3313aa5aa4e9055166ca5fc9&oe=5BE1C64A" width=200>
 
 Rettyでクライアントサイドからサーバーサイドまでをこなすエンジニア。
 [Docker によるアプリケーション開発環境構築ガイド](https://www.amazon.co.jp/Dockerによるアプリケーション開発環境構築ガイド-櫻井-洋一郎-ebook/dp/B07D3474QP/ref=asap_bc?ie=UTF8)を著者でDockerについて幅広い知識をもつ。
 
-### kei_q at Repro
+### Tasuya Toma a.k.a kei_q at [Repro](https://repro.io)
 
-<img src="https://github.com/reproio/repro-tech-meetup/blob/master/meetups/1/images/kei_q.jpg" width=200>
+<img src="https://github.com/reproio/repro-tech-meetup/blob/master/meetups/1/images/kei_q.jpg?raw=true" width=200>
 
 2016年にReproに入社し、直後から課題となっていたリリースマネジメントや障害一次対応などをまるっと引き受け改善。
 チームや組織の生産性を向上するのが至上の喜び。でもHaskellの方が好き。
@@ -53,13 +53,14 @@ LT参加をご希望の方は、応募時または、FeedへLTのタイトルを
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | title TBD by 櫻井洋一郎
-20:00 | ReproとECSの今と昔 by @kei_q
-20:20 | LT 10min
-20:30 | LT 10min
-20:40 | LT 5min
+19:40 | RettyにおけるDocker活用のこれまでとこれから by 櫻井洋一郎
+20:00 | ReproとECSの今と昔 by kei_q
+20:20 | 休憩
+20:25 | LT 10min
+20:35 | LT 10min
 20:45 | LT 5min
-20:50 | まとめ
+20:50 | LT 5min
+20:55 | おわりに
 21:00 | 懇親会
 22:00 | 解散
 
@@ -88,4 +89,3 @@ JR代々木駅北口改札を出て目の前のビルです。
 - 技術の共有が目的の勉強会です
 - 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
 - イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
-
