@@ -1,3 +1,9 @@
+![](/meetups/1/images/repro-tech-meetup-banner.png)
+
+# Announce
+
+イベントスペース的にもう少し余裕ありそうなので、増枠しました! on 2018-07-23
+
 # Repro Tech Meetup
 
 Repro Tech Meetupは、Reproを支える技術やノウハウを共有したり、利用している技術について深く学ぶためにゲストを呼び学ぶことで、スタートアップ業界をさらに盛り上げていくことを目的としています。
@@ -56,11 +62,11 @@ LT参加をご希望の方は、応募時または、FeedへLTのタイトルを
 19:40 | RettyにおけるDocker活用のこれまでとこれから by 櫻井洋一郎
 20:00 | ReproとECSの今と昔 by kei_q
 20:20 | 休憩
-20:25 | LT 10min
-20:35 | LT 10min
+20:25 | LT 5-7min
+20:35 | LT 5-7min
 20:45 | LT 5min
-20:50 | LT 5min
-20:55 | おわりに
+20:55 | LT 5min
+21:05 | おわりに
 21:00 | 懇親会
 22:00 | 解散
 
