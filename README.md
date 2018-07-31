@@ -2,17 +2,17 @@
 
 ![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-tech-meetup-banner-wide.png?raw=true)
 
-スタートアップにおける失敗を少しでも防ぐことを目的に、以下を通して実現するサービスです。
+Repro Tech Meetupは、スタートアップにおける技術領域での失敗を少しでも防ぐようノウハウを共有することを目的とするミートアップです。
 
-1. Reproを支える技術やノウハウを共有
+1. Reproで過去選択した技術の失敗談や、それをどうやって盛り返してきたのか共有
+1. Reproの今を支える技術や知見を共有
 1. ゲストを呼びReproで利用する・している技術について学ぶ
 
 [Repro](https://repro.io) は、5,000以上の世界中にあるアプリに利用されるマーケティングオートメーションツールを提供する会社です。
-1000万DAUを優に超えるアクセスや行動ログを処理し、柔軟な分析ワークロードを実現し、毎日億を超えるpush配信などのマーケティン施策の実施を支援しています。
+数千万DAUのアクセスや行動ログを基にした柔軟な分析ワークロードを実現し、毎日億を超えるpush配信などのマーケティング施策の実施を支援しています。
 
-hashtag: [`reprotech`](https://twitter.com/hashtag/reprotech)
-
-connpass: https://repro-tech.connpass.com/
+- hashtag: [`reprotech`](https://twitter.com/hashtag/reprotech)
+- connpass: https://repro-tech.connpass.com/
 
 # 注意事項
 
@@ -23,3 +23,4 @@ connpass: https://repro-tech.connpass.com/
 # 開催
 
 1. [README](/meetups/1/README.md) / [PITCH](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/1)
+1. [README](/meetups/2/README.md) / [PITCH](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/2)
