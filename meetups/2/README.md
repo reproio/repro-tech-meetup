@@ -13,7 +13,7 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 ### 前回の雰囲気
 
-- [togetter - Repro Tech Meetup #1 Docker まとめ](https://togetter.com/li/1251270)
+- [Repro Tech Meetup #1 Docker まとめ](https://togetter.com/li/1251270)
 
 # テーマ: アプリ開発プラットフォーム
 
@@ -35,9 +35,23 @@ OSのバージョンは多岐にわたり。
 
 # 登壇者
 
-### TBD
+### [soranakk](https://twitter.com/soranakk)
 
-### Nakae Kazuhiro a.k.a nekoe at [Repro](https://repro.io)
+![](https://avatars2.githubusercontent.com/u/3930307?s=200&v=4)
+
+self introduction
+
+### [yshogo87](https://twitter.com/yshogo87)
+
+![](https://avatars1.githubusercontent.com/u/24387865?s=200&v=4)
+
+self introduction
+
+### [Nekoe](https://github.com/morou) at [Repro](https://repro.io)
+
+![](https://avatars1.githubusercontent.com/u/2016793?s=200&v=4)
+
+self introduction
 
 # LT
 
@@ -53,14 +67,14 @@ LT参加をご希望の方は、LTタイトルが決まりましたらconnpass f
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBD by
-20:00 | TBD by
-20:20 | 休憩
-20:25 | LT&QA 5-7min
-20:35 | LT&QA 5-7min
+19:40 | TBD by soranakk
+20:00 | TBD by nekoe
+20:20 | TBD by shogo
+20:40 | 休憩
 20:45 | LT&QA 5-7min
 20:55 | LT&QA 5-7min
-21:05 | コンテンツのアンケート
+21:05 | LT&QA 5-7min
+21:10 | コンテンツのアンケート
 21:00 | 懇親会
 22:00 | 解散
 
@@ -89,3 +103,4 @@ JR代々木駅北口改札を出て目の前のビルです。
 - 技術の共有が目的の勉強会です
 - 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
 - イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
+
