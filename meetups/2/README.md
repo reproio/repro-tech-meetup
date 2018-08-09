@@ -52,7 +52,7 @@ self introduction
 
 ![](https://avatars1.githubusercontent.com/u/2016793?s=200&v=4)
 
-self introduction
+猫と暮らす猫好きエンジニア。2015年Repro入社。iOS, Android, Unity, Cordova, Cocos2d-x向けのSDK開発を担当。OSバージョンやプラットフォームバージョンの多様さ、そして癖のある端末の存在と戦いながら、簡単かつ安心して導入できるSDKを提供すべく奮闘中。好きな開発言語はRust。RustでSDK書きたい。
 
 # LT
 
