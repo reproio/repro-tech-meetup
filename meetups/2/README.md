@@ -45,7 +45,8 @@ self introduction
 
 ![](https://avatars1.githubusercontent.com/u/24387865?s=200&v=4)
 
-self introduction
+新卒の頃からAndroidアプリ開発に携わり、開発経験２年。
+最近はFlutterにハマっていてFlutterの布教活動をしています。
 
 ### [Nekoe](https://github.com/morou) at [Repro](https://repro.io)
 
