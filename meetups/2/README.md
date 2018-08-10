@@ -39,7 +39,11 @@ OSのバージョンは多岐にわたり。
 
 ![](https://avatars2.githubusercontent.com/u/3930307?s=200&v=4)
 
-self introduction
+所属:DeNA  
+Androidアプリ開発歴5年だけど、ずっと専用端末のアプリ開発をやっていて、  
+まだGooglePlayにリリースしたことがないAndroidアプリ開発者。  
+現在はDeNAのオートモーティブ事業部でタクベルの車載Android端末のアプリ開発をしています。  
+他にはDroidKaigi 2018で[ピュアJavaだと思った？残念Androidでした～いつからAndroidをJavaだと錯覚していた？～](https://www.slideshare.net/JSUXDesign/javaandroidandroidjava)という題で発表しました。
 
 ### [yshogo87](https://twitter.com/yshogo87)
 
