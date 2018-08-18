@@ -15,9 +15,9 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 - [Repro Tech Meetup #1 Docker まとめ](https://togetter.com/li/1251270)
 
-# テーマ: アプリ開発プラットフォーム
+# テーマ: Android開発
 
-モバイルアプリ開発はまさに戦国時代。
+Android開発はまさに戦国時代。
 
 夢のような新しい開発プラットフォームはでてきては消え、使えるのか使えないのか試し続け。
 OSのバージョンは多岐にわたり。
@@ -35,14 +35,14 @@ OSのバージョンは多岐にわたり。
 
 # 登壇者
 
-### [soranakk](https://twitter.com/soranakk)
+### [soranakk](https://twitter.com/soranakk) at DeNA
 
 ![](https://avatars2.githubusercontent.com/u/3930307?s=200&v=4)
 
-所属:DeNA  
-Androidアプリ開発歴5年だけど、ずっと専用端末のアプリ開発をやっていて、  
-まだGooglePlayにリリースしたことがないAndroidアプリ開発者。  
-現在はDeNAのオートモーティブ事業部でタクベルの車載Android端末のアプリ開発をしています。  
+所属:DeNA
+Androidアプリ開発歴5年だけど、ずっと専用端末のアプリ開発をやっていて、まだGooglePlayにリリースしたことがないAndroidアプリ開発者。
+現在はDeNAのオートモーティブ事業部でタクベルの車載Android端末のアプリ開発をしています。
+
 他にはDroidKaigi 2018で[ピュアJavaだと思った？残念Androidでした～いつからAndroidをJavaだと錯覚していた？～](https://www.slideshare.net/JSUXDesign/javaandroidandroidjava)という題で発表しました。
 
 ### [yshogo87](https://twitter.com/yshogo87)
@@ -56,7 +56,10 @@ Androidアプリ開発歴5年だけど、ずっと専用端末のアプリ開発
 
 ![](https://avatars1.githubusercontent.com/u/2016793?s=200&v=4)
 
-猫と暮らす猫好きエンジニア。2015年Repro入社。iOS, Android, Unity, Cordova, Cocos2d-x向けのSDK開発を担当。OSバージョンやプラットフォームバージョンの多様さ、そして癖のある端末の存在と戦いながら、簡単かつ安心して導入できるSDKを提供すべく奮闘中。好きな開発言語はRust。RustでSDK書きたい。
+猫と暮らす猫好きエンジニア。2015年Repro入社。
+iOS, Android, Unity, Cordova, Cocos2d-x向けのSDK開発を担当。
+OSバージョンやプラットフォームバージョンの多様さ、そして癖のある端末の存在と戦いながら、簡単かつ安心して導入できるSDKを提供すべく奮闘中。
+好きな開発言語はRust。RustでSDK書きたい。
 
 # LT
 
@@ -64,7 +67,7 @@ LTをしていただける方を募集します!
 
 LT参加をご希望の方は、LTタイトルが決まりましたらconnpass feedへLTのタイトルをご記入下さい。
 
-1. TBD
+1. 自社サービスでReproを使っていて、やらかしてしまった話 by @kumanomi
 
 # タイムテーブル
 
@@ -108,4 +111,3 @@ JR代々木駅北口改札を出て目の前のビルです。
 - 技術の共有が目的の勉強会です
 - 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
 - イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
-
