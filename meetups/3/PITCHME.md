@@ -1,4 +1,4 @@
-## Repro Tech Meetup #2
+## Repro Tech HandsOn 
 
 ![](/meetups/2/images/repro-tech-meetup-banner.png)
 
@@ -6,23 +6,13 @@ hashtag: `reprotech`
 
 ---
 
-## What's<br>Repro Tech Meetup?
+## What's<br>Repro Tech HandsOn?
 
-スタートアップにおける失敗を少しでも防ぎたい!!
-
-1. Reproを支える技術やノウハウを共有
-1. ゲストを呼びReproで利用する・している技術について学ぶ
 
 ---
 
 ## Theme: Mobile App Development
 
-モバイルアプリ開発はまさに戦国時代。
-
-1. 夢のような新しい開発プラットフォームはでてきては消え、使えるのか使えないのか試し続け。
-1. OSのバージョンは多岐にわたり。
-1. 各メーカーの考えた最強のカスタマイズAndroidでもクラッシュせず動作することが求められ。
-1. インターネットもつながらない環境下でももちろん安定して動く。
 
 ---
 
@@ -53,20 +43,6 @@ hashtag: `reprotech`
 - 各発表後に軽くQAタイムを設けたいと思っています
 - twitterに `#reprotech` hashを使って随時も拾っていきます!
 
----
-
-## Talks
-
-1. TBD
-  - by
-1. TBD
-  - by
-
----
-
-## LTs
-
-1. TBD
 
 ---
 
@@ -93,7 +69,7 @@ hashtag: `reprotech`
 懇親会準備にお手伝いにご協力ください
 
 1. 椅子を前に寄せて頂く
-1. 食べ物・飲み物のデプロイ
+2. 食べ物・飲み物のデプロイ
 
 ---
 
