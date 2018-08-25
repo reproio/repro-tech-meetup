@@ -15,20 +15,17 @@ hashtag: `reprotech`
 
 ---
 
-## Theme: Mobile App Development
+## Theme: Android開発
 
-モバイルアプリ開発はまさに戦国時代。
-
-1. 夢のような新しい開発プラットフォームはでてきては消え、使えるのか使えないのか試し続け。
-1. OSのバージョンは多岐にわたり。
-1. 各メーカーの考えた最強のカスタマイズAndroidでもクラッシュせず動作することが求められ。
-1. インターネットもつながらない環境下でももちろん安定して動く。
+- 各社新しいOS、端末への対応どんな感じでしているの？
+- その品質担保どうやってるの？
+- 新しい開発プラットフォームに乗る機運の高まり
 
 ---
 
 ## まさに戦国
 
-そんな戦国時代に知恵を共有しあい、サヴァイブして行きましょう！
+そんな時代に知恵を共有しあい、サヴァイブして行きましょう！
 
 ---
 
@@ -44,33 +41,38 @@ hashtag: `reprotech`
 
 ## Attention
 
-- どなたでもイベントの様子を撮影し、ブログやSNSなどで公開可能としています点、ご了承ください
+- イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
 
 ---
 
 ## QA
 
 - 各発表後に軽くQAタイムを設けたいと思っています
-- twitterに `#reprotech` hashを使って随時も拾っていきます!
+- twitterに `#reprotech` hashをつけてください
 
 ---
 
-## Talks
+## Spearkers
 
 1. TBD
-  - by
+  - by [soranakk](https://twitter.com/soranakk) at DeNA
 1. TBD
-  - by
+  - by [nekoe](https://github.com/morou) at Repro
+1. TBD
+  - by [yshogo87](https://twitter.com/yshogo87)
 
 ---
 
 ## LTs
 
-1. TBD
+1. 自社サービスでReproを使っていて、やらかしてしまった話
+  - by [kumanomi](https://twitter.com/m_kumanomi)
+1. Kotlin で DSL を作り始めるまで
+  - by [tomoya0x00](https://twitter.com/tomoya0x00)
 
 ---
 
-### 早速始めていきましょう！
+早速始めていきましょう！
 
 # カンパーイ
 
@@ -78,13 +80,13 @@ hashtag: `reprotech`
 
 ---
 
-## コンテンツのアンケート
+## アンケート
 
-👉　[slido.com](https://app2.sli.do/event/cht5bwpt/questions) #H727
+👉　[slido.com](https://app2.sli.do/event/cht5bwpt/questions) #W108
 
 ---
 
-# ありがとうございました！
+## ありがとうございました ✨
 
 ---
 
@@ -92,12 +94,13 @@ hashtag: `reprotech`
 
 懇親会準備にお手伝いにご協力ください
 
-1. 椅子を前に寄せて頂く
+1. 椅子を前に寄せる
 1. 食べ物・飲み物のデプロイ
 
 ---
 
-# カンパーイ
+改めて
 
+# カンパーイ
 # 🍻🍻🍻
 
