@@ -54,11 +54,11 @@ hashtag: `reprotech`
 
 ## Spearkers
 
-1. TBD
+1. モバイルアプリ開発未経験でJavaもKotlinも触ったことがない人とFluxアーキテクチャでAndroidアプリ開発する話
   - by [soranakk](https://twitter.com/soranakk) at DeNA
-1. TBD
+1. SDKのログを収集・分析して品質向上につなげた話
   - by [nekoe](https://github.com/morou) at Repro
-1. TBD
+1. AndroidエンジニアのためのFlutter
   - by [yshogo87](https://twitter.com/yshogo87)
 
 ---
@@ -69,6 +69,8 @@ hashtag: `reprotech`
   - by [kumanomi](https://twitter.com/m_kumanomi)
 1. Kotlin で DSL を作り始めるまで
   - by [tomoya0x00](https://twitter.com/tomoya0x00)
+1. 俺が考える最強のPush Receiver
+    - by [hiroxy_](https://twitter.com/hiroxyy_)
 
 ---
 
@@ -82,7 +84,7 @@ hashtag: `reprotech`
 
 ## アンケート
 
-👉　[slido.com](https://app2.sli.do/event/cht5bwpt/questions) #W108
+👉　[slido.com](https://app2.sli.do/event/mgji6ugr/polls) #W018
 
 ---
 

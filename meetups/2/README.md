@@ -46,6 +46,8 @@ Androidアプリ開発歴5年だけど、ずっと専用端末のアプリ開発
 
 他にはDroidKaigi 2018で[ピュアJavaだと思った？残念Androidでした～いつからAndroidをJavaだと錯覚していた？～](https://www.slideshare.net/JSUXDesign/javaandroidandroidjava)という題で発表しました。
 
+登壇内容: モバイルアプリ開発未経験でJavaもKotlinも触ったことがない人とFluxアーキテクチャでAndroidアプリ開発する話
+
 ### [yshogo87](https://twitter.com/yshogo87)
 
 ![](https://avatars1.githubusercontent.com/u/24387865?s=200&v=4)
@@ -53,6 +55,8 @@ Androidアプリ開発歴5年だけど、ずっと専用端末のアプリ開発
 新卒の頃からAndroidアプリ開発に携わり、開発経験２年。
 
 最近はFlutterにハマっていてFlutterの布教活動をしています。
+
+登壇内容: AndroidエンジニアのためのFlutter
 
 ### [Nekoe](https://github.com/morou) at [Repro](https://repro.io)
 
@@ -64,6 +68,8 @@ OSバージョンやプラットフォームバージョンの多様さ、そし
 
 好きな開発言語はRust。RustでSDK書きたい。
 
+登壇内容: SDKのログを収集・分析して品質向上につなげた話
+
 # LT
 
 LTをしていただける方を募集します!
@@ -74,6 +80,8 @@ LT参加をご希望の方は、LTタイトルが決まりましたらconnpass f
     - by [kumanomi](https://twitter.com/m_kumanomi)
 1. Kotlin で DSL を作り始めるまで
     - by [tomoya0x00](https://twitter.com/tomoya0x00)
+1. 俺が考える最強のPush Receiver
+    - by [hiroxy_](https://twitter.com/hiroxyy_)
 
 # タイムテーブル
 
@@ -81,9 +89,9 @@ LT参加をご希望の方は、LTタイトルが決まりましたらconnpass f
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | Android開発 by soranakk
-20:00 | SDK開発におけるログ収集 by nekoe
-20:20 | Flutter by shogo
+19:40 | モバイルアプリ開発未経験でJavaもKotlinも触ったことがない人とFluxアーキテクチャでAndroidアプリ開発する話 by soranakk
+20:00 | SDKのログを収集・分析して品質向上につなげた話 by nekoe
+20:20 | AndroidエンジニアのためのFlutter by shogo
 20:40 | 休憩
 20:45 | LT&QA 5-7min
 20:55 | LT&QA 5-7min
