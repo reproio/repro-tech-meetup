@@ -1,4 +1,4 @@
-## Repro Tech HandsOn 
+## Repro Tech HandsOn
 
 ![](/meetups/2/images/repro-tech-meetup-banner.png)
 
@@ -54,13 +54,6 @@ hashtag: `reprotech`
 
 ---
 
-## コンテンツのアンケート
-
-👉　[slido.com](https://app2.sli.do/event/cht5bwpt/questions) #H727
-
----
-
-# ありがとうございました！
 
 ---
 

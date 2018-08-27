@@ -1,5 +1,3 @@
-![](/meetups/2/images/repro-tech-meetup-banner.png)
-
 # Repro Tech HandsOn
 
 Repro Tech HandsOnは、スタートアップにおける技術領域で最先端のテクノロジーに触れ、実戦投入するノウハウをキャッチアップするイベントです。
@@ -11,32 +9,28 @@ Repro Tech HandsOnは、スタートアップにおける技術領域で最先�
 [Repro](https://repro.io) は、5,000以上の世界中にあるアプリに利用されるマーケティングオートメーションツールを提供する会社です。
 数千万DAUのアクセスや行動ログを基にした柔軟な分析ワークロードを実現し、毎日億を超えるpush配信などのマーケティング施策の実施を支援しています。
 
-### 前回の雰囲気
-
-- [Repro Tech Meetup #1 Docker まとめ](https://togetter.com/li/1251270)
-
 # テーマ: Firebase ハンズオン
-￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
 ぐんぐん勢いをますFirebase！
 
 毎月のように新しい機能を発表してモバイルアプリの開発は加速してくばかり！
 しっかりとこの流れを掴んで開発を加速していきましょう！
 
-## iOS
-メンター
-https://github.com/1amageek
+## メンター
 
+### [1amgeek](https://github.com/1amageek)
 
-## Android
-メンター
+iOS
 
+### TBD
 
+Android
 
-## Web
-メンター
-https://twitter.com/nabettu
+### [nabettu](https://twitter.com/nabettu)
 
-タイムテーブル
+Web
+
+# タイムテーブル
 
 時間  | 内容
 ---   | ---
@@ -44,7 +38,6 @@ https://twitter.com/nabettu
 13:00 | ハンズオンスタート
 16:00 | 懇親会
 17:00 | 解散
-
 
 # 会場
 
