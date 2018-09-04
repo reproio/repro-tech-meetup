@@ -1,34 +1,43 @@
-# Repro Tech HandsOn
+# Repro Tech Hands-On
 
-Repro Tech HandsOnは、スタートアップにおける技術領域で最先端のテクノロジーに触れ、実戦投入するノウハウをキャッチアップするイベントです。
+ビジネスの変化にキャッチアップするために、モバイルアプリのライフサイクルは短くなる日々。
+それに追随していけるように、モバイルアプリ開発は環境の多様し、本質的ではない部分の外部サービスへの委譲が進んでいます。
 
-1. 触ってみたいが手を出したことがなかった技術
-2. メンターに直に質問してみたい
-3. 開発仲間を増やしたい
+この変化にうまくキャッチアップしていくために、新しい技術やサービスに触れ、特徴を抑え、使い所を見極める機会を作るHands-Onです。
+
+### 過去のRepro Tech Meetup/Hands-onの雰囲気
+
+- [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
+- [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 
 [Repro](https://repro.io) は、5,000以上の世界中にあるアプリに利用されるマーケティングオートメーションツールを提供する会社です。
-数千万DAUのアクセスや行動ログを基にした柔軟な分析ワークロードを実現し、毎日億を超えるpush配信などのマーケティング施策の実施を支援しています。
+数千万DAUを優に超えるユーザーの行動ログを処理し、柔軟な分析ワークロードを実現。さらには毎日億を超えるpush配信などのマーケティン施策の実施を実現するサービスです。
 
-# テーマ: Firebase ハンズオン
+# Theme: Firebase ハンズオン
 
 ぐんぐん勢いをますFirebase！
 
 毎月のように新しい機能を発表してモバイルアプリの開発は加速してくばかり！
 しっかりとこの流れを掴んで開発を加速していきましょう！
 
-## メンター
+今回は、Firebase Authentication, Firebase Cloud Firestoreの使い方について学んで行きます。
 
-### [1amgeek](https://github.com/1amageek)
+### iOS メンター
 
-iOS
+![](https://pbs.twimg.com/profile_images/982816078702112768/f8pYWLtE_200x200.jpg)
 
-### TBD
+https://twitter.com/1amageek
 
-Android
+### Android メンター
 
-### [nabettu](https://twitter.com/nabettu)
+メンター
+募集中 !
 
-Web
+### Web メンター
+
+![](https://pbs.twimg.com/profile_images/779732732435849216/bObIRYQ2_200x200.jpg)
+
+https://twitter.com/startailall0
 
 # タイムテーブル
 
