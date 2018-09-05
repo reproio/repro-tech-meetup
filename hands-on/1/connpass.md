@@ -15,12 +15,12 @@
 
 # Theme: Firebase ハンズオン
 
-ぐんぐん勢いをますFirebase！
+mBaaSとして利用比重の高まっているFirebase。
+その機能は通知から認証、データストアまで多岐にわたります。
 
-毎月のように新しい機能を発表してモバイルアプリの開発は加速してくばかり！
-しっかりとこの流れを掴んで開発を加速していきましょう！
+そうしたとき、どこまでの機能をbackendとして実装し、どこまでをmBaaSに頼っていくべきなのか知るために、Firebaaseを触っていきましょう！
 
-今回は、Firebase Authentication, Firebase Cloud Firestoreの使い方について学んで行きます。
+今回のHands-onでは、Firebase Authentication, Firebase Cloud Firestoreの使い方について学んでいきます。
 
 ### iOS メンター
 
