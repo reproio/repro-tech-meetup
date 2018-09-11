@@ -1,5 +1,5 @@
-Repro Tech Hands-On
-￣￣￣￣￣￣￣￣￣￣
+Repro Tech Hands-Onとは
+￣￣￣￣￣￣￣￣￣￣￣￣
 ビジネスの変化にキャッチアップするために、モバイルアプリのライフサイクルは短くなる日々。
 それに追随していけるように、モバイルアプリ開発は環境の多様し、本質的ではない部分の外部サービスへの委譲が進んでいます。
 
@@ -7,12 +7,14 @@ Repro Tech Hands-On
 
 Theme: Firebase ハンズオン
 ￣￣￣￣￣￣￣￣￣￣￣￣￣
-ぐんぐん勢いをますFirebase！
+mBaaSとして利用比重の高まっているFirebase。
+その機能は通知から認証、データストアまで多岐にわたります。
 
-毎月のように新しい機能を発表してモバイルアプリの開発は加速してくばかり！
-しっかりとこの流れを掴んで開発を加速していきましょう！
+そうしたとき、どこまでの機能をbackendとして実装し、どこまでをmBaaSに頼っていくべきなのか知るために、Firebaaseを触っていきましょう！
 
-お申込みはこちら
+今回のHands-onでは、Firebase Authentication, Firebase Cloud Firestoreの使い方について学んでいきます。
+
+【お申込みはこちら】
 https://repro-tech.connpass.com/event/98748/
 
 メンター
@@ -20,23 +22,22 @@ https://repro-tech.connpass.com/event/98748/
 
 【iOS】
 
-1amgeek (https://github.com/1amageek)
+- 1amgeek (https://github.com/1amageek)
 
 【Andorid】
 
-メンター、募集しております！
+- メンター、募集しております！
 
 【Web】
 
-https://twitter.com/startailall0
+- https://twitter.com/startailall0
 
 タイムテーブル
 ￣￣￣￣￣￣￣
-
 12:30 : 開場
 13:00 : ハンズオンスタート
 16:00 : 懇親会
 17:00 : 解散
 
-お申込みはこちら
+【お申込みはこちら】
 https://repro-tech.connpass.com/event/98748/
