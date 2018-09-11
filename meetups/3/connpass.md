@@ -11,8 +11,8 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 ### 前回の雰囲気
 
-- [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
+- [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
 # テーマ: CRE
 
@@ -26,17 +26,21 @@ Linkedinが出している [The 20 Most Promising Jobs of 2018](https://business
 
 # 登壇者
 
-### [TBD](https://twitter.com/)
+### [みっさ氏](https://twitter.com/mur_ms_) at [Hatena(makarel)](http://hatenacorp.jp/)
 
-desc...
+![](https://pbs.twimg.com/profile_images/970867499934695424/R0MX1KhJ_200x200.jpg)
 
-### [TBD](https://twitter.com/)
+self introduction(TBA)
 
-desc...
+### [上加世田](https://twitter.com/) at [ARM Tresure Data](https://www.treasuredata.com/)
 
-### [hiroxy](https://twitter.com/hiroxy_)
+self introduction(TBA)
 
-desc...
+### [hiroxy](https://twitter.com/hiroxyy_) at [Repro](https://repro.io)
+
+![](https://pbs.twimg.com/profile_images/713208870118629376/kP-o1mQ5_200x200.jpg)
+
+self introduction(TBA)
 
 # LT
 
@@ -50,10 +54,10 @@ LTを募集します！LT枠で参加される方は、タイトルが決まり�
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | session: TBD 20min
-20:00 | session: TBD 20min
+19:40 | TBD by みっさ氏 さん
+20:00 | TBD by hiroxyさん
 20:20 | 休憩
-20:25 | session: TBD 20min
+20:25 | TBD by 上加世田さん
 20:45 | LT 5min
 20:50 | LT 5min
 21:55 | コンテンツのアンケート

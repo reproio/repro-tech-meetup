@@ -14,6 +14,25 @@ Linkedinが出している [The 20 Most Promising Jobs of 2018](https://business
 
 登壇者
 ￣￣￣
+
+【みっさ氏 at Hatena(makarel)】
+
+https://twitter.com/mur_ms_
+
+self introduction(TBA)
+
+【上加世田 at ARM Tresure Data】
+
+self introduction(TBA)
+
+### [hiroxy](https://twitter.com/hiroxyy_) at [Repro](https://repro.io)
+
+![](https://pbs.twimg.com/profile_images/713208870118629376/kP-o1mQ5_200x200.jpg)
+
+self introduction(TBA)
+
+
+kjp[みっさ氏](https://twitter.com/mur_ms_) at [Hatena(makarel)](http://hatenacorp.jp/)
 【TBD】
 https://twitter.com/
 
