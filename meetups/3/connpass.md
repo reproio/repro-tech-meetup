@@ -26,21 +26,27 @@ Linkedinが出している [The 20 Most Promising Jobs of 2018](https://business
 
 # 登壇者
 
-### [みっさ氏](https://twitter.com/mur_ms_) at [Hatena(makarel)](http://hatenacorp.jp/)
+### [三浦美沙](https://twitter.com/mur_ms_) at [Hatena(makarel)](http://hatenacorp.jp/)
 
 ![](https://pbs.twimg.com/profile_images/970867499934695424/R0MX1KhJ_200x200.jpg)
 
-self introduction(TBA)
+新卒からインフラ開発、保守まわりに携って数年。2018年3月から 株式会社はてな にジョイン。
+SaaS型サーバ監視サービス Mackerel の "Customer Reliability Engineer(CRE)" として、Mackerelユーザのサービスや運用がどうしたらもっとよくなるかについて日々思案中。
 
 ### [上加世田](https://twitter.com/) at [ARM Tresure Data](https://www.treasuredata.com/)
 
-self introduction(TBA)
+![](https://avatars3.githubusercontent.com/u/18205367?s=200&v=4)
+
+2016年にTreasure Dataへ入社し、初日からテクニカル・サポートとして稼働開始。
+DBAの慶暦から若干データベースに関する知識はあるが、基本的に技術力より根性でサポートさせて頂いております。
 
 ### [hiroxy](https://twitter.com/hiroxyy_) at [Repro](https://repro.io)
 
 ![](https://pbs.twimg.com/profile_images/713208870118629376/kP-o1mQ5_200x200.jpg)
 
-self introduction(TBA)
+日本酒が大好きなRepro CRE Leader。
+前職では派遣でサーバサイドエンジニアをやっていたが、その不自由さに嫌気がさしベンチャーに勢いでJOIN!
+Reproに入って仕事とプライベートの境目がわからなくなった男。飲みに誘うと喜びます。
 
 # LT
 
