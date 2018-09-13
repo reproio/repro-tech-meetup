@@ -30,13 +30,15 @@ https://twitter.com/1amageek
 
 ### Android メンター
 
-![](https://pbs.twimg.com/profile_images/1037375281772654592/YnEIXxOv_200x200.jpg)
+![](https://pbs.twimg.com/profile_images/779732732435849216/bObIRYQ2_200x200.jpg)
 
-https://twitter.com/ayubuki
+https://twitter.com/startailall0
 
 ### Web メンター
 
-募集中
+![](https://pbs.twimg.com/profile_images/1037375281772654592/YnEIXxOv_200x200.jpg)
+
+https://twitter.com/ayubuki
 
 # タイムテーブル
 
