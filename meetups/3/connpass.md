@@ -26,19 +26,19 @@ Linkedinが出している [The 20 Most Promising Jobs of 2018](https://business
 
 # 登壇者
 
-### [三浦美沙](https://twitter.com/mur_ms_) at [Hatena(makarel)](http://hatenacorp.jp/)
+### [三浦美沙](https://twitter.com/mur_ms_) at [Hatena(Mackerel)](https://mackerel.io/)
 
 ![](https://pbs.twimg.com/profile_images/970867499934695424/R0MX1KhJ_200x200.jpg)
 
 新卒からインフラ開発、保守まわりに携って数年。2018年3月から 株式会社はてな にジョイン。
 SaaS型サーバ監視サービス Mackerel の "Customer Reliability Engineer(CRE)" として、Mackerelユーザのサービスや運用がどうしたらもっとよくなるかについて日々思案中。
 
-### [上加世田](https://twitter.com/) at [ARM Tresure Data](https://www.treasuredata.com/)
+### [上加世田](https://twitter.com/) at [ARM Treasure Data](https://www.treasuredata.com/)
 
 ![](https://avatars3.githubusercontent.com/u/18205367?s=200&v=4)
 
 2016年にTreasure Dataへ入社し、初日からテクニカル・サポートとして稼働開始。
-DBAの慶暦から若干データベースに関する知識はあるが、基本的に技術力より根性でサポートさせて頂いております。
+DBAの経歴から若干データベースに関する知識はあるが、基本的に技術力より根性でサポートさせて頂いております。
 
 ### [hiroxy](https://twitter.com/hiroxyy_) at [Repro](https://repro.io)
 
@@ -60,7 +60,7 @@ LTを募集します！LT枠で参加される方は、タイトルが決まり�
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBD by みっさ氏 さん
+19:40 | TBD by 三浦美沙 さん
 20:00 | TBD by hiroxyさん
 20:20 | 休憩
 20:25 | TBD by 上加世田さん
