@@ -1,6 +1,6 @@
-## Repro Tech HandsOn
+## Repro Tech Hands-on
 
-![](/meetups/2/images/repro-tech-meetup-banner.png)
+![](/hands-on/2/images/repro-tech-hands-on-colorized.png)
 
 hashtag: `reprotech`
 
@@ -8,65 +8,43 @@ hashtag: `reprotech`
 
 ## What's<br>Repro Tech HandsOn?
 
+モバイルアプリのライフサイクルは短くなる日々。
+
+開発環境は外部サービスも加え複雑怪奇。
 
 ---
 
-## Theme: Mobile App Development
+## Ride the waves
 
+新しい技術やサービスに触れ、特徴を抑え、使い所を見極める機会を作る
 
 ---
 
-## まさに戦国
+## Theme
 
-そんな戦国時代に知恵を共有しあい、サヴァイブして行きましょう！
+今をときめく
+
+# Firebase
 
 ---
 
 ## Facilities
 
-- Wi-Fi（市民権）あります。SSID/PWは前を参照ください
-- ディスプレイ接続用の各種アダプターあります
-- 飲食自由です
+- Wi-Fiあります。SSID/PWは前を参照ください
+- 飲食自由です。1Fにマクドやコンビニがあります
+- 水・コーヒーを自由にお飲みいただけます
 - トイレは会場を出て突き当り左です
 - 喫煙室は9Fです
+- 電源の不足や、空調について何かありましたらお声がけください
 
 ---
 
 ## Attention
 
-- どなたでもイベントの様子を撮影し、ブログやSNSなどで公開可能としています点、ご了承ください
+- どなたでもイベントの様子を撮影し、ブログやSNSなどで公開可能としています
 
 ---
 
-## QA
+## Let's Hand-on
 
-- 各発表後に軽くQAタイムを設けたいと思っています
-- twitterに `#reprotech` hashを使って随時も拾っていきます!
-
-
----
-
-### 早速始めていきましょう！
-
-# カンパーイ
-
-# 🍻🍻🍻
-
----
-
-
----
-
-# 🙏
-
-懇親会準備にお手伝いにご協力ください
-
-1. 椅子を前に寄せて頂く
-2. 食べ物・飲み物のデプロイ
-
----
-
-# カンパーイ
-
-# 🍻🍻🍻
-
+本日の流れを講師の方から!
