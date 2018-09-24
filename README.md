@@ -20,7 +20,16 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 - 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
 - どなたでもイベントの様子を撮影し、ブログやSNSなどで公開可能としています点、ご了承ください
 
-# 開催
+# ToC
 
-1. [README](/meetups/1/README.md) / [PITCH](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/1)
-1. [README](/meetups/2/README.md) / [PITCH](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/2)
+[Meetup](/meetups)
+
+1. [Docker](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/1)
+1. [Android](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/2)
+1. [CRE](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/3)
+1. [AI](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/4)
+
+[Hands-on](/hands-on)
+
+1. [firebase : Authentication and firestore]()
+1. [firebase : Authentication and firestore](https://gitpitch.com/reproio/repro-tech-meetup?p=hands-on/2)
