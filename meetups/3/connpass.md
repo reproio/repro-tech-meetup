@@ -1,3 +1,7 @@
+# Announce
+
+10席増席しました！ on 2018-09-26
+
 # Repro Tech Meetup
 
 Repro Tech Meetupは、スタートアップにおける技術領域での失敗を少しでも防ぐようノウハウを共有することを目的とするミートアップです。
@@ -26,21 +30,21 @@ Linkedinが出している [The 20 Most Promising Jobs of 2018](https://business
 
 # 登壇者
 
-### [三浦美沙](https://twitter.com/mur_ms_) at [Hatena(Mackerel)](https://mackerel.io/)
+### [三浦美沙](https://twitter.com/mur_ms_) from [Hatena(Mackerel)](https://mackerel.io/)
 
 ![](https://pbs.twimg.com/profile_images/970867499934695424/R0MX1KhJ_200x200.jpg)
 
 新卒からインフラ開発、保守まわりに携って数年。2018年3月から 株式会社はてな にジョイン。
 SaaS型サーバ監視サービス Mackerel の "Customer Reliability Engineer(CRE)" として、Mackerelユーザのサービスや運用がどうしたらもっとよくなるかについて日々思案中。
 
-### [上加世田](https://twitter.com/) at [ARM Treasure Data](https://www.treasuredata.com/)
+### [上加世田](https://twitter.com/) from [ARM Treasure Data](https://www.treasuredata.com/)
 
 ![](https://avatars3.githubusercontent.com/u/18205367?s=200&v=4)
 
 2016年にTreasure Dataへ入社し、初日からテクニカル・サポートとして稼働開始。
 DBAの経歴から若干データベースに関する知識はあるが、基本的に技術力より根性でサポートさせて頂いております。
 
-### [hiroxy](https://twitter.com/hiroxyy_) at [Repro](https://repro.io)
+### [hiroxy](https://twitter.com/hiroxyy_) from [Repro](https://repro.io)
 
 ![](https://pbs.twimg.com/profile_images/713208870118629376/kP-o1mQ5_200x200.jpg)
 
@@ -50,9 +54,13 @@ Reproに入って仕事とプライベートの境目がわからなくなった
 
 # LT
 
-LTを募集します！LT枠で参加される方は、タイトルが決まり次第、connpass feedへ投稿ください。
+### [kotakanbe](https://twitter.com/kotakanbe) from [Vuls](https://vuls.biz/)
 
-1. TBD
+![](https://avatars3.githubusercontent.com/u/534611?s=200&v=4)
+
+### [Yoji Watanabe](https://twitter.com/aqeuefem) from [CYBER SECURITY CLOUD](https://www.cscloud.co.jp/)
+
+![](https://pbs.twimg.com/profile_images/1460475397/P1050127s_200x200.jpg)
 
 # タイムテーブル
 
@@ -63,9 +71,9 @@ LTを募集します！LT枠で参加される方は、タイトルが決まり�
 19:40 | TBD by 三浦美沙 さん
 20:00 | TBD by hiroxyさん
 20:20 | 休憩
-20:25 | TBD by 上加世田さん
-20:45 | LT 5min
-20:50 | LT 5min
+20:25 | Treasure Data Supportの担っているCRE的な仕事とは！？ by 上加世田さん
+20:45 | LT 5min by katakanbeさん
+20:50 | LT 5min by Yoji Watanabe
 21:55 | コンテンツのアンケート
 21:00 | 懇親会
 22:00 | 解散
