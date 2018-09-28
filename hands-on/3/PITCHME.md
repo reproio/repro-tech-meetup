@@ -14,6 +14,18 @@ hashtag: `reprotech`
 
 ---
 
+## Host
+
+Edward Fox
+
+<img src="https://user-images.githubusercontent.com/1957801/46199659-91728d80-c34a-11e8-925c-bbaf4e6cdff6.jpg" width="240">
+
+- Webエンジニア @Repro
+- Rails, AWS, Web SDK開発
+- PWAとかHTTP/2とか
+
+---
+
 ## Ride the waves
 
 新しい技術やサービスに触れ、特徴を抑え、使い所を見極める機会を作る
