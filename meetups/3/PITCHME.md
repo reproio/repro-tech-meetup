@@ -54,9 +54,19 @@ CRE, CSに限らず、 *テクニカルサポートやサポートエンジニ�
 
 ## Presenters
 
+- TBA
+  - by 三浦美沙
+- SaaS SubscriptionにおけるCREのミッションから紐解くRepro CREの役割とKPI 
+  - by hiroxy
+- Treasure Data Supportの担っているCRE的な仕事とは！？
+  - by 上加世田
+
 ---
 
 ## LTs
+
+- katakanbe
+- Yoji Watanabe
 
 ---
 
@@ -70,7 +80,7 @@ CRE, CSに限らず、 *テクニカルサポートやサポートエンジニ�
 
 ## アンケート
 
-👉　[slido.com](https://app2.sli.do/event/mgji6ugr/polls) #W018
+👉　`#reprotech` hash をつけて今度はこんな話聞きたい！というのをツイートください
 
 ---
 
