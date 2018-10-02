@@ -1,6 +1,6 @@
 ## Repro Tech Meetup #3
 
-![](/meetups/3/images/repro-tech-meetup-banner.png)
+![](/meetups/3/images/cre-01.png)
 
 hashtag: `reprotech`
 
@@ -17,15 +17,15 @@ hashtag: `reprotech`
 
 ## Theme: CRE
 
-いかなるSaaS serviceもコモディティ化していきます。
-特にB2B領域のSaaS service にその傾向は顕著です。
+いかなるSaaS serviceもコモディティ化
 
-そうしたときに残る差別化要因は、カスタマーサクセス (CS: customer success) です。
-Linkedinが出している [The 20 Most Promising Jobs of 2018](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2018/the-20-most-promising-jobs-of-2018) からも、カスタマーサクセス領域がいかに注目されているかわかります。
+特にB2B領域のSaaS service にその傾向は顕著
 
-CRE, CSに限らず、 *テクニカルサポートやサポートエンジニアなど急成長するカスタマーサクセス領域に関わるエンジニア* で集まり、その工夫や経験を共有します！
+---
 
-そこで、今回は「CRE, CSに関わるエンジニアは今、何を大事にしていて、どんなことに注力しているのか？」などを聞いていきます！
+## 差別化はCSしかない!
+
+カスタマーサクセス領域に関わるエンジニアで集まり、その工夫や経験を共有しましょう！
 
 ---
 
@@ -48,7 +48,7 @@ CRE, CSに限らず、 *テクニカルサポートやサポートエンジニ�
 ## QA
 
 - 各発表後に軽くQAタイムを設けたいと思っています
-- twitterに `#reprotech` hashをつけてください
+- twitterに `#reprotech` hashをつけて随時質問ください
 
 ---
 
