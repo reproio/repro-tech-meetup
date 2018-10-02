@@ -49,18 +49,22 @@
 subject: Repro Tech Meetup #<num> <theme>
 To: Event Admins, Presenter, Attendees, Waitlist
 Body:
-この度は明日開催のRepro Tech Meetupへご応募頂きまして、誠にありがとうございます。
-明日の開場は19時です。
+この度はRepro Tech Meetupへご応募頂きありがとうございます！
+開始スケジュールや場所は以下のとおりです。
+
+## 開場・開始
 
 開場: 19:00
 スタート: 19:30
 
-場所: 東京都渋谷区代々木1丁目36-4 全理連ビル 6階
+## 場所
+
+東京都渋谷区代々木1丁目36-4 全理連ビル 6階
 google map: https://goo.gl/maps/t7NtRv4rUv92
 
-また、LTされる方はテーマをconnpass feedに投稿いただけると助かります。
+LTされる方はテーマをconnpass feedに投稿いただけると嬉しいです。
 
-それではイベントでお会い出来ることを楽しみにしています。
+それではイベントでお会い出来ることを楽しみにしています✨
 ```
 
 ## イベント当日の作業

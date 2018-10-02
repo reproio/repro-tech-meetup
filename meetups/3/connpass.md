@@ -6,7 +6,8 @@ LT枠: 2 FCFS
 
 # Announce
 
-10席増席しました！ on 2018-09-26
+- 10席増席しました！ on 2018-09-28
+- 10席増席しました！ on 2018-09-26
 
 # Repro Tech Meetup
 
@@ -74,13 +75,13 @@ Reproに入って仕事とプライベートの境目がわからなくなった
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBD by 三浦美沙 さん
+19:40 | Mackerel CRE チームの KPI by 三浦美沙 さん
 20:00 | SaaS SubscriptionにおけるCREのミッションから紐解くRepro CREの役割とKPI by hiroxyさん
 20:20 | 休憩
 20:25 | Treasure Data Supportの担っているCRE的な仕事とは！？ by 上加世田さん
-20:45 | LT 5min by katakanbeさん
-20:50 | LT 5min by Yoji Watanabe
-21:55 | コンテンツのアンケート
+20:45 | TBA 5min by katakanbeさん
+20:50 | TBA 5min by Yoji Watanabe
+20:55 | コンテンツのアンケート
 21:00 | 懇親会
 22:00 | 解散
 

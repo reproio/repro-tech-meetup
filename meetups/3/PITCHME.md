@@ -54,9 +54,9 @@ CRE, CSに限らず、 *テクニカルサポートやサポートエンジニ�
 
 ## Presenters
 
-- TBA
+- Mackerel CRE チームの KPI
   - by 三浦美沙
-- SaaS SubscriptionにおけるCREのミッションから紐解くRepro CREの役割とKPI 
+- SaaS SubscriptionにおけるCREのミッションから紐解くRepro CREの役割とKPI
   - by hiroxy
 - Treasure Data Supportの担っているCRE的な仕事とは！？
   - by 上加世田
@@ -80,7 +80,7 @@ CRE, CSに限らず、 *テクニカルサポートやサポートエンジニ�
 
 ## アンケート
 
-👉　`#reprotech` hash をつけて今度はこんな話聞きたい！というのをツイートください
+👉　`#reprotech` hash をつけてこんな話聞きたい！というのをツイートください
 
 ---
 
