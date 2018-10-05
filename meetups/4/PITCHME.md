@@ -1,6 +1,6 @@
 ## Repro Tech Meetup #4
 
-![](/meetups/3/images/banner.png)
+![](/meetups/4/images/banner.png)
 
 hashtag: `reprotech`
 
