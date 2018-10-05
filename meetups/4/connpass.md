@@ -1,3 +1,5 @@
+![](/meetups/4/images/banner.png)
+
 - 日程: 2018-11-06(Tue) 19:30-22:30
 - 参加者枠: 30~50 FCFS
 - LT枠: 2 FCFS
