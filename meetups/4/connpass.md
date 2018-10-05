@@ -1,8 +1,6 @@
-+++
-日程: 2018-11-06(Tue) 19:30-22:30
-参加者枠: 30~50 FCFS
-LT枠: 2 FCFS
-+++
+- 日程: 2018-11-06(Tue) 19:30-22:30
+- 参加者枠: 30~50 FCFS
+- LT枠: 2 FCFS
 
 # Repro Tech Meetup
 
@@ -17,7 +15,7 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 ### 前回の雰囲気
 
-- [Repro Tech Meetup #3 CRE](https://togetter.com/li/)
+- [Repro Tech Meetup #3 CRE](https://togetter.com/li/1272696)
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
@@ -41,20 +39,26 @@ AIを利用したサービス開発は日々行われています。
 
 # 登壇者
 
-### [TBA]() from []()
+### [Jun Harashima](http://jun-harashima.net/) from [cookpad](https://info.cookpad.com/)
 
 ![]()
 
 TBA
 
-### [中山心太 a.k.a tokoroten](https://twitter.com/tokoroten) from [NextInt]()
+### [Kazuya Gokita a.k.a kazoo](https://twitter.com/kazoo04) from [Usagee](https://usagee.co.jp/)
+
+![](https://pbs.twimg.com/profile_images/900994885745991682/bDt-vKBW_200x200.jpg)
+
+TBA
+
+### [Shinta Nakayama a.k.a tokoroten](https://twitter.com/tokoroten) from [NextInt](), Repro AI Labs技術顧問
 
 ![](https://pbs.twimg.com/profile_images/503531956676476928/mjRjMe3q_200x200.png)
 
 電気通信大学大学院電気通信学研究科博士前期課程修了。通信会社の研究所や、ソーシャルゲーム会社を経て2017年から株式会社NextInt代表。
 著書に『仕事ではじめる機械学習』（共著、オライリー、2018年）、『キズナアイ 1st写真集 AI』（寄稿、KADOKAWA、2018年）など。ブログは「ところてん – Medium」。
 
-### [今井太宗 a.k.a taison](https://twitter.com/taison124) from [Repro](https://repro.io)
+### [Taiso Imai a.k.a taison](https://twitter.com/taison124) from [Repro](https://repro.io)
 
 ![](https://pbs.twimg.com/profile_images/717179074884403200/244N6MYy_200x200.jpg)
 
@@ -62,28 +66,19 @@ TBA
 WEBエンジニアとしてマーケティング機能や分散処理基盤を利用した機能の開発に従事。
 2018年7月、よりデータ分析・機械学習にフォーカスしたチーム「Repro AI Labs」を立ち上げ、さらなる付加価値を提供するべく奮闘中。
 
-# LT
-
-LTを募集します！
-LT枠で参加される方は、タイトルが決まり次第、connpass feedへ投稿ください。
-
-1. TBD
-1. TBD
-
 # タイムテーブル
 
 時間  | 内容
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBD by 中山心太
-20:00 | TBD by 今井太宗
+19:40 | TBA by Jun Harajima
+20:00 | TBA by tokoroten
 20:20 | 休憩
-20:25 | TBD
-20:45 | LT 5min
-20:50 | LT 5min
-20:55 | コンテンツのアンケート
-21:00 | 懇親会
+20:25 | TBA by taison
+20:45 | TBA by Kazoo
+21:05 | アンケート
+21:10 | 懇親会
 22:00 | 解散
 
 # 会場
