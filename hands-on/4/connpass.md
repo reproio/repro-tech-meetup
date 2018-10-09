@@ -4,11 +4,6 @@
 変化の流れについていくのは大変ですが、数年前まで複数人で頑張って対応していたような作業がすんなり片付いてしまったり
 今、知っておくべき知識をこのHands-onで勉強していきましょう。
 
-### 過去のRepro Tech Meetup/Hands-onの雰囲気
-
-- [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
-- [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
-
 [Repro](https://repro.io) は、5,000以上の世界中にあるアプリに利用されるマーケティングオートメーションツールを提供する会社です。
 数千万DAUを優に超えるユーザーの行動ログを処理し、柔軟な分析ワークロードを実現。さらには毎日億を超えるpush配信などのマーケティン施策の実施を実現するサービスです。
 
