@@ -43,29 +43,34 @@ AIを利用したサービス開発は日々行われています。
 
 ### [Jun Harashima](http://jun-harashima.net/) from [cookpad](https://info.cookpad.com/)
 
-![]()
+![](https://avatars3.githubusercontent.com/u/951249?s=200&v=4)
 
-TBA
+2013 年 3 月、京都大学黒橋・河原研究室にて情報学の博士を取得。同年 4 月、クックパッド株式会社に入社。
 
-### [Kazuya Gokita a.k.a kazoo](https://twitter.com/kazoo04) from [Usagee](https://usagee.co.jp/)
+サービス開発部門を経て、現在は研究開発部門に所属。主に自然言語処理関連の研究開発（レシピの解析や検索、分類、推薦、翻訳）や研究開発部門のマネージメント（採用や広報、法務、経理）に従事。
+
+### [Kazuya Gokita a.k.a kazoo](https://twitter.com/kazoo04) from [Usagee](https://usagee.co.jp/), [テグザム](http://www.texam.co.jp/)
 
 ![](https://pbs.twimg.com/profile_images/900994885745991682/bDt-vKBW_200x200.jpg)
 
-TBA
+2011年千葉工業大学卒業。大学では機械学習、画像認識など人工知能関連技術の研究を行う。
 
-### [Shinta Nakayama a.k.a tokoroten](https://twitter.com/tokoroten) from [NextInt](), Repro AI Labs技術顧問
+2012年株式会社ウサギィに入社。Web、スマートフォンアプリケーション開発をはじめとして、自然言語処理、画像認識エンジン開発などを行っている。現在は株式会社ウサギィの役員、テグザム株式会社のCTOを務める。著書に「コンピューターで『脳』がつくれるか」がある。
+
+### [Shinta Nakayama a.k.a tokoroten](https://twitter.com/tokoroten) from [NextInt](), Repro AI Labs 顧問
 
 ![](https://pbs.twimg.com/profile_images/503531956676476928/mjRjMe3q_200x200.png)
 
 電気通信大学大学院電気通信学研究科博士前期課程修了。通信会社の研究所や、ソーシャルゲーム会社を経て2017年から株式会社NextInt代表。
+
 著書に『仕事ではじめる機械学習』（共著、オライリー、2018年）、『キズナアイ 1st写真集 AI』（寄稿、KADOKAWA、2018年）など。ブログは「ところてん – Medium」。
 
 ### [Taiso Imai a.k.a taison](https://twitter.com/taison124) from [Repro](https://repro.io)
 
 ![](https://pbs.twimg.com/profile_images/717179074884403200/244N6MYy_200x200.jpg)
 
-2016年1月にRepro株式会社に入社。
-WEBエンジニアとしてマーケティング機能や分散処理基盤を利用した機能の開発に従事。
+2016年1月にRepro株式会社に入社。WEBエンジニアとしてマーケティング機能や分散処理基盤を利用した機能の開発に従事。
+
 2018年7月、よりデータ分析・機械学習にフォーカスしたチーム「Repro AI Labs」を立ち上げ、さらなる付加価値を提供するべく奮闘中。
 
 # タイムテーブル
@@ -78,7 +83,7 @@ WEBエンジニアとしてマーケティング機能や分散処理基盤を�
 20:00 | TBA by tokoroten
 20:20 | 休憩
 20:25 | TBA by taison
-20:45 | TBA by Kazoo
+20:45 | TBA by kazoo
 21:05 | アンケート
 21:10 | 懇親会
 22:00 | 解散

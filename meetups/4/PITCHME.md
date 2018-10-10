@@ -56,9 +56,9 @@ AI開発を支える機械学習・DeepLearning・前処理のためのエコシ
 - TBA
   - Jun Harashima , Cookpad研究開発部部長
 - TBA
-  - Kazuya Gokita (kazoo), Usagee
+  - Kazuya Gokita (kazoo), Usagee, テグザム
 - TBA
-  - Shinta Nakayama (tokoroten), Repro AI Labs技術顧問
+  - Shinta Nakayama (tokoroten), NextInt, Repro AI Labs技術顧問
 - TBA
   - Tiaso Imai (taison), Repro AI Labs所長
 

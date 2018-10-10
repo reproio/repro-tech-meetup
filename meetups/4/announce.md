@@ -8,8 +8,8 @@ https://repro-tech.connpass.com/event/104028/
 Speakers
 ￣￣￣￣
 - Jun Harashima , Cookpad研究開発部部長
-- Kazuya Gokita (kazoo), Usagee
-- Shinta Nakayama (tokoroten), Repro AI Labs技術顧問
+- Kazuya Gokita (kazoo), Usagee, テグザム
+- Shinta Nakayama (tokoroten), NextInt, Repro AI Labs技術顧問
 - Tiaso Imai (taison), Repro AI Labs所長
 
 よろしければぜひご参加ください
