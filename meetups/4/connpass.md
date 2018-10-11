@@ -79,7 +79,7 @@ AIを利用したサービス開発は日々行われています。
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBA by Jun Harajima
+19:40 | TBA by Jun Harashima
 20:00 | TBA by tokoroten
 20:20 | 休憩
 20:25 | TBA by taison
