@@ -22,14 +22,14 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 # ToC
 
-[Meetup](/meetups)
+### [Meetup](/meetups)([workflow](/meetups/ORGANIZE.md))
 
 1. [Docker](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/1)
 1. [Android](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/2)
 1. [CRE](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/3)
 1. [AI](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/4)
 
-[Hands-on](/hands-on)
+### [Hands-on](/hands-on)([workflow](/hands-on/ORGANIZE.md))
 
 1. [firebase : Authentication and firestore]()
 1. [firebase : Authentication and firestore](https://gitpitch.com/reproio/repro-tech-meetup?p=hands-on/2)

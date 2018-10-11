@@ -1,34 +1,52 @@
-# オーガナイザーのお仕事
+# Hands-on organize workflow
 
-## コンテンツの準備
+本templateを元に実施のissueを作成し、進捗を管理する。
+
+# Template
+
+## Prepare contents
 
 - [ ] hands-on themeの決定
-- [ ] イベント用バナー(660*270px)の作成依頼
-- [ ] 社外の有識者およびReproからメンターの依頼
-- [ ] メンターの都合と時間に合わせ、開催日の決定。（3H以上かかる場合は土日を推奨）
-- [ ] kick-off (15min) on video chat
-  - 目的やテーマについての意識合わせ、開催に伴う懸念点の払拭
-
-## イベント公募準備
-
-- [ ] github上に前回のKPTを反映した `hands-on/<num>/README.md, PITCHME.md, PITCHME.yaml` を作成
-- [ ] 上記README.md を反映したconnpassの公募
-  - 留意点
+- [ ] hands-on案(`hands-on/<num>/connpass.md`) を作成し、詳細を詰める
     - Reproの会場の場合募集は最大で30名程度
     - 10名に一人のメンターがつけるのが理想
-    - 内包規模に合わせてハンズオンの時間考慮
-- [ ] 社内エンジニアへのイベント参加、受付、設営などの協力者を決定
+    - 集まりを鑑み、connpassの開始時間はスタートより15min程度早めにしておく
+- [ ] hands-on案をもとに1名以上のメンター依頼を実施
+- [ ] イベント用バナー(660*270px)の作成依頼
+- [ ] Mentorの都合と時間に合わせ、土日(可能であれば日曜)で開催日の決定
 
-## イベント1W前
+## Publish Event
 
-- [ ] メンターに導入とハンズオンの詳細進め方の認識を合わせる
-- [ ] 会場キャパシティ的に人が入りそうであれば、必要に応じて増枠し、再告知する
+最低でも開催2W前に公開すること
 
-## イベント前日
+- [ ] メンターより自己紹介文(twitterのbio程度の長さ)とプロフィール画像(github, twitter画像の参照でも可能)を回収
+- [ ] connpassへ公開準備を行い、memterに最終チェックを依頼。期間は1日程度設ける。
+- [ ] メンターとmeetingを行い、hands-onプログラムの方向性を決定する
+- [ ] [Repro Tech connpass](https://repro-tech.connpass.com/)の公開
+
+## Promotion
+
+- [ ] announce.md, meetup.md, wantedly.mdなどのプロモーション資料の準備
+- [ ] [Repro meetup group event](https://www.meetup.com/reproio/)
+- [ ] [Repro wantedly feed](https://www.wantedly.com/companies/repro/feed)
+- [ ] [Repro linkedin](https://www.linkedin.com/company/repro-inc-/)
+- [ ] [Repro facebook group event](https://www.facebook.com/pg/reproio/events/)
+- [ ] [Repro connpass group message](https://repro.connpass.com/)
+- [ ] PR担当にtrelloより依頼 / [Repro facebook group](https://www.facebook.com/reproio/), Repro slack, [reproio twitter](https://twitter.com/reproio?lang=en)
+- [ ] Mentorにtwitter, facebookなどのSNSでの拡散
+
+## 1 week before
+
+- [ ] 必要に応じて増枠し、再告知する
+- [ ] Hands-on プログラムの詳細が決まっていない場合は、Menter含め最終調整
+- [ ] 前回のKPTも活かしたintrocution資料の準備
+
+## 1 day before
 
 - [ ] connpassより以下メッセージを送る
-- [ ] ビール(1.5本/人)・酎ハイ(0.5本/人)の発注
-- [ ] 乾き物(ハッピーターン、柿ピー、パイの実、コアラ、和菓子盛り合わせ的なものなど)の発注ないし調達
+- 在庫状況に応じて以下を実施
+    - [ ] ビール(1.5本/人)・酎ハイ(0.5本/人)の発注
+    - [ ] 乾き物(ハッピーターン、柿ピー、パイの実、コアラ、和菓子盛り合わせ的なものなど)の発注ないし調達
 
 ```txt
 subject: Repro Tech Hands-on #<num> <theme>
@@ -37,32 +55,39 @@ Body:
 この度は明日開催のRepro Tech Hands-onへご応募頂きまして、誠にありがとうございます。
 明日の開場は12時30分です。
 
+## 開場・開始
+
 開場: 12:30
 スタート: 13:00
 
-場所: 東京都渋谷区代々木1丁目36-4 全理連ビル 6階
-マップを開く: https://goo.gl/maps/t7NtRv4rUv92
+## 場所
 
-それではイベントでお会い出来ることを楽しみにしています。
-お気をつけていらっしゃってください。
+東京都渋谷区代々木1丁目36-4 全理連ビル 6階
+google map: https://goo.gl/maps/t7NtRv4rUv92
+
+それではイベントでお会い出来ることを楽しみにしています✨
 ```
 
 ## イベント当日の作業
 
 - [ ] 開場30min前に会場設営
-  - [ ] 机の配置はカテゴリーや参加者のスキルを考慮する
-- [ ] 導入
+    - 机の配置はカテゴリーや参加者のスキルを考慮しグループ化する
+    - 人数が少ないときは複数のデスクをくっつけ、多きグループを作るとコミュニケーションが活発になる
+    - カテゴリごとにgrouping(iOS, Androidなど)する場合は、ホワイトボードに各グループの座席配置を書いておくと案内に迷わなくて良い
+- [ ] ReproよりRepro Tech Hands-onの概要説明
     - Repro Techの概要説明
     - Hands-onのテーマの説明
     - タイムテーブル・進行の説明
     - メンターの紹介
-    - 人数が少ない場合は、全員で自己紹介・多い場合は机単位で自己紹介
-- [ ] スタート後、ピザを発注(5名/枚)
-- [ ] 一区切りついたタイミング、応用編に移行
-  - 応用編に入る前に乾杯
-- [ ] 懇親会は5グループくらいに別れるようする。
-- [ ] 終了・解散前に#ReproTechにて感想をツイートしてもらう
-
+    - 自己紹介
+        - 20名以下ときは、全体で実施
+        - 20名超過のときは、机やgroupごとに実施
+- [ ] Mentorよりprogramの説明
+- [ ] hands-onのプログラム終了1h前からお酒を振る舞うようにする
+- [ ] 懇親会
+    - 立食形式
+    - テーブル２つ程度に軽食を展開
+- [ ] 懇親会終了前に `#reprotech` にて感想tweetを依頼
 
 ## イベント終了後
 
