@@ -1,4 +1,9 @@
-Repro Tech Meetup #4 AI
+- title: Repro Tech Meetup #4 AI実戦投入
+- Facebook Event
+  - Category: other
+  - Location: 全理連ビル
+  - Keyword: none
+  - Ticket URL: https://repro-tech.connpass.com/event/104028/
 
 Theme: AI
 ￣￣￣￣￣
