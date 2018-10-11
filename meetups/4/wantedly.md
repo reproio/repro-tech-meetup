@@ -40,7 +40,7 @@ https://repro-tech.connpass.com/event/104028/
 
 ## 登壇者
 
-### [Jun Harashima](http://jun-harashima.net/) from [cookpad](https://info.cookpad.com/)
+### [Jun Harashima](http://jun-harashima.net/) from [Cookpad](https://info.cookpad.com/)
 
 ![](https://avatars3.githubusercontent.com/u/951249?s=200&v=4)
 
