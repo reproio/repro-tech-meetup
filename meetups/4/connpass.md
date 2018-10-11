@@ -1,5 +1,6 @@
 ![](/meetups/4/images/banner.png)
 
+- title: Repro Tech Meetup #4 AI実戦投入
 - 日程: 2018-11-06(Tue) 19:30-22:30
 - 登壇時間: Presentation 15-17min + QA 3-5min
 - 参加者枠: 30~50 FCFS
