@@ -1,7 +1,7 @@
 ![](/hands-on/4/images/banner.png)
 
 - title: Repro Tech Hands-on : kubernates
-- 日程: 2018-11-21(Sun) 13:00-17:00
+- 日程: 2018-10-28(Sun) 13:00-17:00
 - 参加者枠: 30 FCFS
 
 # Repro Tech Hands-On
