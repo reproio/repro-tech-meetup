@@ -1,8 +1,8 @@
 ![](/hands-on/4/images/banner.png)
 
-- title: Repro Tech Hands-on : kubernates
+- title: Repro Tech Hands-on : Kubernetes
 - 日程: 2018-10-28(Sun) 13:00-17:00
-- 参加者枠: 30 FCFS
+- 参加者枠: 35 FCFS (歩留まり: 80%)
 
 # Repro Tech Hands-On
 
@@ -19,7 +19,13 @@ Repro Techでは、技術のキャッチアップのお手伝いができるよ�
 
 そんなKubernetesですが、学習コストが高いことでも有名です。
 
-そこで今回は、Kubernetesをhands-onを通して、学習の壁を乗り越えていきます！
+そこで、以下のようなhands-onを通してKubernetes学習の壁を乗り越えていきましょう！
+
+1. kuberntesの概念
+1. Kubernetesの各種リソース
+1. nginxをkubernetes上にdeploy
+1. gitlabをkubernetes上にdeploy
+1. Kubernetesの監視
 
 # メンター
 
@@ -27,7 +33,11 @@ Repro Techでは、技術のキャッチアップのお手伝いができるよ�
 
 ![](https://pbs.twimg.com/profile_images/648656587393904640/PNUMGTeS_400x400.png)
 
-TBA
+某日系SI企業から某外資SI企業勤務。Microsoft パッケージ製品の導入からキャリアをスタート。
+ここ数年は、AWS/Azureのインフラ構築を手掛けている。
+
+技術としてはKubernetes, Golang, GCP, Istioの動向には注目している。
+AWS 認定ソリューションアーキテクト プロフェッショナル。
 
 # タイムテーブル
 
