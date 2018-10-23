@@ -24,7 +24,7 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
-# テーマ: Frontend Reliablity
+# テーマ: Frontend Reliability
 
 常に流行の技術を把握しながら、必要に応じてプロダクトに取り入れていくことはとても大事です。
 その反面、流行のアーキテクチャや技術にばかり目がいってしまい、サービスとしての信頼性や品質を後回しにしていませんか？
