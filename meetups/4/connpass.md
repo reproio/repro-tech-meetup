@@ -6,6 +6,12 @@
 - 参加者枠: 30~50 FCFS
 - LT枠: 0
 
+# Announce
+
+- 2018-10-26. 25席増枠しました! 合わせて場所が **AWS Loftに変更**となりましたのでご注意ください！
+- 2018-10-20. 10席増枠しました!
+- 2018-10-16. 10席増枠しました!
+
 # Repro Tech Meetup
 
 Repro Tech Meetupは、スタートアップにおける技術領域での失敗を少しでも防ぐようノウハウを共有することを目的とするミートアップです。
@@ -92,23 +98,29 @@ AIを利用したサービス開発は日々行われています。
 
 # 会場
 
-Repro株式会社 イベントスペース
+AWS Loft Tokyo
 
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-event-space.png?raw=true)
+**AWSさんご厚意によって今回特別にお貸しいただけることになりました!**
+
+https://aws.amazon.com/jp/start-ups/loft/tokyo/
+
+![](https://d1.awsstatic.com/Startups/Loft%20Photos/tokyo/Japan_Loft_1600x672.7893d8686e3afd657ce9513cdb37cb2584bc7a7b.png)
 
 ### 設備
 
 - Wi-Fiあります
 - ディスプレイ接続用の各種アダプターの準備あります
-- トイレは会場を出て突き当り左にあります
-- 喫煙室は9Fにあります。喫煙者の方はご利用ください
+- 飲食自由です
 
 ### アクセス
 
-JR代々木駅北口改札を出て目の前のビルです。
-1Fにマクドナルドがあります。
+アマゾン新目黒オフィス（目黒セントラルスクエア）17F
 
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-access-1.png?raw=true)
+〒 141-0021　東京都品川区上大崎 3-1-1
+
+JR 山手線、東京メトロ南北線、都営三田線、東急目黒線「目黒駅」より徒歩 1 分
+
+![](https://d1.awsstatic.com/Startups/Loft%20Photos/tokyo/photo6.0851f9d9db5876b99ac9b7a8dc6adcba15f0f638.jpg)
 
 # 注意事項
 
