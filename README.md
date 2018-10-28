@@ -34,3 +34,5 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 1. [firebase : Authentication and firestore]()
 1. [firebase : Authentication and firestore](https://gitpitch.com/reproio/repro-tech-meetup?p=hands-on/2)
 1. [firebase : Authentication and firestore](https://gitpitch.com/reproio/repro-tech-meetup?p=hands-on/3)
+1. [kubernetes](https://gitpitch.com/reproio/repro-tech-meetup?p=hands-on/4)
+1. [reactnative](https://gitpitch.com/reproio/repro-tech-meetup?p=hands-on/5)
