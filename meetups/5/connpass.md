@@ -42,17 +42,37 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 # 登壇者
 
-### []() from []()
+### [Taketoshi Aono a.k.a brn](https://twitter.com/brn227)
 
-![]()
+![](https://pbs.twimg.com/profile_images/834382462968963072/xT8Yyryx_200x200.jpg)
 
-TBA
+サイバーエージェントでWEBフロントエンドエンジニア・POをやってます。
 
-### [](https://twitter.com/) from [Repro](https://repro.io)
+Google V8 javascript engineのコントリビューターです。
+言語処理系の話が好きです。
 
-![]()
+### [Kazuya Kawaguchi a.k.a Kazupon](https://twitter.com/kazu_pon)
 
-TBA
+![](https://pbs.twimg.com/profile_images/495572844864999424/PcVaqUeq_200x200.png)
+
+Vue.jsコアチームメンバ。
+
+OSS活動に関わりながら日本のVue.js日本ユーザーグループの代表としてコミュニティの運営活動をしている。
+i18n enthusiastとしてvue-i18nなどi18n周りを何とかしたいと思っている。
+
+Webフロントエンド技術以外に，関心のあるWebAssemblyなどの最新Web技術動向も追いかけている。
+フルタイムOSS開発者としての活動を模索中。
+
+### [cheezenaan](https://twitter.com/cheezenaan) from [Repro](https://repro.io)
+
+![](https://pbs.twimg.com/profile_images/1020597565786533888/2h27LiIY_200x200.jpg)
+
+お酒と物語が好きな Web エンジニア。
+
+Repro には 2018 年 8 月から入社以降マーケティング機能のUX改善に携わり、現在はReproのWeb対応を進めるべくSDK開発に従事。
+プライベートではReact.js+TypeScriptをさわることが多いです。
+
+マイブームは『リズと青い鳥』。
 
 # タイムテーブル
 
@@ -60,10 +80,10 @@ TBA
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBA by -
-20:00 | TBA by -
+19:40 | TBA by brn
+20:00 | TBA by cheezenaan
 20:20 | 休憩
-20:25 | TBA by -
+20:25 | TBA by kazupon
 20:45 | LT * 2
 20:55 | アンケート
 21:00 | 懇親会
