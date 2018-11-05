@@ -87,11 +87,11 @@ AIを利用したサービス開発は日々行われています。
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBA by Jun Harashima
-20:00 | TBA by tokoroten
+19:40 | AI 部門の実戦投入 by Jun Harashima
+20:00 | AIで改善可能なものは何か by tokoroten
 20:20 | 休憩
-20:25 | TBA by taison
-20:45 | TBA by kazoo
+20:25 | 最速で AI 機能をリリースする技術 by taison
+20:45 | 実務(仕事)で機械学習やりたいときの障壁やコツ by kazoo
 21:05 | アンケート
 21:10 | 懇親会
 22:00 | 解散

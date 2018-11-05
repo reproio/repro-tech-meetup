@@ -1,21 +1,67 @@
 ## Repro Tech Meetup #4
+### supported by AWS
 
 ![](/meetups/4/images/banner.png)
 
-hashtag: `reprotech`
+### hashtag: [`reprotech`](https://twitter.com/hashtag/reprotech)
+
+---
+
+# こんにちわ！
+
+---
+
+## Who
+
+[@threetreeslight](https://twitter.com/threetreeslight)
+
+![](https://avatars3.githubusercontent.com/u/1057490?s=200&v=4)
+
+- VP of Engineering at [Repro](https://repro.io)
+- 最近は人事部長やEventおじさんと揶揄されます 😇
 
 ---
 
 ## What's<br>Repro Tech Meetup?
 
-スタートアップにおける失敗を少しでも防ぎたい!!
+スタートアップにおける失敗を少しでも防ぎたい!
 
 1. Reproを支える技術やノウハウを共有
 1. ゲストを呼びReproで利用する・している技術について学ぶ
+---
+
+# What's Repro?
 
 ---
 
-## Theme: AI
+## Web/App MA tool
+
+
+![](/assets/images/repro-service.png)
+
+---
+
+## サービスの成長を支援
+
+- 月間数千億イベントのデータを処理
+- AIでユーザーを自動セグメント
+- 毎日数億のプッシュなどの施策を配信
+
+---
+
+グローバルで
+
+### とりあえずReproいれとこ
+
+を目指してます
+
+---
+
+# 本日のテーマ
+
+---
+
+## AI実戦投入
 
 AI開発を支える機械学習・DeepLearning・前処理のためのエコシステムは日々拡充され、その技術は早くもコモディティ化しはじめている
 
@@ -28,13 +74,18 @@ AI開発を支える機械学習・DeepLearning・前処理のためのエコシ
 そんなAIの実戦投入に関わる苦悩や工夫を共有し、実践的なAI利用についての知見を深めていきましょう！ 
 ---
 
+## 会場スポンサー
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2000px-Amazon_Web_Services_Logo.svg.png)
+
+
+---
+
 ## Facilities
 
-- Wi-Fi（市民権）あります。SSID/PWは前を参照ください
-- ディスプレイ接続用の各種アダプターあります
+- SSID/PWはお手元のものを参照ください
 - 飲食自由です
-- トイレは会場を出て突き当り左です
-- 喫煙室は9Fです
+- トイレは会場外にあります
 
 ---
 
@@ -46,21 +97,21 @@ AI開発を支える機械学習・DeepLearning・前処理のためのエコシ
 
 ## QA
 
-- 各発表後に軽くQAタイムを設けたいと思っています
-- twitterに `#reprotech` hashをつけて随時質問ください
+- 各発表後にQAタイムあります
+- [`#reprotech`](https://twitter.com/hashtag/reprotech) hashをつけて随時質問ください
 
 ---
 
 ## Presenters
 
-- TBA
+- AI 部門の実戦投入
   - Jun Harashima , Cookpad研究開発部部長
-- TBA
-  - Kazuya Gokita (kazoo), Usagee, テグザム
-- TBA
+- AIで改善可能なものは何か
   - Shinta Nakayama (tokoroten), NextInt, Repro AI Labs技術顧問
-- TBA
+- 最速でAI 機能をリリースする技術
   - Tiaso Imai (taison), Repro AI Labs所長
+- 社内で機械学習とどう付き合うか
+  - Kazuya Gokita (kazoo), Usagee, テグザム
 
 ---
 
@@ -71,9 +122,24 @@ AI開発を支える機械学習・DeepLearning・前処理のためのエコシ
 
 ---
 
+# いかがでしたか？
+
+---
+
+# これにて皆様
+
+---
+
+# AI投入
+# 完全理解
+
+---
+
 ## アンケート
 
-👉　`#reprotech` hash をつけてこんな話聞きたい！というのをツイートください
+👉　`#reprotech` hash をつけてこんな話聞きたい！というのをツイートください。
+
+(企画がんばります)
 
 ---
 
@@ -81,12 +147,13 @@ AI開発を支える機械学習・DeepLearning・前処理のためのエコシ
 
 ---
 
-# 🙏
+## 🙏
 
 懇親会準備にお手伝いにご協力ください
 
-1. 椅子を前に寄せる
+1. 椅子をしまう
 1. 食べ物・飲み物のデプロイ
+1. 前の方に集まる
 
 ---
 
