@@ -67,10 +67,10 @@ Webフロントエンド技術以外に，関心のあるWebAssemblyなどの最
 
 ![](https://pbs.twimg.com/profile_images/1020597565786533888/2h27LiIY_200x200.jpg)
 
-お酒と物語が好きな Web エンジニア。
+お酒と物語が好きなWebエンジニア。
 
-Repro には 2018 年 8 月から入社以降マーケティング機能のUX改善に携わり、現在はReproのWeb対応を進めるべくSDK開発に従事。
-プライベートではReact.js+TypeScriptをさわることが多いです。
+Reproでは2018年8月の入社以降マーケティング機能のUX改善に携わり、現在はReproのWeb対応を進めるべくSDK開発に従事。
+プライベートではReact.jsやTypeScriptをさわることが多いです。
 
 マイブームは『リズと青い鳥』。
 
