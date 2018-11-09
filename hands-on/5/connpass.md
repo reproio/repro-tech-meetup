@@ -30,8 +30,7 @@ https://twitter.com/saicologic
 
 
 ### 開発環境
-- JavaScript（ES5以降)
-- Xcode 10, iOSの開発環境
+- Xcode 10
 - Node.js (version 6 or newer)
 
 # タイムテーブル
