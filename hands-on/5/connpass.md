@@ -15,6 +15,12 @@ Repro Techでは、技術のキャッチアップのお手伝いができるよ�
 
 # Hands-on: [ReactNative](https://facebook.github.io/react-native/)
 
+数千を超えるアプリケーションがReactNativeは利用されています。
+またReactNativeは、スタートアップからFortune 500の企業に選定される企業まで多くの企業に利用されています。
+ReactNativeで何ができるのキャッチアップしていきましょう。
+
+![](/hands-on/5/images/campanies.png)
+
 今回のハンズオンは、Expo/ReactNavive/Firebaseを活用しiPhone上で動作するTODOアプリを作成します。
 
 # メンター
