@@ -15,9 +15,10 @@ Repro Techでは、技術のキャッチアップのお手伝いができるよ�
 
 # Hands-on: [ReactNative](https://facebook.github.io/react-native/)
 
-数千を超えるアプリケーションがReactNativeは利用されています。
-またReactNativeは、スタートアップからFortune 500の企業に選定される企業まで多くの企業に利用されています。
-ReactNativeで何ができるのキャッチアップしていきましょう。
+ReactNativeは、スタートアップからFortune 500の企業に選定される企業まで多くの企業に利用されています。
+Facebookにより管理され今後もホットなアップデートが行われることは間違いないでしょう。
+宣言的なUIコーディングは、学習コストも高くなくすぐにキャッチアップが可能です！
+いますぐReactNatvieを始めましょう。
 
 ![](/hands-on/5/images/campanies.png)
 
