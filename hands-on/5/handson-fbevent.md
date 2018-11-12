@@ -12,8 +12,6 @@ Facebookにより管理され今後もホットなアップデートが行われ
 宣言的なUIコーディングは、学習コストも高くなくすぐにキャッチアップが可能です！
 いますぐReactNatvieを始めましょう。
 
-![](https://github.com/reproio/repro-tech-meetup/blob/master/hands-on/5/images/campanies.png?raw=true)
-
 今回のハンズオンは、Expo/ReactNavive/Firebaseを活用しiPhone上で動作するTODOアプリを作成します。
 
 【お申込みはこちら】
@@ -22,11 +20,10 @@ Facebookにより管理され今後もホットなアップデートが行われ
 Mentor
 ￣￣￣￣￣
 
-![](https://pbs.twimg.com/profile_images/466561022/1_200x200.jpg)
+【三上 悟, 株式会社Emotion Tech / Tech Lead】
 
 https://twitter.com/saicologic
 
-三上 悟
 
 株式会社Emotion Tech / Tech Lead。主にバックエンド担当。データ分析の仕組みを作ってます。Webエンジニア13年目。
 趣味で始めたExpo/ReactNative/Firebaseを使ったサービス開発を初めて３ヶ月目の新米iOS/Androidエンジニアです。
