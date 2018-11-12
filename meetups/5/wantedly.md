@@ -1,26 +1,23 @@
-![](/meetups/5/images/banner.png)
+title: Repro Tech Meetup vol.5 Frontend Reliability を開催します 🎉
 
-- title: Repro Tech Meetup #5 Frontend Reliability
-- 日程: 2018-12-04(Tue) 19:30-22:30
-- 登壇時間: Presentation 15-17min + QA 3-5min
-- 参加者枠: 30~50 FCFS
-- LT枠: 2-3
+# Repro Tech Meetupとは
 
-# Repro Tech Meetup
-
-[Repro](https://repro.io) は、6000以上のWeb・アプリに利用されるマーケティングオートメーションサービスです。
+Repro ( https://repro.io ) は、6000以上のWeb・アプリに利用されるマーケティングオートメーションサービスです。
 月間数千億のイベントのデータを処理し、そのデータをAIでユーザーを自動セグメントを行い、毎日数億のプッシュなどの施策を配信しています。
 
 Repro Tech Meetupは、そんなReproが使っている・使おうとしている技術やノウハウについて共有したり、ゲストを呼んで学ぶミートアップです。
 
-### 過去開催イベント
+【お申込みはこちら】
+👉 https://repro-tech.connpass.com/event/105947/
 
-- [Repro Tech Meetup #4 AI実戦投入](https://togetter.com/li/1285717)
-- [Repro Tech Meetup #3 CRE](https://togetter.com/li/1272696)
-- [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
-- [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
+### 前回の雰囲気
 
-# テーマ: Frontend Reliability
+- Repro Tech Meetup #4 AI実戦投入 ( https://togetter.com/li/1285717 )
+- Repro Tech Meetup #3 CRE ( https://togetter.com/li/1272696 )
+- Repro Tech Meetup #2 Android ( https://togetter.com/li/1261085 )
+- Repro Tech Meetup #1 Docker ( https://togetter.com/li/1251270 )
+
+# テーマはFrontend Reliability
 
 常に流行の技術を把握しながら、必要に応じてプロダクトに取り入れていくことはとても大事です。
 その反面、流行のアーキテクチャや技術にばかり目がいってしまい、サービスとしての信頼性や品質を後回しにしていませんか？
@@ -36,20 +33,27 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 
 これらの多様な要求に対しどのように折り合いをつけていくべきか学び、信頼性の高いフロントエンドの開発の実現していきましょう！
 
+【お申込みはこちら】
+👉 https://repro-tech.connpass.com/event/105947/
+
 # 登壇者
 
-### [Taketoshi Aono a.k.a brn](https://twitter.com/brn227)
+## Taketoshi Aono a.k.a brn
 
 ![](https://pbs.twimg.com/profile_images/834382462968963072/xT8Yyryx_200x200.jpg)
+
+https://twitter.com/brn227
 
 サイバーエージェントでWEBフロントエンドエンジニア・POをやってます。
 
 Google V8 javascript engineのコントリビューターです。
 言語処理系の話が好きです。
 
-### [Kazuya Kawaguchi a.k.a Kazupon](https://twitter.com/kazu_pon)
+## Kazuya Kawaguchi a.k.a Kazupon
 
 ![](https://pbs.twimg.com/profile_images/495572844864999424/PcVaqUeq_200x200.png)
+
+https://twitter.com/kazu_pon
 
 Vue.jsコアチームメンバ。
 
@@ -59,9 +63,11 @@ i18n enthusiastとしてvue-i18nなどi18n周りを何とかしたいと思っ�
 Webフロントエンド技術以外に，関心のあるWebAssemblyなどの最新Web技術動向も追いかけている。
 フルタイムOSS開発者としての活動を模索中。
 
-### [Katsuhiko Ito a.k.a cheezenaan](https://twitter.com/cheezenaan) from [Repro](https://repro.io)
+## Katsuhiko Ito a.k.a cheezenaan
 
 ![](https://pbs.twimg.com/profile_images/1020597565786533888/2h27LiIY_200x200.jpg)
+
+https://twitter.com/cheezenaan
 
 お酒と物語が好きなWebエンジニア。
 
@@ -70,43 +76,6 @@ Reproでは2018年8月の入社以降マーケティング機能のUX改善に�
 
 マイブームは『リズと青い鳥』。
 
-# タイムテーブル
+# お申込みはこちら
 
-時間  | 内容
----   | ---
-19:00 | 開場
-19:30 | はじめに
-19:40 | TBA by brn
-20:00 | TBA by cheezenaan
-20:20 | 休憩
-20:25 | TBA by kazupon
-20:45 | LT * 2
-20:55 | アンケート
-21:00 | 懇親会
-22:00 | 解散
-
-# 会場
-
-Repro株式会社 イベントスペース
-
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-event-space.png?raw=true)
-
-### 設備
-
-- Wi-Fiあります
-- ディスプレイ接続用の各種アダプターの準備あります
-- トイレは会場を出て突き当り左にあります
-- 喫煙室は9Fにあります。喫煙者の方はご利用ください
-
-### アクセス
-
-JR代々木駅北口改札を出て目の前のビルです。
-1Fにマクドナルドがあります。
-
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-access-1.png?raw=true)
-
-# 注意事項
-
-- 技術の共有が目的の勉強会です
-- 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
-- イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
+👉 https://repro-tech.connpass.com/event/105947/
