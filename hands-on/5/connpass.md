@@ -6,8 +6,8 @@
 
 # Repro Tech Hands-On
 
-近年の技術の進歩は我々の吸収できる量を完全に上回っています。目まぐるしい発展のの流れについていくのは大変ですが、
-私たちはそれでも、サービスを利用する誰かのために改善していくしかありません！
+近年の技術の進歩は我々の吸収できる量を完全に上回っています。目まぐるしい発展の流れについていくのは大変ですが、
+私たちはそれでも、サービスを利用する誰かのためにやっていくしかありません！
 Repro Techでは、技術のキャッチアップのお手伝いができるよう最新技術のHands-onを開催しています！
 
 [Repro](https://repro.io) は、5,000以上の世界中にあるアプリに利用されるマーケティングオートメーションツールを提供する会社です。
@@ -15,10 +15,16 @@ Repro Techでは、技術のキャッチアップのお手伝いができるよ�
 
 # Hands-on: [ReactNative](https://facebook.github.io/react-native/)
 
-ReactNativeは、スタートアップからFortune 500の企業に選定される企業まで多くの企業に利用されています。
-Facebookにより管理され今後もホットなアップデートが行われることは間違いないでしょう。
-宣言的なUIコーディングは、学習コストも高くなくすぐにキャッチアップが可能です！
-いますぐReactNatvieを始めましょう。
+ReactNativeは、JavaScriptだけでiOS、Androidのモバイルアプリを作れるというFacebook製のJavaScriptフレームワークです。
+ReactNativeによって、慣れ親しんだJavaScriptだけでモバイルアプリ開発ができたり、少人数でのiOS、Androidアプリ開発が可能になると期待されています。
+今やReactNativeはFacebook内にとどまらず、様々な企業で[実際のアプリ開発](http://facebook.github.io/react-native/blog/2018/11/01/oss-roadmap)に使用されるようになってきました。
+
+また、ReactNativeは現在、[GitHub上で最もコントリビューターが多いOSSプロジェクトの1つ](http://facebook.github.io/react-native/blog/2018/11/01/oss-roadmap)にもなっています。
+
+Open Sourceのロードマップもつい最近[更新されたり](http://facebook.github.io/react-native/blog/2018/11/01/oss-roadmap)と、Facebookもますます力を入れています。
+
+様々なメリット、デメリットが聞かれるようになってきましたが、1度この機会にご自身でもReactNativeを触ってみませんか。
+
 
 ![](/hands-on/5/images/campanies.png)
 
