@@ -1,7 +1,7 @@
 ![](/hands-on/6/images/banner.png)
 
 - title: Repro Tech Hands-on : Nuxt.js
-- 日程: 2018-10-28(Sun) 13:00-17:00
+- 日程: 2018-12-9(Sun) 13:00-17:00
 - 参加者枠: 35 FCFS (歩留まり: 80%)
 
 # Repro Tech Hands-On
