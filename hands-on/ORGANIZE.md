@@ -103,6 +103,7 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
 - [ ] 公開ページ全てに中止の旨を記載
     - Facebook
     - Wantedly
+    - Meetup
 
 - [ ] イベント開催予定の前日に同じメッセージ送る
 ```
