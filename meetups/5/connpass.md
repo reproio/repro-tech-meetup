@@ -1,10 +1,15 @@
 ![](/meetups/5/images/banner.png)
 
-- title: Repro Tech Meetup #5 Frontend Reliability
+- title(up to 50): Repro Tech : Frontend Reliability Support by ナビタイム
 - 日程: 2018-12-04(Tue) 19:30-22:30
 - 登壇時間: Presentation 15-17min + QA 3-5min
-- 参加者枠: 30~50 FCFS
+- 参加者枠: 30~80 FCFS
 - LT枠: 2-3
+- 会場: navitimeさま 東京都港区南青山3-8-38　南青山東急ビル 1F
+
+# Announce
+
+<span style='color:red'>**＼＼会場をnavitimeさまにお貸しいただける事になりました／／**</span>
 
 # Repro Tech Meetup
 
@@ -70,6 +75,17 @@ Reproでは2018年8月の入社以降マーケティング機能のUX改善に�
 
 マイブームは『リズと青い鳥』。
 
+# スポンサーLT
+
+### 渡部啓太 from [navitime](http://corporate.navitime.co.jp/)
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/5/images/watabe-keita.jpg?raw=true)
+
+株式会社ナビタイムジャパン スクラムマスター・エンジニア。
+
+2010年に(株)ナビタイムジャパンに入社。iPhone / Android アプリ開発、位置情報の研究開発、ビッグデータ解析、プロジェクトマネジメントを経験し、現在はWeb開発チームのスクラムマスターとデータ分析担当。
+社内のカイゼン活動としてスクラム導入支援、ファリシテーター、勉強会やワークショップの開催なども行っている。
+
 # タイムテーブル
 
 時間  | 内容
@@ -80,30 +96,31 @@ Reproでは2018年8月の入社以降マーケティング機能のUX改善に�
 20:00 | TBA by cheezenaan
 20:20 | 休憩
 20:25 | TBA by kazupon
-20:45 | LT * 2
-20:55 | アンケート
-21:00 | 懇親会
-22:00 | 解散
+20:45 | フロントエンド開発の土台としてのチーム作り by 渡部啓太
+20:55 | LT : @hokaccha
+21:00 | LT : @treby
+21:05 | 懇親会
+22:30 | 解散
 
 # 会場
 
-Repro株式会社 イベントスペース
+**＼＼[Navitime](http://corporate.navitime.co.jp/) さまイベントスペースをお借りできることになりました／／**
 
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-event-space.png?raw=true)
-
-### 設備
-
-- Wi-Fiあります
-- ディスプレイ接続用の各種アダプターの準備あります
-- トイレは会場を出て突き当り左にあります
-- 喫煙室は9Fにあります。喫煙者の方はご利用ください
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-2.jpg?raw=true)
 
 ### アクセス
 
-JR代々木駅北口改札を出て目の前のビルです。
-1Fにマクドナルドがあります。
+東京都港区南青山3-8-38　南青山東急ビル 1F
+表参道駅を出て徒歩5分
+https://goo.gl/maps/i3GfvVrFJb52
 
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-access-1.png?raw=true)
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-1.jpg?raw=true)
+
+# スポンサー
+
+会場スポンサー: navitimeさま
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-logo.png?raw=true)
 
 # 注意事項
 
