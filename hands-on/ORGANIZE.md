@@ -94,3 +94,26 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
 ## イベント終了後
 
 - [ ] 振り返りの実施し、次回の改善点を決定する
+
+## イベント中止
+
+- [ ] 中止が決定したあと速やかに、connpassより以下メッセージを送る
+- [ ] Mentorにtwitter, facebookなどのSNSでの拡散を依頼
+- [ ] connpassにイベントを中止する
+- [ ] 公開ページ全てに中止の旨を記載
+    - Facebook
+    - Wantedly
+    - Meetup
+
+- [ ] イベント開催予定の前日に同じメッセージ送る
+```
+subject: Repro Tech Hands-on #<num> <theme>は中止します。
+To: Event Admins, Presenter, Attendees, Waitlist
+Body:
+この度はReproTech Hands-onにご応募頂きまして誠にありがとうございます。
+
+大変心苦しいのですが、運営サイドの都合により開催日を変更することとなりました。
+こちら、改めてconnpassのイベントをご応募頂いた方にはメールにてご連絡させて頂きます。
+
+引き続きReproTech Hands-onをよろしくお願い申し上げます。
+```
