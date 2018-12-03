@@ -1,15 +1,15 @@
 ![](/meetups/5/images/banner.png)
 
-- title(up to 50): Repro Tech : Frontend Reliability Support by ナビタイム
+- title(up to 50): Repro Tech : Frontend Reliability Support NAVITIME
 - 日程: 2018-12-04(Tue) 19:30-22:30
 - 登壇時間: Presentation 15-17min + QA 3-5min
 - 参加者枠: 30~80 FCFS
 - LT枠: 2-3
-- 会場: navitimeさま 東京都港区南青山3-8-38　南青山東急ビル 1F
+- 会場: NAVITIMEさま 東京都港区南青山3-8-38　南青山東急ビル 1F
 
 # Announce
 
-<span style='color:red'>**＼＼会場をnavitimeさまにお貸しいただける事になりました／／**</span>
+<span style='color:red'>**＼＼会場をNAVITIMEさまにお貸しいただける事になりました／／**</span>
 
 # Repro Tech Meetup
 
@@ -77,7 +77,7 @@ Reproでは2018年8月の入社以降マーケティング機能のUX改善に�
 
 # スポンサーLT
 
-### 渡部啓太 from [navitime](http://corporate.navitime.co.jp/)
+### [渡部啓太](https://twitter.com/sobarecord) from [NAVITIME](http://corporate.navitime.co.jp/)
 
 ![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/5/images/watabe-keita.jpg?raw=true)
 
@@ -92,10 +92,10 @@ Reproでは2018年8月の入社以降マーケティング機能のUX改善に�
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBA by brn
-20:00 | TBA by cheezenaan
+19:40 | E2Eテストを継続するために by brn
+20:00 | (仮)ReproのWeb SDK開発を支える技術 by cheezenaan
 20:20 | 休憩
-20:25 | TBA by kazupon
+20:25 | (仮)続・Vue.jsによる大規模開発 by kazupon
 20:45 | フロントエンド開発の土台としてのチーム作り by 渡部啓太
 20:55 | LT : @hokaccha
 21:00 | LT : @treby
@@ -104,7 +104,7 @@ Reproでは2018年8月の入社以降マーケティング機能のUX改善に�
 
 # 会場
 
-**＼＼[Navitime](http://corporate.navitime.co.jp/) さまイベントスペースをお借りできることになりました／／**
+**＼＼[NAVITIME](http://corporate.navitime.co.jp/) さまイベントスペースをお借りできることになりました／／**
 
 ![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-2.jpg?raw=true)
 
@@ -118,9 +118,7 @@ https://goo.gl/maps/i3GfvVrFJb52
 
 # スポンサー
 
-会場スポンサー: navitimeさま
-
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-logo.png?raw=true)
+会場スポンサー: NAVITIMEさま
 
 # 注意事項
 
