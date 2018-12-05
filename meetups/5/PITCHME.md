@@ -1,4 +1,5 @@
 ## Repro Tech Meetup #5
+### supported by NAVITIME
 
 ![](/meetups/5/images/banner.png)
 
@@ -70,6 +71,11 @@ Reproの使っている・使いたい技術やノウハウについて共有し
 
 ---
 
+## 会場スポンサー
+
+![](/assets/images/navitime/navitime-logo.png)
+
+---
 ## Facilities
 
 - SSID/PWは前を参照ください
@@ -96,9 +102,9 @@ Reproの使っている・使いたい技術やノウハウについて共有し
 
 - E2Eテストを継続するために
   - Taketoshi Aono a.k.a brn
-- (仮)ReproのWeb SDK開発を支える技術
+- ReproのWeb SDK開発を支える技術
   - Katsuhiko Ito a.k.a cheezenaan
-- (仮)続・Vue.jsによる大規模開発
+- 続・Vue.jsによる大規模開発
   - Kazuya Kawaguchi a.k.a Kazupon
 
 ---
