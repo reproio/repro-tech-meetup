@@ -1,0 +1,14 @@
+# Layout
+layout : center-top
+transition : none
+
+# Look-and-Feel
+theme : night
+theme-override : assets/css/netflix/PITCHME.css
+
+code-line-numbers : true
+mathjax : TeX-MML-AM_HTMLorMML-full
+charts : true
+
+logo : assets/images/repro-logo-white.png
+footnote : "Repro Tech HandsOn"
