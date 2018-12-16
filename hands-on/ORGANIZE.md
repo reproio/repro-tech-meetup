@@ -12,14 +12,9 @@
     - 10名に一人のメンターがつけるのが理想
     - 集まりを鑑み、connpassの開始時間はスタートより15min程度早めにしておく
 - [ ] hands-on案をもとに1名以上のメンター依頼を実施
-- [ ] メンターをReproTechのSlackへ招待 
+- [ ] メンターを[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNDc3MTAyMjk2NDE4LTYxMjRhMmUyNjA0YTllNGE4ZWNkNzExZmM0N2RiN2U5YTZiZjc1NGI3Y2ZjN2QyMmVmODdjYzlhMjA4OTYyZDE))へ招待
 - [ ] イベント用バナー(660*270px)の作成依頼
 - [ ] Mentorの都合と時間に合わせ、土日(可能であれば日曜)で開催日の決定
-
-__Slack招待URL__
-```
-https://join.slack.com/t/repro-tech/shared_invite/enQtNDc3MTAyMjk2NDE4LTYxMjRhMmUyNjA0YTllNGE4ZWNkNzExZmM0N2RiN2U5YTZiZjc1NGI3Y2ZjN2QyMmVmODdjYzlhMjA4OTYyZDE
-```
 
 ## Publish Event
 

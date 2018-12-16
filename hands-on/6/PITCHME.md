@@ -6,6 +6,10 @@ hashtag: `reprotech`
 
 ---
 
+# こんにちわ!
+
+---
+
 ## Repro Tech Hands-on
 
 日々目まぐるしく発展する新しい技術の概念やツール、サービス。
@@ -26,11 +30,11 @@ hashtag: `reprotech`
 
 ---
 
-## Who
-
-[@threetreeslight](https://twitter.com/threetreeslight)
+## Organizer
 
 ![](https://avatars3.githubusercontent.com/u/1057490?s=200&v=4)
+
+[@threetreeslight](https://twitter.com/threetreeslight)
 
 - VP of Engineering at [Repro](https://repro.io)
 - 最近は人事部長やEventおじさんと揶揄されます 😇
@@ -48,10 +52,11 @@ hashtag: `reprotech`
 
 ---
 
-## 柔軟な分析と改善を支援
+## サービスの成長を支援
 
-- 月間数千億イベントのデータを処理
-- 毎日数億のプッシュなどの施策を配信
+- 月間数千億イベントのデータを処理・分析
+- AIでユーザーを自動セグメント
+- 毎日数億プッシュ配信などの施策実施
 
 ---
 
@@ -63,21 +68,17 @@ hashtag: `reprotech`
 
 ---
 
-# Theme
+# Announce
 
 ---
 
-## React Native
+## Communication
 
----
+[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNTA0ODg4NzQ3NzgwLTFjMTEwNDMyMTM0MGQ3ZjgxYjlmZjQzZTc5MjYyOTNkMzI0MTQxOWI0MzYzMTY0ZmJjZDE2MzM4NWNlYTQ2MmU)) を準備しています
 
-### [Matsuo Obu](https://twitter.com/mqtsuo02)
+わからないとき・助けがほしいときは、いつでも気軽にお声がけください✨
 
-![](https://pbs.twimg.com/profile_images/1057145049694187520/_YQXxTWP_200x200.jpg)
-
-フリーランスのWebエンジニア。
-フロントエンドをメインとして、Webアプリケーション開発に携わっています。
-直近のプロジェクトでは Nuxt.js、React、React Native を使用しています。
+助け合いましょう 💪
 
 ---
 
@@ -99,6 +100,44 @@ hashtag: `reprotech`
 
 ---
 
+# Theme
+
+---
+
+![](/hands-on/6/images/nuxtjs.png)
+# nuxtjs
+
+---
+
+@snap[north]
+### Mentor
+@snapend
+
+@snap[west w-70]
+<p>フリーランスのWebエンジニア</p>
+<p>
+フロントエンドをメインとして、Webアプリケーションを開発。
+<br>直近のプロジェクトでは Nuxt.js、React、React Native を使用
+</p>
+@snapend
+
+@snap[east w-center]
+[![](https://pbs.twimg.com/profile_images/1057145049694187520/_YQXxTWP_200x200.jpg)](https://twitter.com/mqtsuo02)
+<br> [Matsuo Obu](https://twitter.com/mqtsuo02)
+@snapend
+
+---
+
+## Time-table
+
+- 13:10: hands-on!
+- 14:50: 10min coffee break
+- 15:00: hands-on!
+- 16:00: 懇親会
+
+
+---
+
 ## self-introduction
 
 せっかく集まったエンジニア同し、仲良くなりましょう✨
@@ -113,13 +152,11 @@ hashtag: `reprotech`
 
 ## Let's Hand-on
 
-本日の流れを講師の方から!
+Mentorにバトンタッチ！
 
 ---
 
-## Break
-
-休憩です
+## 10min Break
 
 せっかく集まったエンジニア同し、仲良くなりましょう✨
 
@@ -128,21 +165,21 @@ hashtag: `reprotech`
 
 ---
 
-## お酒あります！
+# Hnads-on<br>is<br>over
 
 ---
 
-## Hnads-on is over
+# 完全理解
 
-「完全に理解」できましたね！
+できましたね！
 
 ---
 
 ## 懇親会
 
-テーマに興味を持ったプログラマー同士、せっかくなので仲良くなりましょう！
+コーヒーやお酒片手にせっかく集まったプログラマー同士、仲良くなりましょう！
 
-懇親会に参加できない方、挙手お願いします🙋‍♂️
+参加できない方、挙手お願いします🙋‍♀️🙋‍♂️
 
 ---
 
@@ -156,7 +193,7 @@ hashtag: `reprotech`
 
 ---
 
-## 🍻🍻🍻
+## 🍻🥤🍿
 # カンパーイ
-## 🍻🍻🍻
+## 🍹🥡🍩
 

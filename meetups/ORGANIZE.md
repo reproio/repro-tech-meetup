@@ -10,15 +10,10 @@
 - [ ] AI, CRE, DBなどテーマのcategoryを決定
 - [ ] どのようなことについて話すか詳細案PR(`meetups/<num>/connpass.md`)作成し、関連メンバーで詳細を詰める
 - [ ] 社外の有識者およびReproそれぞれから１名以上のspeakerのattend
-- [ ] speakerをReproTechのSlackへ招待 
+- [ ] speakerを[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNDc3MTAyMjk2NDE4LTYxMjRhMmUyNjA0YTllNGE4ZWNkNzExZmM0N2RiN2U5YTZiZjc1NGI3Y2ZjN2QyMmVmODdjYzlhMjA4OTYyZDE))へ招待
 - [ ] speakerへTwitterのbio程度の文章量の自己紹介文作成を依頼
 - [ ] trelloにてdesignerへevent banner(660*270px)の作成依頼。このとき、design imageがつくよう背景知識も共有する。
 - [ ] 必要に応じてスピーカーの都合に合わせ開催日を調整し、開催日を確定
-
-__Slack招待URL__
-```
-https://join.slack.com/t/repro-tech/shared_invite/enQtNDc3MTAyMjk2NDE4LTYxMjRhMmUyNjA0YTllNGE4ZWNkNzExZmM0N2RiN2U5YTZiZjc1NGI3Y2ZjN2QyMmVmODdjYzlhMjA4OTYyZDE
-```
 
 Repro外の開場を手配する場合は、以下の点を確認しておくこと
 

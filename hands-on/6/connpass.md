@@ -18,19 +18,37 @@ Repro Techでは、技術のキャッチアップのお手伝いができるよ�
 Nuxt.jsに入門するためのハンズオンです。
 Nuxt.jsでWebアプリケーションを開発するために必要な基礎的な内容を解説した後に、実際に手元でシンプルなWebアプリケーションを作っていきます。
 
-以下のプログラムで進めていきます。
+**解説コンテンツ**
 
 - Vue.jsとNuxt.jsの概要
-- 設計思想・アーキテクチャの解説
-- 各キーワードの解説
-- ハンズオン（シンプルなWebアプリケーション開発）
-- 実践的な開発のためのTips
+- 実装ルールについて
 
-※ Node.jsをインストールしたノートパソコンをご持参ください。
+**ハンズオンコンテンツ**
 
-### [Matsuo Obu](https://twitter.com/mqtsuo02)
+- Hello, Nuxt!!
+- ルーティングの実装
+- WebAPIの繋ぎこみ
+- Vuetify.jsの導入
+
+## 準備していただくもの
+
+Node.jsをインストールしたノートパソコン
+
+- Node.jsのバージョンは10以降を推奨します。(メンターの環境：v10.14.1)
+
+
+### コミュニケーション
+
+[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNTA0ODg4NzQ3NzgwLTFjMTEwNDMyMTM0MGQ3ZjgxYjlmZjQzZTc5MjYyOTNkMzI0MTQxOWI0MzYzMTY0ZmJjZDE2MzM4NWNlYTQ2MmU)) を準備しています！
+
+わからないとき・助けがほしいときは、いつでも気軽にお声がけください✨
+
+
+# メンター
 
 ![](https://pbs.twimg.com/profile_images/1057145049694187520/_YQXxTWP_200x200.jpg)
+
+大武松生 (mqtsuo02)
 
 フリーランスのWebエンジニア。
 フロントエンドをメインとして、Webアプリケーション開発に携わっています。
