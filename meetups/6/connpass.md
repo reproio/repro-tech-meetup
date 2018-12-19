@@ -1,6 +1,6 @@
 ![](/assets/images/meetup-banner.png)
 
-- title: Repro Tech Meetup #6 Kotlin
+- title: Repro Tech Meetup #6 Andorid, Kotlin and and Flutter
 - 日程: 2019-01-15(Tue) 19:30-22:30
 - 登壇枠
   - Session: 20min + QA 3-5min * 3
@@ -22,13 +22,15 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
-# テーマ: Kotlin
+# テーマ: Andorid, Kotlin and and Flutter
 
-モバイルアプリからサーバーサイドまで活躍のフィールドが拡大し続けるKotlin。
+Androidを巡る開発環境は大きく動いています。
 
-最近ではKotlin 1.3にbundleされたKotlin/Nativeの利用例が少しずつ出きていたり、web fremeworkであるktorの台頭にも目を見張るものがあります。
+Android Javaはもちろんのこと、マテリアルデザイン適用が最も早いFlutterの台頭、さらにはKotlin 1.3にbundleされたKotlin/Nativeなど様々です。
 
-そんなKotlinの今とその活用を知り、幸せなKotlinライフを贈るためのミートアップです！
+そんなAndroid開発のトレンドを踏まえて、Android開発とどう向き合えばよいのか。
+
+その実例や実際直面した課題を共有して幸せなAndroid生活につなげるミートアップです！
 
 # 登壇者
 
