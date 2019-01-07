@@ -11,9 +11,12 @@
     - Reproの会場の場合募集は最大で30名程度
     - 10名に一人のメンターがつけるのが理想
     - 集まりを鑑み、connpassの開始時間はスタートより15min程度早めにしておく
+    - 対象者のレベル感を明確にするとともに、必要であれば募集枠も分ける
+      - e.g.
+        - 関連する技術に類する技術を触ったことがある人
+        - 関連する技術に類する業務やその周辺技術を触ったことがない人
 - [ ] hands-on案をもとに1名以上のメンター依頼を実施
 - [ ] メンターを[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNDc3MTAyMjk2NDE4LTYxMjRhMmUyNjA0YTllNGE4ZWNkNzExZmM0N2RiN2U5YTZiZjc1NGI3Y2ZjN2QyMmVmODdjYzlhMjA4OTYyZDE))へ招待
-- [ ] イベント用バナー(660*270px)の作成依頼
 - [ ] Mentorの都合と時間に合わせ、土日(可能であれば日曜)で開催日の決定
 
 ## Publish Event
@@ -42,9 +45,9 @@
 - [ ] Hands-on プログラムの詳細が決まっていない場合は、Menter含め最終調整
 - [ ] 前回のKPTも活かしたintrocution資料の準備
 
-## 1 day before
+## 2 day before
 
-- [ ] connpassより以下メッセージを送る
+- [ ] 金曜日にconnpassより以下メッセージを送る
 - 在庫状況に応じて以下を実施
     - [ ] ビール(1.5本/人)・酎ハイ(0.5本/人)の発注
     - [ ] 乾き物(ハッピーターン、柿ピー、パイの実、コアラ、和菓子盛り合わせ的なものなど)の発注ないし調達
@@ -71,32 +74,26 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
 
 ## イベント当日の作業
 
-- [ ] 開場30min前に会場設営
+- 開場30min前に会場設営
     - 机の配置はカテゴリーや参加者のスキルを考慮しグループ化する
     - 人数が少ないときは複数のデスクをくっつけ、多きグループを作るとコミュニケーションが活発になる
     - カテゴリごとにgrouping(iOS, Androidなど)する場合は、ホワイトボードに各グループの座席配置を書いておくと案内に迷わなくて良い
-- [ ] ReproよりRepro Tech Hands-onの概要説明
-    - Repro Techの概要説明
-    - Hands-onのテーマの説明
-    - タイムテーブル・進行の説明
-    - メンターの紹介
-    - 自己紹介
+- Introduction
+    - ReproよりRepro Tech Hands-onの概要説明
+    - 自己紹介の時間を以下のように取る
         - 20名以下ときは、全体で実施
         - 20名超過のときは、机やgroupごとに実施
-- [ ] Mentorよりprogramの説明
-- [ ] 途中休憩（アイスブレイク）
-- [ ] hands-onのプログラム終了1h前からお酒を振る舞うようにする
-- [ ] 懇親会に参加しない人を挙手で募る
-- [ ] 懇親会
-    - 立食形式
-    - テーブル２つ程度に軽食を展開
-- [ ] 懇親会終了前に `#reprotech` にて感想tweet・感想を言える時間を作る
+- hands-on
+  - Mentorより自己紹介やhands-onの流れを説明
+- 懇親会
+  - `#reprotech` にて感想tweet・感想を言える時間を作る
+  - 立食形式、テーブル２つ程度に軽食を展開
 
 ## イベント終了後
 
 - [ ] 振り返りの実施し、次回の改善点を決定する
 
-## イベント中止
+# イベント中止
 
 - [ ] 中止が決定したあと速やかに、connpassより以下メッセージを送る
 - [ ] Mentorにtwitter, facebookなどのSNSでの拡散を依頼
@@ -105,8 +102,8 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
     - Facebook
     - Wantedly
     - Meetup
-
 - [ ] イベント開催予定の前日に同じメッセージ送る
+
 ```
 subject: Repro Tech Hands-on #<num> <theme>は中止します。
 To: Event Admins, Presenter, Attendees, Waitlist
