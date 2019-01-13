@@ -1,13 +1,13 @@
 ![](/hands-on/5/images/banner.png)
 
 - title: Repro Tech Hands-on : ReactNative
-- 日程: 2018-11-25(Sun) 13:00-17:00
+- 日程: 2019-01-13(Sun) 13:00-17:00
 - 参加者枠: 35 FCFS (歩留まり: 80%)
 
 # Repro Tech Hands-On
 
-近年の技術の進歩は我々の吸収できる量を完全に上回っています。目まぐるしい発展の流れについていくのは大変ですが、
-私たちはそれでも、サービスを利用する誰かのためにやっていくしかありません！
+近年の技術の進歩は我々の吸収できる量を完全に上回っています。目まぐるしい発展のの流れについていくのは大変ですが、
+私たちはそれでも、サービスを利用する誰かのために改善していくしかありません！
 Repro Techでは、技術のキャッチアップのお手伝いができるよう最新技術のHands-onを開催しています！
 
 [Repro](https://repro.io) は、5,000以上の世界中にあるアプリに利用されるマーケティングオートメーションツールを提供する会社です。
@@ -25,10 +25,13 @@ Open Sourceのロードマップもつい最近[更新されたり](http://faceb
 
 様々なメリット、デメリットが聞かれるようになってきましたが、1度この機会にご自身でもReactNativeを触ってみませんか。
 
-
-![](/hands-on/5/images/campanies.png)
+<img src="https://github.com/reproio/repro-tech-meetup/blob/master/hands-on/5/images/campanies.png?raw=true" width=320>
 
 今回のハンズオンは、Expo/ReactNavive/Firebaseを活用しiPhone上で動作するTODOアプリを作成します。
+
+### 開発環境
+- Xcode 10
+- Node.js (version 6 or newer)
 
 # メンター
 
@@ -42,17 +45,13 @@ https://twitter.com/saicologic
 趣味で始めたExpo/ReactNative/Firebaseを使ったサービス開発を初めて３ヶ月目の新米iOS/Androidエンジニアです。
 
 
-### 開発環境
-- Xcode 10
-- Node.js (version 6 or newer)
-
 # タイムテーブル
 
 時間  | 内容
 ---   | ---
 12:30 | 開場
-13:00 | イントロダクション & Hands-onの流れ
-13:15 | ハンズオン
+13:00 | イントロダクション
+13:10 | ハンズオン
 16:00 | 懇親会
 17:00 | 解散
 
@@ -80,4 +79,15 @@ JR代々木駅北口改札を出て目の前のビルです。
 
 - 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
 - イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
+
+
+# FAQ
+
+### 質問などはどこですればよいですか？
+
+[Repro Tech Slack](https://repro-tech.slack.com/) にhands-on 開催回ごとのchannelを設けています。
+
+資料の共有なども行いますので、未登録の方は[こちら](https://join.slack.com/t/repro-tech/shared_invite/enQtNTA0ODg4NzQ3NzgwLTFjMTEwNDMyMTM0MGQ3ZjgxYjlmZjQzZTc5MjYyOTNkMzI0MTQxOWI0MzYzMTY0ZmJjZDE2MzM4NWNlYTQ2MmU)是非参加ください
+
+
 

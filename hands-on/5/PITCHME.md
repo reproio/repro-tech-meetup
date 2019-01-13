@@ -6,6 +6,15 @@ hashtag: `reprotech`
 
 ---
 
+# こんにちわ!
+
+---
+
+## What's 
+## Repro Tech Hands-on
+
+---
+
 ## Repro Tech Hands-on
 
 日々目まぐるしく発展する新しい技術の概念やツール、サービス。
@@ -14,7 +23,7 @@ hashtag: `reprotech`
 
 ---
 
-# あれ？キャッチアップきつくね？
+## あれ？キャッチアップきつくね？
 
 ---
 
@@ -26,11 +35,20 @@ hashtag: `reprotech`
 
 ---
 
-## Who
+## That's
+## Repro Tech Hands-on
 
-[@threetreeslight](https://twitter.com/threetreeslight)
+---
+
+# Organize
+
+---
+
+## Organizer
 
 ![](https://avatars3.githubusercontent.com/u/1057490?s=200&v=4)
+
+[@threetreeslight](https://twitter.com/threetreeslight)
 
 - VP of Engineering at [Repro](https://repro.io)
 - 最近は人事部長やEventおじさんと揶揄されます 😇
@@ -48,10 +66,11 @@ hashtag: `reprotech`
 
 ---
 
-## 柔軟な分析と改善を支援
+## サービスの成長を支援
 
-- 月間数千億イベントのデータを処理
-- 毎日数億のプッシュなどの施策を配信
+- 月間数千億イベントのデータを処理・分析
+- AIでユーザーを自動セグメント
+- 毎日数億プッシュ配信などの施策実施
 
 ---
 
@@ -63,20 +82,15 @@ hashtag: `reprotech`
 
 ---
 
-# Theme
+# Announce
 
 ---
 
-## React Native
+## Communication
 
----
+[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNTA0ODg4NzQ3NzgwLTFjMTEwNDMyMTM0MGQ3ZjgxYjlmZjQzZTc5MjYyOTNkMzI0MTQxOWI0MzYzMTY0ZmJjZDE2MzM4NWNlYTQ2MmU)) を準備しています
 
-### [三上 悟](https://twitter.com/saicologic)
-
-![](https://pbs.twimg.com/profile_images/466561022/1_200x200.jpg)
-
-株式会社Emotion Tech / Tech Lead。主にバックエンド担当。データ分析の仕組みを作ってます。Webエンジニア13年目。
-趣味で始めたExpo/ReactNative/Firebaseを使ったサービス開発を初めて３ヶ月目の新米iOS/Androidエンジニアです。
+わからないとき・助けがほしいときは、いつでも気軽にお声がけください✨
 
 ---
 
@@ -98,9 +112,50 @@ hashtag: `reprotech`
 
 ---
 
+# Theme
+
+---
+
+![](/hands-on/5/images/banner.png)
+## React Native
+
+---
+
+@snap[north]
+### Mentor
+@snapend
+
+@snap[west w-70]
+<p>
+Tech Lead at Emotion Tech
+<br>データ分析の仕組みを作るバックエンドエンジニア
+</p>
+<p>
+趣味でExpo, ReactNative, Firebaseを使ってサービス作ってます
+</p>
+@snapend
+
+@snap[east w-center]
+[![](https://pbs.twimg.com/profile_images/466561022/1_200x200.jpg)](https://twitter.com/mqtsuo02)
+<br> [Satoru Mikami](https://twitter.com/saicologic)
+@snapend
+
+---
+
+## Time-table
+
+- 13:10 hands-on!
+- 14:00 5min coffee break
+- 13:10 hands-on!
+- 15:00 5min coffee break
+- 13:10 hands-on!
+- 16:00 Party
+
+---
+
 ## self-introduction
 
-せっかく集まったエンジニア同し、仲良くなりましょう✨
+せっかく集まったプログラマーですし仲良く✨
 
 1-2min/person
 
@@ -116,32 +171,28 @@ hashtag: `reprotech`
 
 ---
 
-## Break
-
-休憩です
-
-せっかく集まったエンジニア同し、仲良くなりましょう✨
+## Coffee Break
 
 1. お困りごとはありませんか？
 1. おとなりの方に相談してみましょう
 
 ---
 
-## お酒あります！
+# Hnads-on<br>is<br>over
 
 ---
 
-## Hnads-on is over
+# 完全理解
 
-「完全に理解」できましたね！
+できましたね！
 
 ---
 
 ## 懇親会
 
-テーマに興味を持ったプログラマー同士、せっかくなので仲良くなりましょう！
+コーヒーやお酒片手にせっかく集まったプログラマー同士、仲良くなりましょう！
 
-懇親会に参加できない方、挙手お願いします🙋‍♂️
+参加できない方、挙手お願いします🙋‍♀️🙋‍♂️
 
 ---
 
@@ -155,7 +206,7 @@ hashtag: `reprotech`
 
 ---
 
-## 🍻🍻🍻
+## 🍻🥤🍿
 # カンパーイ
-## 🍻🍻🍻
+## 🍹🥡🍩
 
