@@ -28,7 +28,7 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 1. [Android](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/2)
 1. [CRE](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/3)
 1. [AI](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/4)
-1. [Frontedn Reliability](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/5)
+1. [Frontend Reliability](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/5)
 
 ### [Hands-on](/hands-on)([workflow](/hands-on/ORGANIZE.md))
 
