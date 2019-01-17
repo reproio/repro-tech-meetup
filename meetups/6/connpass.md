@@ -1,13 +1,15 @@
 ![](/meetups/6/banner.png)
 
-- title(up to 50): Repro Tech Meetup #6 Long Life Rails Supported by REJOB
+- title(up to 50): Repro Tech: Long Life Rails Supported by REJOB
 - 日程
   - 2019-02-06(Wed) 19:30-22:30
 - 登壇枠
   - Session: 20min + QA 3-5min * 3
   - LT: 5min * 2
 - 参加者枠: 50-80 FCFS
-- 会場: 未定 場所がなければReproで開催
+- 会場
+  - REJOB株式会社
+  - 東京都新宿区百人町2-27-7　HUNDRED CIRCUS East Tower 2F
 
 # Repro Tech Meetup
 
@@ -38,7 +40,16 @@ AirbnbやGithub、Cookpadを初めとしたStartupからエンタープライズ
 
 ![](https://pbs.twimg.com/profile_images/674206748895371265/FH1O0n_l_200x200.png)
 
-TBD
+(仮)
+
+RuboCop のコミッター。
+
+activerecord-oracle_enhanced-adapterのコミッター。
+Rails Contributorsのtop 100。
+
+Asakusa.rb, Ginza.rb, Shibuya.rb などの地域.rb を巡っている。
+
+RubyKaigi 2018 のスピーカー。
 
 ### (仮)[Kazuhito Hokamura a.k.a hokaccha](https://twitter.com/hokaccha)
 
@@ -51,10 +62,12 @@ TBD
 ![](https://pbs.twimg.com/profile_images/342683730/__________200x200.jpg)
 
 Repro株式会社CTO。
+
 Reproサービス全体のアーキテクトやデータエンジニアリングに携わる。
 
 fluentd-plugin-bigqueryのmaintainer。
-他rukawa (simple workflow engine by ruby), yaml_vaultなどのOSS library作成。
+
+他rukawa (simple workflow engine by ruby), yaml_vaultなどのOSS libraryを作成している。
 
 # スポンサーLT
 
@@ -88,7 +101,7 @@ TBA
 
 ### アクセス
 
-新大久保駅の改札を出て左手に向かい、AEONの横の入口があるビルに入ります
+大久保駅北口の改札を出て左手に向かい、AEONの横の入口があるビルに入ります
 
 ![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/route-1.jpg?raw=true)
 
@@ -107,6 +120,8 @@ TBA
 # スポンサー
 
 開場スポンサー : [REJOB](https://rejob.co.jp/) さま
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/logo-rejob-small.png?raw=true)
 
 # 注意事項
 
