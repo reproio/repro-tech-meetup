@@ -40,16 +40,11 @@ AirbnbやGithub、Cookpadを初めとしたStartupからエンタープライズ
 
 ![](https://pbs.twimg.com/profile_images/674206748895371265/FH1O0n_l_200x200.png)
 
-(仮)
+株式会社永和システムマネジメント コミュニティマネージャ。
 
-RuboCop のコミッター。
+RuboCop のコミッター。Active Record Oracle enhanced adapter のコミッター。Cucumber のコミッター。
 
-activerecord-oracle_enhanced-adapterのコミッター。
-Rails Contributorsのtop 100。
-
-Asakusa.rb, Ginza.rb, Shibuya.rb などの地域.rb を巡っている。
-
-RubyKaigi 2018 のスピーカー。
+Rails を使ったアプリケーションの開発には 2007 年 / Rails 1.0 から関わり 2019 年 / Rails 5.2 の今年で干支が一周した。
 
 ### (仮)[Kazuhito Hokamura a.k.a hokaccha](https://twitter.com/hokaccha)
 
