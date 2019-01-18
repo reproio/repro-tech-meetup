@@ -36,7 +36,7 @@ AirbnbやGithub、Cookpadを初めとしたStartupからエンタープライズ
 
 ## 登壇者
 
-### [Koichi Ito a.k.a koic](https://twitter.com/koic)
+### [Koichi Ito a.k.a koic](https://twitter.com/koic) from [ESM, Inc.](https://agile.esm.co.jp)
 
 ![](https://pbs.twimg.com/profile_images/674206748895371265/FH1O0n_l_200x200.png)
 
