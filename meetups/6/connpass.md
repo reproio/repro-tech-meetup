@@ -27,7 +27,7 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 # テーマ: Long life Rails
 
-AirbnbやGithub、Cookpadを初めとしたStartupからエンタープライズまで様々なサービスで利用されるRails。
+AirbnbやGitHub、Cookpadを初めとしたStartupからエンタープライズまで様々なサービスで利用されるRails。
 
 そんな便利なRailsを長期に渡って利用しサービス運用していると、ついついレールから外れてしまったり、Updateが疎かになってしまうケースもでてきます。
 
