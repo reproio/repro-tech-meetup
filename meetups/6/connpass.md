@@ -1,8 +1,8 @@
 ![](/meetups/6/banner.png)
 
-- title(up to 50): Repro Tech: Long Life Rails Supported by REJOB
-- 日程
-  - 2019-02-06(Wed) 19:30-22:30
+- title(up to 50): Repro Tech: Long Life RailsApps supported by REJOB
+- 公開: 2019-01-18(Wed)
+- 日程: 2019-02-06(Wed) 19:30-22:30
 - 登壇枠
   - Session: 20min + QA 3-5min * 3
   - LT: 5min * 2
@@ -25,7 +25,8 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 - [Repro Tech Meetup #3 CRE](https://togetter.com/li/1272696)
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
-# テーマ: Long life Rails
+
+# テーマ: Long Life RailsApps
 
 AirbnbやGitHub、Cookpadを初めとしたStartupからエンタープライズまで様々なサービスで利用されるRails。
 
@@ -46,7 +47,7 @@ RuboCop のコミッター。Active Record Oracle enhanced adapter のコミッ�
 
 Rails を使ったアプリケーションの開発には 2007 年 / Rails 1.0 から関わり 2019 年 / Rails 5.2 の今年で干支が一周した。
 
-### (仮)[Kazuhito Hokamura a.k.a hokaccha](https://twitter.com/hokaccha)
+### [Kazuhito Hokamura a.k.a hokaccha](https://twitter.com/hokaccha) from [cookpad](https://www.cookpadteam.com/)
 
 ![](https://pbs.twimg.com/profile_images/3620394181/848a36e68e94b4b466dfb9a9a63861f6_200x200.jpeg)
 
@@ -81,7 +82,7 @@ TBA
 19:40 | TBA by joker1007
 20:05 | TBA by hokaccha
 20:30 | 休憩
-20:35 | TBA by koic
+20:35 | Long Live Ride on Rails by koic
 21:00 | LT : Sponsor
 21:05 | LT : -
 21:10 | LT : -
