@@ -51,7 +51,11 @@ Rails を使ったアプリケーションの開発には 2007 年 / Rails 1.0 �
 
 ![](https://pbs.twimg.com/profile_images/3620394181/848a36e68e94b4b466dfb9a9a63861f6_200x200.jpeg)
 
-TBD
+クックパッド株式会社にて、巨大なRailsアプリケーションを改善する業務に取り組んでいる。
+
+Webフロントエンドが得意だけど最近はRubyを書くことが多い。
+
+個人ではAdventar、Nodebrew、Bdashなどを作っている。
 
 ### [Tomohiro Hashidate a.k.a joker1007](https://twitter.com/joker1007) from [Repro](https://repro.io)
 
@@ -67,11 +71,14 @@ fluentd-plugin-bigqueryのmaintainer。
 
 # スポンサーLT
 
-### [TBA](https://twitter.com/) from [REJOB](https://rejob.co.jp/)
+### [Daisuke Yamasaki a.k.a mojao](https://github.com/mojao) from [REJOB](https://rejob.co.jp/)
 
-![]()
+![](https://avatars3.githubusercontent.com/u/2309666?s=200&v=4)
 
-TBA
+チームビルディングや進行など見ている何でも屋さん。
+Ruby / Rails をメインで書いています。JavaScriptも多少。インフラも多少。
+
+Twitch中毒者です。オンラインゲームの話したい。
 
 # タイムテーブル
 
@@ -80,7 +87,7 @@ TBA
 19:00 | 開場
 19:30 | はじめに
 19:40 | TBA by joker1007
-20:05 | TBA by hokaccha
+20:05 | クックパッドの巨大Railsアプリケーションを「普通」にするための取り組み by hokaccha
 20:30 | 休憩
 20:35 | Long Live Ride on Rails by koic
 21:00 | LT : Sponsor
