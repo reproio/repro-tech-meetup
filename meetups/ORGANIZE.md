@@ -7,13 +7,12 @@
 
 ## Prepare contents
 
-- [ ] AI, CRE, DBなどテーマのcategoryを決定
+- [ ] テーマを決定
 - [ ] どのようなことについて話すか詳細案PR(`meetups/<num>/connpass.md`)作成し、関連メンバーで詳細を詰める
 - [ ] 社外の有識者およびReproそれぞれから１名以上のspeakerのattend
-- [ ] speakerを[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNDc3MTAyMjk2NDE4LTYxMjRhMmUyNjA0YTllNGE4ZWNkNzExZmM0N2RiN2U5YTZiZjc1NGI3Y2ZjN2QyMmVmODdjYzlhMjA4OTYyZDE))へ招待
+- [ ] 必要に応じてspeakerを[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNDc3MTAyMjk2NDE4LTYxMjRhMmUyNjA0YTllNGE4ZWNkNzExZmM0N2RiN2U5YTZiZjc1NGI3Y2ZjN2QyMmVmODdjYzlhMjA4OTYyZDE))へ招待
 - [ ] speakerへTwitterのbio程度の文章量の自己紹介文作成を依頼
-- [ ] trelloにてdesignerへevent banner(660*270px)の作成依頼。このとき、design imageがつくよう背景知識も共有する。
-- [ ] 必要に応じてスピーカーの都合に合わせ開催日を調整し、開催日を確定
+- [ ] 競合イベントやspeakerの都合に合わせ、必要に応じて開催日を調整する
 
 Repro外の開場を手配する場合は、以下の点を確認しておくこと
 
@@ -40,14 +39,22 @@ Repro外の開場を手配する場合は、以下の点を確認しておくこ
 
 ## Promotion
 
-- [ ] announce.md, meetup.md, wantedly.mdなどのプロモーション資料の準備
-- [ ] [Repro meetup group event](https://www.meetup.com/reproio/)
 - [ ] [Repro wantedly feed](https://www.wantedly.com/companies/repro/feed)
-- [ ] [Repro linkedin](https://www.linkedin.com/company/repro-inc-/)
-- [ ] [Repro facebook group event](https://www.facebook.com/pg/reproio/events/)
-- [ ] [Repro connpass group message](https://repro.connpass.com/)
-- [ ] PR担当にtrelloより依頼 / [Repro facebook group](https://www.facebook.com/reproio/), Repro slack, [reproio twitter](https://twitter.com/reproio?lang=en)
-- [ ] Speakerにtwitter, facebookなどのSNSでの拡散
+    - connpassのevent descriptionをそのまま利用し、以下を編集する
+      - タイムテーブル、アクセス、スポンサー情報を削除
+      - タイトルに `開催します🎉` を追記
+      - `## イベント申し込みはこちら` という情報をconnpass urlと一緒に最下部に追記
+- [ ] meetup-fbevent.mdなどのプロモーション資料を作成
+  - [ ] [Repro meetup group event](https://www.meetup.com/reproio/)
+  - [ ] [Repro facebook group event](https://www.facebook.com/pg/reproio/events/)
+- [ ] announce-long.md を作成し、以下のチャネルよりannounce
+  - [ ] [Repro connpass group message](https://repro.connpass.com/)
+  - [ ] [pluto(repro user group) slack のgeneral channel](https://pluto.slack.com/)
+- [ ] announce-short.md を作成し、以下のチャネルよりannounce
+  - [ ] [Repro slack のnewsfeed channel](https://repro.slack.com)
+  - [ ] by buffer / [Repro linkedin](https://www.linkedin.com/company/repro-inc-/)
+  - [ ] by buffer / [reproio twitter](https://twitter.com/reproio?lang=en)
+- [ ] Speakerにtwitter, facebookなどのSNSでの拡散を依頼
 
 ## 1 week before
 
