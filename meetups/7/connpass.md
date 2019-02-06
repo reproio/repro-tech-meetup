@@ -37,27 +37,9 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 
 ## 登壇者
 
-### [Koichi Ito a.k.a koic](https://twitter.com/koic)
+### [XXX](https://twitter.com/reproio)
 
-![](https://pbs.twimg.com/profile_images/674206748895371265/FH1O0n_l_200x200.png)
-
-TBD
-
-### (仮)[Kazuhito Hokamura a.k.a hokaccha](https://twitter.com/hokaccha)
-
-![](https://pbs.twimg.com/profile_images/3620394181/848a36e68e94b4b466dfb9a9a63861f6_200x200.jpeg)
-
-TBD
-
-### [Tomohiro Hashidate a.k.a joker1007](https://twitter.com/joker1007) from [Repro](https://repro.io)
-
-![](https://pbs.twimg.com/profile_images/342683730/__________200x200.jpg)
-
-Repro株式会社CTO。
-Reproサービス全体のアーキテクトやデータエンジニアリングに携わる。
-
-fluentd-plugin-bigqueryのmaintainer。
-他rukawa (simple workflow engine by ruby), yaml_vaultなどのOSS library作成。
+TBA
 
 # スポンサーLT
 
@@ -85,31 +67,15 @@ TBA
 
 # 会場
 
-**＼＼[REJOB](https://rejob.co.jp/) さまイベントスペースをお借りできることになりました／／**
-
-![sponsor event space](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/event.jpg?raw=true)
+TBA
 
 ### アクセス
 
-新大久保駅の改札を出て左手に向かい、AEONの横の入口があるビルに入ります
-
-![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/route-1.jpg?raw=true)
-
-進むと左手にエレベーターが現れるので、乗り込み3Fへ向かいます
-
-![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/route-2.jpg?raw=true)
-
-エレベーターを背に左手へズンズンと進みます
-
-![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/route-3.jpg?raw=true)
-
-すると右手に素敵なオフィスエントランスが見えます
-
-![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/route-4.jpg?raw=true)
+TBA
 
 # スポンサー
 
-開場スポンサー : [REJOB](https://rejob.co.jp/) さま
+TBA
 
 # 注意事項
 
