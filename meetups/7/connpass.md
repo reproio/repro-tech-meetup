@@ -1,0 +1,118 @@
+![](/meetups/6/banner.png)
+
+- title(up to 50): Repro Tech Meetup #6 Long Life Rails Supported by REJOB
+- 日程
+  - 2019-02-06(Wed) 19:30-22:30
+- 登壇枠
+  - Session: 20min + QA 3-5min * 3
+  - LT: 5min * 2
+- 参加者枠: 50-80 FCFS
+- 会場: 未定 場所がなければReproで開催
+
+# Repro Tech Meetup
+
+[Repro](https://repro.io) は、6000以上のWeb・アプリに利用されるマーケティングオートメーションサービスです。
+月間数千億のイベントのデータを処理し、そのデータをAIでユーザーを自動セグメントを行い、毎日数億のプッシュなどの施策を配信しています。
+
+Repro Tech Meetupは、そんなReproが使っている・使おうとしている技術やノウハウについて共有したり、ゲストを呼んで学ぶミートアップです。
+
+### 前回の雰囲気
+
+- [Repro Tech Meetup #5 Frontend Reliability](https://togetter.com/li/1295307)
+- [Repro Tech Meetup #4 AI実戦投入](https://togetter.com/li/1285717)
+- [Repro Tech Meetup #3 CRE](https://togetter.com/li/1272696)
+- [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
+- [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
+
+# テーマ: Reliability Test Engineering
+
+息の長い BtoB サービスは開始直後に比べ、スピードよりも品質が重要になります。
+
+サービス品質の担保を行うために QA チームを設置する企業も多いでしょう。
+
+そんな QA チームで活躍する Test Engineer は、どのような知識やノウハウが必要になるのでしょうか。
+
+また、日々の Test でどのようなテクニックを用い、信頼性の高い Test を行っているのか共有しませんか？
+
+
+## 登壇者
+
+### [Koichi Ito a.k.a koic](https://twitter.com/koic)
+
+![](https://pbs.twimg.com/profile_images/674206748895371265/FH1O0n_l_200x200.png)
+
+TBD
+
+### (仮)[Kazuhito Hokamura a.k.a hokaccha](https://twitter.com/hokaccha)
+
+![](https://pbs.twimg.com/profile_images/3620394181/848a36e68e94b4b466dfb9a9a63861f6_200x200.jpeg)
+
+TBD
+
+### [Tomohiro Hashidate a.k.a joker1007](https://twitter.com/joker1007) from [Repro](https://repro.io)
+
+![](https://pbs.twimg.com/profile_images/342683730/__________200x200.jpg)
+
+Repro株式会社CTO。
+Reproサービス全体のアーキテクトやデータエンジニアリングに携わる。
+
+fluentd-plugin-bigqueryのmaintainer。
+他rukawa (simple workflow engine by ruby), yaml_vaultなどのOSS library作成。
+
+# スポンサーLT
+
+### [TBA](https://twitter.com/) from [REJOB](https://rejob.co.jp/)
+
+![]()
+
+TBA
+
+# タイムテーブル
+
+時間  | 内容
+---   | ---
+19:00 | 開場
+19:30 | はじめに
+19:40 | TBA by joker1007
+20:05 | TBA by hokaccha
+20:30 | 休憩
+20:35 | TBA by koic
+21:00 | LT : Sponsor
+21:05 | LT : -
+21:10 | LT : -
+21:15 | 懇親会
+22:30 | 解散
+
+# 会場
+
+**＼＼[REJOB](https://rejob.co.jp/) さまイベントスペースをお借りできることになりました／／**
+
+![sponsor event space](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/event.jpg?raw=true)
+
+### アクセス
+
+新大久保駅の改札を出て左手に向かい、AEONの横の入口があるビルに入ります
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/route-1.jpg?raw=true)
+
+進むと左手にエレベーターが現れるので、乗り込み3Fへ向かいます
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/route-2.jpg?raw=true)
+
+エレベーターを背に左手へズンズンと進みます
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/route-3.jpg?raw=true)
+
+すると右手に素敵なオフィスエントランスが見えます
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/meetups/6/route-4.jpg?raw=true)
+
+# スポンサー
+
+開場スポンサー : [REJOB](https://rejob.co.jp/) さま
+
+# 注意事項
+
+- 技術の共有が目的の勉強会です
+- 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
+- イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
