@@ -54,10 +54,10 @@ TBA
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBA by joker1007
-20:05 | TBA by hokaccha
+19:40 | TBA 
+20:05 | TBA 
 20:30 | 休憩
-20:35 | TBA by koic
+20:35 | TBA 
 21:00 | LT : Sponsor
 21:05 | LT : -
 21:10 | LT : -
