@@ -2,7 +2,7 @@
 
 - title(up to 50): Repro Tech Meetup #7 Real World Test Engineering
 - 日程
-  - 2019-03-12(Wed) 19:30-22:30
+  - 2019-03-11週予定 19:30-22:30
 - 登壇枠
   - Session: 20min + QA 3-5min * 3
   - LT: 5min * 2
