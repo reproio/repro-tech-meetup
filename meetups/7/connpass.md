@@ -1,4 +1,4 @@
-![](/meetups/6/banner.png)
+![](/assets/images/repro-tech-meetup-banner.png)
 
 - title(up to 50): Repro Tech Meetup #6 Long Life Rails Supported by REJOB
 - 日程
