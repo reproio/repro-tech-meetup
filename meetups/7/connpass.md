@@ -1,6 +1,6 @@
 ![](/assets/images/repro-tech-meetup-banner.png)
 
-- title(up to 50): Repro Tech Meetup #6 Long Life Rails Supported by REJOB
+- title(up to 50): Repro Tech Meetup #7 Real World Test Engineering
 - 日程
   - 2019-02-06(Wed) 19:30-22:30
 - 登壇枠
