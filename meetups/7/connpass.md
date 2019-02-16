@@ -24,7 +24,7 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
-# テーマ: Reliability Test Engineering
+# テーマ: Real World Test Engineering
 
 息の長い BtoB サービスは開始直後に比べ、スピードよりも品質が重要になります。
 
