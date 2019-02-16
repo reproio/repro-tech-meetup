@@ -42,7 +42,7 @@ TBA
 
 # スポンサーLT
 
-### [TBA](https://twitter.com/) from [REJOB](https://rejob.co.jp/)
+### [TBA](https://twitter.com/) from [XXX]()
 
 ![]()
 
