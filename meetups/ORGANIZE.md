@@ -10,7 +10,7 @@
 - [ ] テーマを決定
 - [ ] どのようなことについて話すか詳細案PR(`meetups/<num>/connpass.md`)作成し、関連メンバーで詳細を詰める
 - [ ] 社外の有識者およびReproそれぞれから１名以上のspeakerのattend
-- [ ] 必要に応じてspeakerを[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNDc3MTAyMjk2NDE4LTYxMjRhMmUyNjA0YTllNGE4ZWNkNzExZmM0N2RiN2U5YTZiZjc1NGI3Y2ZjN2QyMmVmODdjYzlhMjA4OTYyZDE))へ招待
+- [ ] 必要に応じてspeakerを[Slack](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNTA0ODg4NzQ3NzgwLTFjMTEwNDMyMTM0MGQ3ZjgxYjlmZjQzZTc5MjYyOTNkMzI0MTQxOWI0MzYzMTY0ZmJjZDE2MzM4NWNlYTQ2MmU))へ招待
 - [ ] speakerへTwitterのbio程度の文章量の自己紹介文作成を依頼
 - [ ] 競合イベントやspeakerの都合に合わせ、必要に応じて開催日を調整する
 
