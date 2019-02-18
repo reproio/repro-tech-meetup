@@ -1,8 +1,8 @@
-![](/meetups/6/banner.png)
+![](/assets/images/repro-tech-meetup-banner.png)
 
-- title(up to 50): Repro Tech Meetup #6 Long Life Rails Supported by REJOB
+- title(up to 50): Repro Tech Meetup #7 Real World Test Engineering
 - 日程
-  - 2019-02-06(Wed) 19:30-22:30
+  - 2019-03-11週予定 19:30-22:30
 - 登壇枠
   - Session: 20min + QA 3-5min * 3
   - LT: 5min * 2
@@ -24,15 +24,14 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
-# テーマ: Reliability Test Engineering
+# テーマ: Real World Test Engineering
 
-息の長い BtoB サービスは開始直後に比べ、スピードよりも品質が重要になります。
+信頼性を含む品質の担保を目的としたテスティング、大変ですよね。
+品質の悪いソフトウェアは障害の渦を巻きおこし、顧客の信頼を損なうだけではなく、開発チーム全体を疲弊させます。
 
-サービス品質の担保を行うために QA チームを設置する企業も多いでしょう。
+そうしないためのドメインテスト・スモークテストなど様々なテスト技法が世の中に存在するものの、どの手法を、どのタイミングに、どうやって、誰がやるべきものかなかなか難しいものです。
 
-そんな QA チームで活躍する Test Engineer は、どのような知識やノウハウが必要になるのでしょうか。
-
-また、日々の Test でどのようなテクニックを用い、信頼性の高い Test を行っているのか共有しませんか？
+そんな悩みや取り組み・仕組みを共有し、現実感のある品質担保を目指していきませんか？
 
 
 ## 登壇者
@@ -43,7 +42,7 @@ TBA
 
 # スポンサーLT
 
-### [TBA](https://twitter.com/) from [REJOB](https://rejob.co.jp/)
+### [TBA](https://twitter.com/) from [XXX]()
 
 ![]()
 
@@ -55,10 +54,10 @@ TBA
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | TBA by joker1007
-20:05 | TBA by hokaccha
+19:40 | TBA by koki1023
+20:05 | TBA 
 20:30 | 休憩
-20:35 | TBA by koic
+20:35 | TBA 
 21:00 | LT : Sponsor
 21:05 | LT : -
 21:10 | LT : -
