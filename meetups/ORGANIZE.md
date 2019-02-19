@@ -32,6 +32,7 @@ Repro外の開場を手配する場合は、以下の点を確認しておくこ
 
 最低でも開催3W前に公開すること
 
+- [ ] イベント会場への入り口がわかりにくい場合は、その誘導を目的としたmapをskitchなりで作成する
 - [ ] speakerより自己紹介文を回収
 - [ ] connpassへ公開準備を行い、speakerに最終チェックを依頼。期間は1日程度設ける。
 - [ ] 必要に応じてspeaker陣で目的やテーマについての意識合わせ、開催に伴う懸念点の払拭を目的としたkick-off (15min) on video chatを開催する
@@ -49,7 +50,9 @@ Repro外の開場を手配する場合は、以下の点を確認しておくこ
   - [ ] [Repro facebook group event](https://www.facebook.com/pg/reproio/events/)
 - [ ] announce-long.md を作成し、以下のチャネルよりannounce
   - [ ] [Repro connpass group message](https://repro.connpass.com/)
-  - [ ] [pluto(repro user group) slack のgeneral channel](https://pluto.slack.com/)
+  - [ ] [pluto(repro user group) slack ](https://pluto.slack.com/)
+    - [ ] #general with `no-channel` mention
+    - [ ] #info_tech with `@channel` mention
 - [ ] announce-short.md を作成し、以下のチャネルよりannounce
   - [ ] [Repro slack のnewsfeed channel](https://repro.slack.com)
   - [ ] by buffer / [Repro linkedin](https://www.linkedin.com/company/repro-inc-/)
@@ -58,6 +61,7 @@ Repro外の開場を手配する場合は、以下の点を確認しておくこ
 
 ## 1 week before
 
+- [ ] 社内お手伝いを募る。
 - [ ] LT枠が埋まっていなかったら知り合いに打診
 - [ ] 必要に応じてconnpassの増枠
 - [ ] LTを含むSpeakerよりタイトルを受領
@@ -75,13 +79,15 @@ LTを含むSpeakerよりタイトルを受領
 
 ## 1 day before
 
+- [ ] 手伝ってくれるメンバーと役割分担について15min kick-offを行う
 - [ ] Repro以外の会場の場合、以下をpackingする
     - novelty
         - Repro ステッカー * 100-200枚
         - Repro Tシャツ S*1, M*2, L*2, XL*1
-    - (option)Route Announce
+    - (option)Route and Attention Announce
         - 道案内用の紙 * 1-2
-        - 譜面スタンド
+        - 道案内図を立てる譜面スタンド
+        - 土足厳禁である場合は、それを示すための譜面スタンド
     - Acceptance
         - Reproテーブルクロス * 1枚
         - クロス固定用洗濯ばさみ * 1set
@@ -92,7 +98,7 @@ LTを含むSpeakerよりタイトルを受領
     - LT
         - タイムキープ用キッチンタイマー
         - 残り時間表示用のプラカード(1,2,3,5 min to end)
-    - party
+    - After Party
         - 太めのサインペン * 1本
         - 養生テープ * 1 roll
         - 45Lゴミ袋 * 1 set
@@ -139,22 +145,29 @@ LTされる方はテーマをconnpass feedに投稿いただけると嬉しい�
 それではイベントでお会い出来ることを楽しみにしています✨
 ```
 
-## イベント当日の作業
+## イベント当日
 
-カクヤスより飲み物受け取りのため、社外の会場でイベントをする場合は1h前(18:00)より以下の作業を行う
-なお、スタッフはなるべく散らばって座ること。
+### 心構え
 
-- 会場設営(開場1h前, Reproの場合は30min前)
+1. カクヤスより飲み物受け取りのため、社外の会場でイベントをする場合は1h前(18:00)より以下の作業を行う
+1. Repro memberはイベント参加者にイベントに来てもらって良かったと思ってもらうため、以下を心がける
+  - 散らばって座ること
+  - 身内で話さないこと
+    - 他の人に1人で話しかけにくいのであれば、2人チームで動いてもOK
+
+### 作業
+
+- 17:30- 会場移動
+- 18:00- 会場設営(開場1h前, Reproの場合は30min前)
     - (option) 道案内スタンドの設置
+    - 原状復帰を目的とした写真撮影を行い、slackにポストしておく
     - 受付
         - 長テーブルの配置
         - クロス、stickerの配置
         - 受付デスクもしくは近くテーブルにビールやおつまみの配置
         - ネームカードと用紙および記述スペースの確保
-    - ネームカードへの記述内容
-        - handle and name
-        - 好きなこと
-        - 名刺も挟んでもらう
+    - ネームホルダー
+        - 名刺を挟む OR connpass handleを書いてもらう
     - 音響設備
         - wifiへchrome cast audioを接続し、chrome cast audioより音楽を流す
     - 座席
@@ -163,23 +176,23 @@ LTされる方はテーマをconnpass feedに投稿いただけると嬉しい�
         - 設営完了後、その状態をSNSに拡散し開場していることを知らせる
     - (Option) Timeline
         - 複数ディスプレイもしくはプロジェクターを利用可能な場合は、TwitterなどのタイムラインおよびWifi SSID/PW, Hashtagを表示
-- LT準備
-    - キッチンタイマーの案内
-    - 登壇者・LT社については接続確認の案内
-- アテンド
-    - connpass ID もしくは名前を確認し、connpass上のアテンドをする
-    - connpass未申し込み者は、その場で申し込んでもらう
-    - stickerやお酒を案内
-    - 奥から詰めて座ってもらうよう案内
-- 開始
+- 19:00 開場
+    - アテンド
+        - connpass ID もしくは名前を確認し、connpass上のアテンドをする
+        - connpass未申し込み者は、その場で申し込んでもらう
+        - stickerやお酒を案内
+        - 奥から詰めて座ってもらうよう案内
+    - 登壇者への案内
+      - キッチンタイマーの案内
+      - 登壇者・LT社については接続確認の案内
+- 19:30 開始
     - 必要に応じて開始を5-10min遅らせる
     - 実参加人数に合わせ、ピザを発注 (5-7名/枚)
-- セッション開始
+- 19:40 セッション開始
     - キッチンタイマーによる登壇者自身のtime keep
     - スタッフ側もでのtime keepも実施。必要に応じてプラカードによる通知
     - 時間が大きく押し気味の場合は、前半の部終了後の休憩時間(ask me anything 的な時間) or 全発表終了後の懇親会にてやってもらう
-- 懇親前
-    - Tシャツプレセント大会
+- 21:00頃 懇親前
     - 会場参加者の力を借りてピザとお酒を展開
 
 ## イベント終了後
