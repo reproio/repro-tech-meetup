@@ -30,8 +30,23 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 TBD
 
 ## 登壇者
+### [Aki Ariga](https://twitter.com/chezou)
 
-### [XXX](https://twitter.com/reproio)
+TBA
+
+### [Kota Uenishi](https://twitter.com/kuenishi)
+
+TBA
+
+### [Sho Shimauchi](https://twitter.com/shiumachi)
+
+TBA
+
+### [Takashi Nishibayashi](https://twitter.com/hagino3000)
+
+TBA
+
+### [未定](https://twitter.com/reproio)
 
 TBA
 
