@@ -1,6 +1,6 @@
 ![](/assets/images/repro-tech-meetup-banner.png)
 
-- title: Repro Tech Meetup #8 Practical AI
+- title: Repro Tech Meetup #7 Practical AI
 - 日程
   - 2019-04-02 予定 19:30-22:30
 - 登壇枠
