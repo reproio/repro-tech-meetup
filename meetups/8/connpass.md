@@ -1,6 +1,6 @@
 ![](/assets/images/repro-tech-meetup-banner.png)
 
-- title: Repro Tech Meetup #8 AI(仮)
+- title: Repro Tech Meetup #8 Practical AI
 - 日程
   - 2019-04-02 予定 19:30-22:30
 - 登壇枠
@@ -25,9 +25,13 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
-# テーマ: AI (仮)
+# テーマ: Practical AI
 
-TBD
+現在 "AI" はかつてないブームにあります。ただなんとなくに過ぎなかったその興味は、明らかに "実用性" に移っていると感じます。
+Repro AI Labs では顧客に価値を届けるための実用的な AI の可能性を真剣に考えています。
+実際にその成果は汎用的な機能化にまで至りました。（[『SmartAudience™』ベータ版の提供を開始](https://prtimes.jp/main/html/rd/p/000000073.000013569.html)）
+そのためには、学習のためのデータパイプライン、アルゴリズム、サービスへの組み込み、そしてそれを運用する MLOps ...と知見は多岐に渡ります。
+今回の Meetup では、AI が実際に使われている現場の学びを共有し、AI の実用性に関する知見を深めていきましょう！
 
 ## 登壇者
 ### [Aki Ariga](https://twitter.com/chezou)
