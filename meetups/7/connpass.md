@@ -36,23 +36,34 @@ Repro AI Labs では顧客に価値を届けるための実用的な AI の可�
 ## 登壇者
 ### [Aki Ariga](https://twitter.com/chezou)
 
+![](https://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_200x200.jpeg)
+
 TBA
 
 ### [Kota Uenishi](https://twitter.com/kuenishi)
+
+![](https://pbs.twimg.com/profile_images/1000661577660481536/gXqQ8Jdq_200x200.jpg)
 
 TBA
 
 ### [Sho Shimauchi](https://twitter.com/shiumachi)
 
+![](https://pbs.twimg.com/profile_images/378800000112360750/fca0f65ff763dc6baf428a286f238da1_200x200.png)
+
 TBA
 
 ### [Takashi Nishibayashi](https://twitter.com/hagino3000)
+
+![](https://pbs.twimg.com/profile_images/1477852750/__________2010-10-31_22.39.54_______200x200.png)
 
 TBA
 
 ### [Takeshi Kamada](https://twitter.com/take4_k)
 
-TBA
+![](https://pbs.twimg.com/profile_images/508177536258289664/RvWlfFOx_200x200.jpeg)
+
+九州工業大学情報工学部電子情報工学科卒。Webアプリケーションエンジニア。2018年6月にRepro入社。
+Repro AI LabsにてAI機能の開発がメイン業務。Rails+Vue.jsのフロントエンドからPythonのMLバッチ、MLインフラまで担当。
 
 # スポンサーLT
 
