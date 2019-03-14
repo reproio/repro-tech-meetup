@@ -50,7 +50,7 @@ TBA
 
 TBA
 
-### [未定](https://twitter.com/reproio)
+### [Takeshi Kamada](https://twitter.com/take4_k)
 
 TBA
 
