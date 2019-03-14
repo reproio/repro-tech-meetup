@@ -1,6 +1,6 @@
 # Repro Tech Meetup
 
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-tech-meetup-banner-wide.png?raw=true)
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-tech-banner-wide.png?raw=true)
 
 Repro Tech Meetupは、スタートアップにおける技術領域での失敗を少しでも防ぐようノウハウを共有することを目的とするミートアップです。
 
