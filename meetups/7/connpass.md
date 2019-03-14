@@ -7,7 +7,7 @@
   - Session: 20min + 5min (QA) * 5
   - LT: 5min
 - 参加者枠: 80-100 FCFS
-- 会場: 未定
+- 会場: NAVITIMEさま 東京都港区南青山3-8-38 南青山東急ビル 1F
 
 # Repro Tech Meetup
 
@@ -56,9 +56,7 @@ TBA
 
 # スポンサーLT
 
-### [TBA](https://twitter.com/) from [XXX]()
-
-![]()
+### [TBA](https://twitter.com/) from [NAVITIME](http://corporate.navitime.co.jp/)
 
 TBA
 
@@ -80,15 +78,21 @@ TBA
 
 # 会場
 
-TBA
+**＼＼[NAVITIME](http://corporate.navitime.co.jp/) さまイベントスペースをお借りできることになりました／／**
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-2.jpg?raw=true)
 
 ### アクセス
 
-TBA
+東京都港区南青山3-8-38　南青山東急ビル 1F
+表参道駅を出て徒歩5分
+https://goo.gl/maps/i3GfvVrFJb52
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-1.jpg?raw=true)
 
 # スポンサー
 
-TBA
+会場スポンサー: NAVITIMEさま
 
 # 注意事項
 
