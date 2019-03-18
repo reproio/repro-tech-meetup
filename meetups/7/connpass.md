@@ -52,11 +52,12 @@ Chainerをつかって分散深層学習をやっています。
 
 TBA
 
-### [Takashi Nishibayashi](https://twitter.com/hagino3000)
+### [Takashi Nishibayashi (hagino3000)](https://twitter.com/hagino3000)
 
 ![](https://pbs.twimg.com/profile_images/1477852750/__________2010-10-31_22.39.54_______200x200.png)
 
-TBA
+インターネット広告配信サービスの開発をしています。配信効率の最適化や機械学習を使った予測処理の実装を主に担当。
+
 
 ### [Takeshi Kamada](https://twitter.com/take4_k)
 
@@ -67,9 +68,11 @@ Repro AI LabsにてAI機能の開発がメイン業務。Rails+Vue.jsのフロ�
 
 # スポンサーLT
 
-### [TBA](https://twitter.com/) from [NAVITIME](http://corporate.navitime.co.jp/)
+### [wao009](https://twitter.com/wao009) from [NAVITIME](http://corporate.navitime.co.jp/)
 
-TBA
+![](https://pbs.twimg.com/profile_images/441164396077666304/SnuKMFVx_200x200.jpeg)
+
+Azure の Cognitive Service を触っています。R&DのD寄りエンジニア
 
 # コラボレーター
 
