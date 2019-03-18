@@ -44,7 +44,7 @@ TBA
 
 ![](https://pbs.twimg.com/profile_images/1000661577660481536/gXqQ8Jdq_200x200.jpg)
 
-TBA
+Chainerをつかって分散深層学習をやっています。
 
 ### [Sho Shimauchi](https://twitter.com/shiumachi)
 
@@ -70,6 +70,20 @@ Repro AI LabsにてAI機能の開発がメイン業務。Rails+Vue.jsのフロ�
 ### [TBA](https://twitter.com/) from [NAVITIME](http://corporate.navitime.co.jp/)
 
 TBA
+
+# コラボレーター
+
+- [Shinta Nakayama](https://twitter.com/tokoroten)
+
+株式会社 NextInt 代表。 Repro AI Lab 技術顧問
+
+![](https://pbs.twimg.com/profile_images/503531956676476928/mjRjMe3q.png_bigger)
+
+- [Akira Miki](https://twitter.com/threetreeslight)
+
+Repro VPoE / co-founder
+
+![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R.jpg_bigger)
 
 # タイムテーブル
 
