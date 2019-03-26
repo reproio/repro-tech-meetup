@@ -1,15 +1,6 @@
-![](/assets/images/repro-tech-meetup-banner.png)
+# 2019-04-04にRepro Tech #7 Practical AIを開催します🎉
 
-- タイトル: Repro Tech #7 Practical AI supported by NAVITIME
-- 日程
-  - 2019-04-04 19:30-22:30
-- 登壇枠
-  - Session: 20min + 5min (QA) * 5
-  - LT: 5min
-- 参加者枠: 80-100 FCFS
-- 会場: 東京都港区南青山3-8-38 南青山東急ビル 1F NAVITIMEイベントスペース
-
-# Repro Tech Meetup
+## Repro Tech Meetup
 
 [Repro](https://repro.io) は、6000以上のWeb・アプリに利用されるマーケティングオートメーションサービスです。
 月間数千億のイベントのデータを処理し、そのデータをAIでユーザーを自動セグメントを行い、毎日数億のプッシュなどの施策を配信しています。
@@ -25,7 +16,7 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
-# テーマ: Practical AI
+## テーマ: Practical AI
 
 現在 "AI" はかつてないブームにあります。
 
@@ -38,9 +29,13 @@ Repro AI Labs では顧客に価値を届けるための実用的な AI の可�
 
 今回の Meetup では、AI が実際に使われている現場の学びを共有し、AI の実用性に関する知見を深めていきましょう！
 
+### お申込みはこちら
+
+https://repro-tech.connpass.com/event/124326/
+
 ## 登壇者
 
-### [Michiaki Ariga (chezou)](https://twitter.com/chezou)
+### [Aki Ariga (chezou)](https://twitter.com/chezou)
 
 ![](https://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_200x200.jpeg)
 
@@ -73,7 +68,6 @@ ex-Cloudera, ex-NEC.
 
 配信効率の最適化や機械学習を使った予測処理の実装を主に担当。
 
-
 ### [Takeshi Kamada (take4)](https://twitter.com/take4_k)
 
 ![](https://pbs.twimg.com/profile_images/508177536258289664/RvWlfFOx_200x200.jpeg)
@@ -82,15 +76,7 @@ ex-Cloudera, ex-NEC.
 
 Repro AI LabsにてAI機能の開発がメイン業務。Rails+Vue.jsのフロントエンドからPythonのMLバッチ、MLインフラまで担当。
 
-# スポンサーLT
-
-### [Makiko Ohkawa (wao009)](https://twitter.com/wao009) from [NAVITIME](http://corporate.navitime.co.jp/)
-
-![](https://pbs.twimg.com/profile_images/441164396077666304/SnuKMFVx.jpeg_bigger)
-
-Azure の Cognitive Service を触っています。R&DのD寄りエンジニア
-
-# コラボレーター(ワイガヤ)
+## コラボレーター(ワイガヤ)
 
 ### [Shinta Nakayama (tokoroten)](https://twitter.com/tokoroten)
 
@@ -104,44 +90,10 @@ Repro VPoE / co-founder
 
 ![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R.jpg_bigger)
 
-# タイムテーブル
-
-時間  | 内容
----   | ---
-19:00 | 開場
-19:30 | はじめに
-19:40 | Ari Ariga
-20:05 | Kota Uenishi
-20:30 | Sho Shimauchi
-20:55 | 休憩 (軽食)
-21:00 | Takashi Nishibayashi
-21:25 | Takeshi Kamada
-21:50 | LT : Sponsor
-21:55 | 懇親会
-22:30 | 解散
-
-# 会場
+## 会場
 
 ![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-2.jpg?raw=true)
 
-### アクセス
+## お申込みはこちら
 
-東京都港区南青山3-8-38　南青山東急ビル 1F
-
-表参道駅を出て徒歩5分
-
-https://goo.gl/maps/i3GfvVrFJb52
-
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-1.jpg?raw=true)
-
-# スポンサー
-
-会場スポンサー: NAVITIMEさま
-
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/navitime/navitime-logo-150_33.png?raw=true)
-
-# 注意事項
-
-- 技術の共有が目的の勉強会です
-- 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
-- イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
+https://repro-tech.connpass.com/event/124326/

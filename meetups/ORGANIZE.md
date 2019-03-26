@@ -52,26 +52,29 @@ Repro Tech Meetupにおける開催までの流れをまとめる。
 
 上記に加え、イベントテーマごとにアンケートをカスタマイズしても良い。
 
-## 宣伝
+## プロモーション
 
 - [ ] HR / [Repro wantedly feed](https://www.wantedly.com/companies/repro/feed)
     - connpassのevent descriptionをそのまま利用し、以下を編集する
       - タイムテーブル、アクセス、スポンサー情報を削除
       - タイトルに `開催します🎉` を追記
       - `## イベント申し込みはこちら` という情報をconnpass urlと一緒に最下部に追記
-- [ ] HR / [meetup-fbevent.mdなどのプロモーション資料を作成
-  - [ ] HR / [Repro meetup group event](https://www.meetup.com/reproio/)
-  - [ ] HR / [Repro facebook group event](https://www.facebook.com/pg/reproio/events/)
-- [ ] HR / announce-long.md を作成し、以下のチャネルよりannounce
-  - [ ] HR / [Repro connpass group message](https://repro.connpass.com/)
-  - [ ] HR / [pluto(repro user group) slack ](https://pluto.slack.com/)
-    - [ ] HR / `#general` with `no-channel` mention
-    - [ ] HR / `#info_tech` with `@channel` mention
-- [ ] HR / announce-short.md を作成し、以下のチャネルよりannounce
-  - [ ] HR / [Repro slack のnewsfeed channel](https://repro.slack.com)
-  - [ ] by buffer / [Repro linkedin](https://www.linkedin.com/company/repro-inc-/)
-  - [ ] by buffer / [reproio twitter](https://twitter.com/reproio?lang=en)
+- HR / event page
+  - [ ] `fbevent.md`を作成し、[Repro meetup group event](https://www.meetup.com/reproio/) にて翌朝公開
+  - [ ] meetup.mdを作成し、[Repro facebook group event](https://www.facebook.com/pg/reproio/events/) にて即時公開
+- HR / announce (long version)
+  - [ ] `announce-long.md` を作成
+  - [ ] [Repro connpass group message](https://repro.connpass.com/) にてアナウンス
+  - [pluto(repro user group) slack ](https://pluto.slack.com/) にてアナウンス
+    - [ ] In `#general` with `no-channel` mention
+    - [ ] In `#info_tech` with `@channel` mention
+- HR / announce (short version)
+  - [ ] `announce-short.md` を作成し、以下のチャネルよりannounce
+  - [ ] [Repro slack のnewsfeed channel](https://repro.slack.com)
+  - [ ] [Repro linkedin](https://www.linkedin.com/company/repro-inc-/) with buffer
+  - [ ] [reproio twitter](https://twitter.com/reproio?lang=en) with buffer
 - [ ] Team / スピーカーにtwitter, facebookなどのSNSでの拡散を依頼
+- [ ] HR / スポンサーに社内やSNSで拡散を依頼
 
 ## 開催１週前
 
