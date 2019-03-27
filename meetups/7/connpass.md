@@ -40,20 +40,11 @@ Repro AI Labs では顧客に価値を届けるための実用的な AI の可�
 
 ## 登壇者
 
-### [Michiaki Ariga (chezou)](https://twitter.com/chezou)
-
-![](https://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_200x200.jpeg)
-
-ML engineering and product development lover.
-
-Treasure Data. Previously: Cloudera, Cookpad.
-Founder of #kwskrb & #MLCT
-
-「仕事ではじめる機械学習」出版しました
-
 ### [Kota Uenishi (kuenishi)](https://twitter.com/kuenishi)
 
 ![](https://pbs.twimg.com/profile_images/1000661577660481536/gXqQ8Jdq_200x200.jpg)
+
+所属: Preferred Networks
 
 Chainerをつかって分散深層学習をやっています。
 
@@ -110,14 +101,13 @@ Repro VPoE / co-founder
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | Ari Ariga
-20:05 | Kota Uenishi
-20:30 | Sho Shimauchi
-20:55 | 休憩 (軽食)
-21:00 | Takashi Nishibayashi
-21:25 | Takeshi Kamada
-21:50 | LT : Sponsor
-21:55 | 懇親会
+19:40 | 深層学習を速くするいくつかの方法 by Kota Uenishi
+20:05 | 完成された機械学習モデルを保守していくには by Sho Shimauchi
+20:30 | 休憩 (軽食)
+20:35 | Takashi Nishibayashi
+21:00 | Takeshi Kamada
+21:25 | LT : Sponsor
+21:30 | 懇親会
 22:30 | 解散
 
 # 会場
