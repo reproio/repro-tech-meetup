@@ -9,6 +9,10 @@
 - 参加者枠: 80-100 FCFS
 - 会場: 東京都港区南青山3-8-38 南青山東急ビル 1F NAVITIMEイベントスペース
 
+# Annouce
+
+**＼増枠しました／**
+
 # Repro Tech Meetup
 
 [Repro](https://repro.io) は、6000以上のWeb・アプリに利用されるマーケティングオートメーションサービスです。
@@ -44,34 +48,76 @@ Repro AI Labs では顧客に価値を届けるための実用的な AI の可�
 
 ![](https://pbs.twimg.com/profile_images/1000661577660481536/gXqQ8Jdq_200x200.jpg)
 
+#### プロフィール
+
 所属: Preferred Networks
 
 Chainerをつかって分散深層学習をやっています。
+
+#### 発表内容
+
+- 深層学習を速くするいくつかの方法
+
 
 ### [Sho Shimauchi (shiumachi)](https://twitter.com/shiumachi)
 
 ![](https://pbs.twimg.com/profile_images/378800000112360750/fca0f65ff763dc6baf428a286f238da1_200x200.png)
 
+#### プロフィール
+
+ルミノソジャパン合同会社
+
 Solutions Architect at Luminoso Technologies.
 
 ex-Cloudera, ex-NEC.
+
+#### 発表内容
+
+- 完成された機械学習モデルを保守していくには
+
+データサイエンティストや機械学習エンジニアというと、いい機械学習モデルを作ることに目が行きがちになってしまう。
+
+しかし、既にモデルが完成している場合に次にすべきことについてはあまり情報がまとまっていない。データサイエンスのコードは、テストの不足や可読性を考慮しないなど、得てして保守性の低いレガシーコードになりがちである。
+
+このセッションでは、こうしたデータサイエンスレガシーコードを保守する立場に焦点を当て、そのような場合に役立つライブラリやtipsを紹介していく。
 
 ### [Takashi Nishibayashi (hagino3000)](https://twitter.com/hagino3000)
 
 ![](https://pbs.twimg.com/profile_images/1477852750/__________2010-10-31_22.39.54_______200x200.png)
 
-インターネット広告配信サービスの開発をしています。
+#### プロフィール
 
-配信効率の最適化や機械学習を使った予測処理の実装を主に担当。
+Software Engineer at VOYAGE GROUP
+
+インターネット広告配信サービスの開発をしています。  
+配信効果の最適化・機械学習を使った予測処理の実装・データ分析を担当。  
+最近の興味はオンライン意思決定とメカニズムデザイン。
+
+#### 発表内容
+
+予測システムと意思決定の自動化
+
+ビジネス上の意思決定のために機械学習で予測値を求める事は一般的になりました。  
+本セッションでは求めた予測値をどのように利用するかに焦点を当てます。  
+特に不確実性下において意思決定を行なうオンライン意思決定の手法と事例を紹介します。
 
 
 ### [Takeshi Kamada (take4)](https://twitter.com/take4_k)
 
 ![](https://pbs.twimg.com/profile_images/508177536258289664/RvWlfFOx_200x200.jpeg)
 
+#### プロフィール
+
 九州工業大学情報工学部電子情報工学科卒。Webアプリケーションエンジニア。2018年6月にRepro入社。
 
 Repro AI LabsにてAI機能の開発がメイン業務。Rails+Vue.jsのフロントエンドからPythonのMLバッチ、MLインフラまで担当。
+
+#### 発表内容
+
+- REPROのAI機能を支える技術
+
+ReproのML基盤を、前回のミートアップでの発表 [最速でAI機能をリリースする技術](https://speakerdeck.com/taison/zui-su-deaiji-neng-woririsusuruji-shu-repro-tech-meetup4) から、実際にリリースして基盤を安定させるまでの軌跡を交えながら紹介する。
+
 
 # スポンサーLT
 
@@ -89,11 +135,19 @@ Azure の Cognitive Service を触っています。R&DのD寄りエンジニア
 
 株式会社 NextInt 代表。 Repro AI Lab 技術顧問
 
+### [Yuichiro Someya (ayemos)](https://twitter.com/ayemos_y)
+
+![](https://pbs.twimg.com/profile_images/1111915811151593474/wEioHaGQ.png_bigger)
+
+Freelance Engineer。株式会社ポインティ CTO
+
+Supporter in Repro AI Lab
+
 ### [Akira Miki (threetreeslight)](https://twitter.com/threetreeslight)
 
-Repro VPoE / co-founder
-
 ![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R.jpg_bigger)
+
+Repro VPoE / co-founder
 
 # タイムテーブル
 
@@ -104,8 +158,8 @@ Repro VPoE / co-founder
 19:40 | 深層学習を速くするいくつかの方法 by Kota Uenishi
 20:05 | 完成された機械学習モデルを保守していくには by Sho Shimauchi
 20:30 | 休憩 (軽食)
-20:35 | Takashi Nishibayashi
-21:00 | Takeshi Kamada
+20:35 | 予測システムと意思決定の自動化 by Takashi Nishibayashi
+21:00 | REPROのAI機能を支える技術 by Takeshi Kamada
 21:25 | LT : Sponsor
 21:30 | 懇親会
 22:30 | 解散

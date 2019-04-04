@@ -52,9 +52,9 @@ Reproの使っている・使いたい技術やノウハウについて共有し
 
 ## サービスの成長を支援
 
-- 月間数千億イベントのデータを処理
+- 毎日5億以上のイベントデータを処理
 - AIでユーザーを自動セグメント
-- 毎日数億プッシュなど配信
+- 毎日1億以上のプッシュなど施策を配信
 
 ---
 
@@ -72,12 +72,22 @@ Reproの使っている・使いたい技術やノウハウについて共有し
 
 ## Practical AI
 
-そろそろAIの本番きてるっしょ？
+AI、本番きてるっしょ？👀
 
 ---
 
-## お金を生む
+# ってことは
 
+---
+## 作るだけじゃない
+
+- モデルをつくり
+- それを改善・保守し
+- 安定して提供し続ける
+
+---
+
+# Practical AI
 
 ---
 
@@ -89,9 +99,9 @@ Reproの使っている・使いたい技術やノウハウについて共有し
 
 ## Facilities
 
-- SSID/PWは前を参照ください
+- SSID/PWは会場入口近くの壁にあります
 - 飲食自由です
-- トイレは会場外にあります
+- トイレは会場を出て奥にあります
 - ゴミ箱は会場奥にあります
 
 ---
@@ -102,20 +112,35 @@ Reproの使っている・使いたい技術やノウハウについて共有し
 
 ---
 
-## QA
+## ワイガヤQAタイム
 
-- 各発表後にQAタイムあります
+
+[tokoroten](https://twitter.com/tokoroten) | [ayemos](https://twitter.com/ayemos_y) | [threetreeslight](https://twitter.com/threetreeslight)
+:---: | :---: | :---:
+![](https://pbs.twimg.com/profile_images/503531956676476928/mjRjMe3q.png_bigger) | ![](https://pbs.twimg.com/profile_images/1111915811151593474/wEioHaGQ.png_bigger) | ![](https://pbs.twimg.com/profile_images/668402457978908672/2bdWkA5R.jpg_bigger)
+
+
+- 各発表後にワイガヤ勢よる質問セレクションおよび質問を行います
 - [`#reprotech`](https://twitter.com/hashtag/reprotech) hashをつけて随時質問ください
 
 ---
 
 ## Presenters
 
+- 深層学習を速くするいくつかの方法
+  - by Kota Uenishi
+- 完成された機械学習モデルを保守していくには
+  - by Sho Shimauchi
+- 予測システムと意思決定の自動化
+  - by Takashi Nishibayashi
+- REPROのAI機能を支える技術
+  - by Takeshi Kamada
+
 ---
 
-## LTs
+## Sponsor LTs
 
-- (Sponsor)
+- Makiko Ohkawa (wao009) from NAVITIME
 
 ---
 
