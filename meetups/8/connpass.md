@@ -1,12 +1,12 @@
 ![](/assets/images/repro-tech-meetup-banner.png)
 
-- title: Repro Tech Meetup #8 SDK(仮)
+- title: Repro Tech: Mobile SDK Reliability
 - 日程
-  - 2019-05-XX 予定 19:30-22:30
+  - 2019-05-14 19:30-22:00 予定
 - 登壇枠
-  - Session: 20min + 5min (QA)
+  - Session: 15min + 5min (Q&A)
   - LT: 5min
-- 参加者枠: 20-XXX FCFS
+- 参加者枠: 30 先着順
 - 会場: 未定
 
 # Repro Tech Meetup
@@ -25,9 +25,21 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 - [Repro Tech Meetup #2 Android](https://togetter.com/li/1261085)
 - [Repro Tech Meetup #1 Docker](https://togetter.com/li/1251270)
 
-# テーマ: AI (仮)
+# テーマ: Mobile SDK Reliability
 
-TBD
+様々なプラットフォームの様々なアプリに組み込まれるSDK。そんなSDKを開発する上で何より大切なことは、アプリ開発者に安心して利用してもらうことです。
+そして安心して利用してもらうための取り組みは多岐にわたります。
+
+例えば
+
+- 影響範囲を最小化する設計
+- 継続的なリファクタリング
+- 様々な環境をカバーできるテスト
+- 品質をモニタリングできる運用
+- ドキュメント等を通じた情報提供
+- 効率的な問い合わせ対応
+
+品質にシビアなSDK開発だからこそ得られるこれらの知見を共有し、SDK開発はもちろん、アプリの開発にも応用して品質の高いプロダクト開発を実現していきましょう！
 
 ## 登壇者
 
