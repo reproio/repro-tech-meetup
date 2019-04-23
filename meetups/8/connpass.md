@@ -53,10 +53,10 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 
 ### 名畑真一 from [Supership](https://supership.jp/)
 
-![]()
+<img src="./shinichi_nabata.jpg" width="250">
 
-Supership株式会社
-アドテクノロジーセンター
+<p style="margin-bottom: 0;">Supership株式会社</p>
+<p style="margin-bottom: 0;">アドテクノロジーセンター</p>
 副センター長
 
 SDK開発やプロダクトマネージャーを経て、現在は広告エンジニア組織のマネジメントを担当しております。
