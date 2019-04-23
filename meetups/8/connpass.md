@@ -57,11 +57,11 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 
 <p style="margin-bottom: 0;">Supership株式会社</p>
 <p style="margin-bottom: 0;">アドテクノロジーセンター</p>
-副センター長
+<p>副センター長</p>
 
 SDK開発やプロダクトマネージャーを経て、現在は広告エンジニア組織のマネジメントを担当しております。
 
-### [中江和寛](https://twitter.com/let_nekoe) / [Chenyi Lee](https://twitter.com/konyavic) / [Markus Wanke]() from [Repro](https://repro.io/)
+### [中江和寛](https://twitter.com/let_nekoe) / [Chenyi Lee](https://twitter.com/konyavic) / [Markus Wanke](https://github.com/mw99/) from [Repro](https://repro.io/)
 
 <img src="https://pbs.twimg.com/profile_images/1095485486817173504/3PWxpxO0_200x200.png" width="100">
 <img src="https://pbs.twimg.com/profile_images/807243157570134016/lXkSU0X2_200x200.jpg" width="100">
@@ -69,7 +69,7 @@ SDK開発やプロダクトマネージャーを経て、現在は広告エン�
 
 - 中江和寛: Reproで主にSDK開発を担当。好きな言語はRust。最近興味があるのは安心・安全・良いプロダクトを爆速で提供するためのコードベースや組織の作り方。
 - Chenyi Lee: 後で書く
-- Markus Wanke: 後で書く
+- Markus Wanke: German software engineer working in Tokyo for Repro. Preferring development close to the real hardware.
 
 # タイムテーブル
 
