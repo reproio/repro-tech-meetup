@@ -1,13 +1,13 @@
 ![](/assets/images/repro-tech-meetup-banner.png)
 
-- title: Repro Tech: Mobile SDK Reliability
+- タイトル: Repro Tech: Mobile SDK Reliability
 - 日程
   - 2019-05-14 19:30-22:30 予定
 - 登壇枠
   - Session: 15min + 5min (Q&A)
   - LT: 5min
 - 参加者枠: 30 先着順
-- 会場: 未定
+- 会場: 東京都渋谷区南平台町2-17日交南平台ビル5F 株式会社 助太刀
 
 # Repro Tech Meetup
 
@@ -43,17 +43,33 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 
 ## 登壇者
 
-### [XXX](https://twitter.com/reproio)
+### [玉城信悟](https://twitter.com/alligator_tama) from [Origami](https://origami.com/)
 
-TBA
+![](https://pbs.twimg.com/profile_images/788658274014892032/lEuG9xvX_200x200.jpg)
 
-# スポンサーLT
+玉城信悟(@allibator_tama)、株式会社Origamiで働くiOSエンジニア。
 
-### [TBA](https://twitter.com/) from [XXX]()
+最近はtry!Swift Tokyo 2019の運営、PEAKSのiOSテスト全書や技術書典6の本執筆、副業で株式会社UZUMAKIを手伝ったりして完全にオーバーフローした毎日を楽しく過ごしてます。UIテストが好きでXCUITestやAppiumなどを使ったE2Eテストに関して好んで調べたりもしています。
+
+### 名畑真一 from [Supership](https://supership.jp/)
 
 ![]()
 
-TBA
+Supership株式会社
+アドテクノロジーセンター
+副センター長
+
+SDK開発やプロダクトマネージャーを経て、現在は広告エンジニア組織のマネジメントを担当しております。
+
+### [中江和寛](https://twitter.com/let_nekoe) / [Chenyi Lee](https://twitter.com/konyavic) / [Markus Wanke]() from [Repro](https://repro.io/)
+
+<img src="https://pbs.twimg.com/profile_images/1095485486817173504/3PWxpxO0_200x200.png" width="100">
+<img src="https://pbs.twimg.com/profile_images/807243157570134016/lXkSU0X2_200x200.jpg" width="100">
+<img src="https://avatars1.githubusercontent.com/u/13180507?s=400&v=4" width="100">
+
+- 中江和寛: Reproで主にSDK開発を担当。好きな言語はRust。最近興味があるのは安心・安全・良いプロダクトを爆速で提供するためのコードベースや組織の作り方。
+- Chenyi Lee: 後で書く
+- Markus Wanke: 後で書く
 
 # タイムテーブル
 
@@ -68,21 +84,29 @@ TBA
 20:45 | LT
 20:50 | LT
 20:55 | LT
-21:00 | LT : Sponsor
-21:05 | 懇親会
+21:00 | 懇親会
 22:30 | 解散
 
 # 会場
 
-TBA
+**＼＼[助太刀](http://suke-dachi.jp/)さまのイベントスペースをお借りできることになりました／／**
+
+<img src="https://bit.ly/2DQbdzD" width="600">
 
 ### アクセス
 
-TBA
+東京都渋谷区南平台町2-17日交南平台ビル5F
+
+https://goo.gl/maps/YySjePxHK7oVt6Tm6
+
+JR山手線「渋谷駅」より徒歩８分。駅からのルートは[助太刀さまのホームページ](http://suke-dachi.jp/company/info)を参考にしてください。
+
 
 # スポンサー
 
-TBA
+会場スポンサー: [助太刀](http://suke-dachi.jp/)さま
+
+<img src="../../assets/images/sukedachi/logo-sukedachi.png" width="160">
 
 # 注意事項
 
