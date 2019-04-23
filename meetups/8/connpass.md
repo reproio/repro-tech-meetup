@@ -55,9 +55,9 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 
 <img src="./shinichi_nabata.jpg" width="250">
 
-<p style="margin-bottom: 0;">Supership株式会社</p>
-<p style="margin-bottom: 0;">アドテクノロジーセンター</p>
-<p>副センター長</p>
+Supership株式会社
+アドテクノロジーセンター
+副センター長
 
 SDK開発やプロダクトマネージャーを経て、現在は広告エンジニア組織のマネジメントを担当しております。
 
