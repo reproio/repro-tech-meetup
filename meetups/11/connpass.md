@@ -1,8 +1,8 @@
 ![](/assets/images/repro-tech-meetup-banner.png)
 
-- title(up to 50): Repro Tech Meetup #7 Real World Test Engineering
+- Repro Tech: Real World Test Engineering
 - 日程
-  - 2019-03-11週予定 19:30-22:30
+  - 2019-06-19 19:30-22:30 予定 t s
 - 登壇枠
   - Session: 20min + QA 3-5min * 3
   - LT: 5min * 2
@@ -18,6 +18,7 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 
 ### 前回の雰囲気
 
+- [Repro Tech Meetup #6 Long Life RailsApps](https://togetter.com/li/1316874)
 - [Repro Tech Meetup #5 Frontend Reliability](https://togetter.com/li/1295307)
 - [Repro Tech Meetup #4 AI実戦投入](https://togetter.com/li/1285717)
 - [Repro Tech Meetup #3 CRE](https://togetter.com/li/1272696)
