@@ -1,6 +1,6 @@
 # Repro Tech Meetup
 
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-tech-meetup-banner-wide.png?raw=true)
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-tech-banner-wide.png?raw=true)
 
 Repro Tech Meetupは、スタートアップにおける技術領域での失敗を少しでも防ぐようノウハウを共有することを目的とするミートアップです。
 
@@ -13,6 +13,7 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 - hashtag: [`reprotech`](https://twitter.com/hashtag/reprotech)
 - connpass: https://repro-tech.connpass.com/
+- slack: [repro-tech](https://repro-tech.slack.com/)(join from [here](https://join.slack.com/t/repro-tech/shared_invite/enQtNTA0ODg4NzQ3NzgwLTFjMTEwNDMyMTM0MGQ3ZjgxYjlmZjQzZTc5MjYyOTNkMzI0MTQxOWI0MzYzMTY0ZmJjZDE2MzM4NWNlYTQ2MmU))
 
 # 注意事項
 
