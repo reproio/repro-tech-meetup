@@ -62,7 +62,7 @@ TBA
 
 ![](https://pbs.twimg.com/profile_images/717046499364876288/s3fK-uis_200x200.jpg)
 
-テーマ: (仮) 実践ハイパフォーマンス Presto
+テーマ: (仮) Repro で Presto のパフォーマンス改善や安定化のためにやったこと
 
 # スポンサーLT
 
