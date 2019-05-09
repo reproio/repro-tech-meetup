@@ -2,12 +2,12 @@
 
 - タイトル: Repro Tech Meetup #10 Infra/SRE (仮)
 - 日程
-  - 2019-06-04 (火) 予定 19:30-22:30 (6/4 (火)、5 (水)、6 (木) のどれかになる可能性が高い)
+  - 2019-06-04 (火) 19:30-22:30
 - 登壇枠
   - セッション: 20 分 + 3 分 (質疑応答)
   - LT: 5 分
-- 参加者枠: 20-XX (先着順)
-- 会場: 未定
+- 参加者枠: 80 名 (先着順)
+- 会場: 東京都渋谷区代々木1丁目36-4 全理連ビル4階 イベントスペース
 
 # Repro Tech Meetup
 
@@ -88,13 +88,26 @@ TBA
 21:55 | 懇親会
 22:30 | 解散
 
+
 # 会場
 
-TBA
+Repro株式会社 イベントスペース
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-event-space.png?raw=true)
+
+### 設備
+
+- Wi-Fiあります
+- ディスプレイ接続用の各種アダプターの準備あります
+- トイレは会場を出て突き当り左にあります
+- 喫煙室は9Fにあります。喫煙者の方はご利用ください
 
 ### アクセス
 
-TBA
+JR代々木駅北口改札を出て目の前のビルです。
+1Fにマクドナルドがあります。
+
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-access-1.png?raw=true)
 
 # スポンサー
 
