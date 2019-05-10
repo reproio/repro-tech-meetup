@@ -140,7 +140,8 @@ AI、本番きてるっしょ？👀
 
 ## Sponsor LTs
 
-- Makiko Ohkawa (wao009) from NAVITIME
+- AIを選択する自由
+  - by Makiko Ohkawa
 
 ---
 
