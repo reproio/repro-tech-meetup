@@ -48,9 +48,11 @@ Repro Tech Meetupは、そんなReproが使っている・使おうとしてい�
 
 ## 登壇者
 
-### [XXX](https://twitter.com/reproio)
+### 金子雄一郎
 
-TBA
+トレジャーデータ株式会社 CDPチーム ソフトウェアエンジニア
+
+テーマ: TBA
 
 ### [XXX](https://twitter.com/reproio)
 
