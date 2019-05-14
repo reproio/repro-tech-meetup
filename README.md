@@ -34,6 +34,7 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 1. [Frontend Reliability](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/5)
 1. [Long Life RailsApp](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/6)
 1. [Practical AI](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/7)
+1. [Mobile SDK Reliablity](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/8)
 
 ### [Hands-on](/hands-on)([workflow](/hands-on/ORGANIZE.md))
 
