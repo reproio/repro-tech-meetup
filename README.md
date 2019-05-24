@@ -49,5 +49,7 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 
 ### [Sake Bash](/sake-bash)([workflow](/sake-bash/ORGANIZE.md))
 
+![](/assets/images/sake-bash/banner.png)
+
 1. [2019-05-24: Sake Bash for rubykaigi](https://gitpitch.com/reproio/repro-tech-meetup?p=sake-bash/2019-05-24)
 
