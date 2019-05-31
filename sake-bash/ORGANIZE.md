@@ -106,7 +106,7 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
     - introduction
 - 20:30 (option)LT開始
     - いきなりLTもOK!
-- 21:30 ゆるゆると撤収
+- 22:00 ゆるゆると撤収
 
 ## イベント終了後
 

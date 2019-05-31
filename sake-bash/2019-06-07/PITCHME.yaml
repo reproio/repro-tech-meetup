@@ -1,0 +1,21 @@
+# Twitter Card
+title: "Sake Bash for Rubykaigi at Repro"
+description: "日本酒美味しいよね。そういえばReproに日本酒好き多いよね。じゃぁ日本酒をReproで飲めばよいのでは？"
+thumbnail: assets/images/sake-bash/banner.png
+
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: Beige
+theme-override: sake-bash/2019-05-24/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: assets/images/repro-logo-white.png
+footnote: "Repro Sake Bash"
+
+

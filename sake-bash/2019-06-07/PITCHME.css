@@ -1,0 +1,32 @@
+/*
+ * GitPitch Slideshow Custom CSS Styling
+ *
+ * For details, visit Wiki:
+ * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
+ */
+
+/* overwrite */
+
+.reveal .w-70 {
+  width: 70%;
+}
+
+.reveal .w-center {
+  text-align: center;
+}
+
+.reveal section img {
+  border: none;
+  box-shadow: none;
+  background: none;
+  max-height: 300px;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  text-transform: inherit;
+}
+
+.reveal table th, .reveal table td {
+  border: none;
+}
+
