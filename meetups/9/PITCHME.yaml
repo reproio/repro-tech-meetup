@@ -1,0 +1,23 @@
+# Layout
+layout : center-top
+transition : none
+
+# Look-and-Feel
+theme : night
+theme-override : assets/css/netflix/PITCHME.css
+
+code-line-numbers : true
+mathjax : TeX-MML-AM_HTMLorMML-full
+charts : true
+
+logo : assets/images/repro-logo-white.png
+footnote : "Repro Tech Meetup"
+
+# Analytics
+# gatoken:
+# Twitter
+title: "Repro Tech vol.9 実践・並列分散処理基盤"
+description: "並列分散処理基盤に関連した次のような発表内容を想定しています。並列分散処理基盤のアーキテクチャについて。
+なぜ並列分散処理基盤を導入したのか。どういう用途でつかっているのか。パフォーマンスチューニングに関する知見。
+運用・監視に関する知見。 on 2019-06-04"
+thumbnail: meetups/8/thumbnail.png
