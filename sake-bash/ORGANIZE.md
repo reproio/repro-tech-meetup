@@ -23,12 +23,13 @@ Biz向け、Dev向けと交互で開催される飲み会イベント
     - 日本酒は注文する酒店によっては **配送の1週間前注文** しか受け付けていない酒店もあるので注意すること
     - なじみの酒屋に買いに行っておくというのもあり
 
-> ### :bulb: 発注ボリューム及び予算感について
+> ### :bulb: お酒・おつまみの量と予算感について
 >
 > - 予算は食事も含め、1000-1500円/parsonに程度だと望ましい
 > - お酒は5名/一升 程度消費される
 > - 8名/[ぎんの皿 信濃](https://www.ginsara.jp/menu/shinano2-5_1_detail.html) がおつまみ含めちょうどよい
 >   - 握りだけではなく、巻もかなりgood! おにぎりとかもおすすめしたい
+>   - [注文先リスト](https://docs.google.com/spreadsheets/d/19CKuTZK6A-caD8y8xfNi-6uWyDno8SOKZvPwJLPjoSI/edit#gid=1087985429)
 
 ## 1 week before
 
@@ -116,13 +117,31 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
 
 ## おすすめのおつまみは？
 
-- クリームチーズの味噌漬け
-- 酒盗
-- 塩
-- 塩ゆで卵
-- おでん
-- 生ハム
-- おにぎり
+- kakuyasu
+  - [K&K缶つまプレミアム 広島かき 燻製油漬 EO缶](https://www.kakuyasu.co.jp/ec/disp/CSfLastGoodsPage_001.jsp?GOODS_NO=61031&dispNo=001037)
+  - [K&K缶つまプレミアム　和風サーディン　EO缶](https://www.kakuyasu.co.jp/ec/disp/CSfLastGoodsPage_001.jsp?GOODS_NO=43511&dispNo=001037)
+  - [伍魚福 一夜干焼いか](https://www.kakuyasu.co.jp/ec/disp/CSfLastGoodsPage_001.jsp?GOODS_NO=179951&dispNo=001038)
+  - [なとり　茎わかめ](https://www.kakuyasu.co.jp/ec/disp/CSfLastGoodsPage_001.jsp?GOODS_NO=31040&dispNo=001038)
+- amazon
+  - [しいの食品　かつお酒盗 120g](https://www.amazon.co.jp/dp/B01DLE5ZSI/)
+  - [しいの食品 まぐろ酒盗 瓶 120g](https://www.amazon.co.jp/dp/B01DLE0HYK/)
+  - [しいの食品 まぐろ酒盗 瓶 130g](https://www.amazon.co.jp/dp/B004SKCY3O/)
+- rakuten
+  - [越前塩 60g](https://item.rakuten.co.jp/komean/tennensio/?iasid=07rpp_10095___eg-jwiz8p8l-1j0a-8ce7e610-ebe2-480f-87ed-99bd46eadea7)
+  - [越前おにぎりの塩](https://item.rakuten.co.jp/aikanhonpo/10001587/)
+  - [くがにまーしゅ塩の花](https://item.rakuten.co.jp/385store/10000420/)
+- [蔵醍醐　クリームチーズのみそ漬ハーフ 35g](https://www.kounokura.com/SHOP/297032.html)
+- [あらめ塩](https://www.uoya.co.jp/uoyasake/F29-U27.html)
+
+## お酒はどこで発注することが多いですか？
+
+溝の口の「坂戸屋」さんが多いです。
+
+- https://www.facebook.com/sakadoya.sake.mizonokuchi/
+- http://www.sakadoya-style.com/
+
+注文は mizonokuchisakadoya@gmail.com よりメールで行います。
+在庫があるものであれば、銀行振込から1-2営業日で届けて頂けます。
 
 ## すでに飲んだことのある酒は？
 
@@ -131,6 +150,12 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
   - [悦凱陣](http://www.osakeosake.com/2.gaizin/2.gai-zyun.html)
   - [津島屋](http://www.syusendo-horiichi.co.jp/SHOP/399.html)
   - [田酒](http://www.hatada-sake.com/tokuteimeisyou/corner106446/tokujyundensyu.html)
+- vol.2
+  - [萩の鶴 夏の猫ラベル純吟別仕込30BY]()
+  - [山和 中取原酒Rock30BY]()
+  - [竹雀 純米おりがらみ生30BY]()
+  - [るみ子の酒 ブルーボトル純米無濾過生30BY]()
+  - [長珍 純吟うすにごり生30BY]()
 
 ## やってみたいことありますか？
 
