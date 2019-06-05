@@ -1,12 +1,12 @@
 ![](/assets/images/repro-tech-meetup-banner.png)
 
-- タイトル: Repro Tech Meetup #10 Infra/SRE (仮)
+- タイトル: Repro Tech: 実践・並列分散処理基盤
 - 日程
   - 2019-06-04 (火) 19:30-22:30
 - 登壇枠
   - セッション: 20 分 + 3 分 (質疑応答)
   - LT: 5 分
-- 参加者枠: 80 名 (先着順)
+- 参加者枠: 75 名 (先着順)
 - 会場: 東京都渋谷区代々木1丁目36-4 全理連ビル4階 イベントスペース
 
 # Repro Tech Meetup
@@ -72,12 +72,12 @@ R&D engineer in NTT, Ph.D. in CS (Database Systems) - Apache Spark committer, Ap
 ---   | ---
 19:00 | 開場
 19:30 | はじめに
-19:40 | Repro における Presto の安定化・パフォーマンス改善の歩み by Takeshi Arabiki
-20:05 | テーマ未定 by Yuichiro Kaneko
+19:40 | 「Repro における Presto の安定化・パフォーマンス改善の歩み」 by Takeshi Arabiki
+20:05 | 「How Presto is used by CDP」 by Yuichiro Kaneko
 20:30 | 休憩 (軽食)
-20:40 | Taming Distributed/Parallel Query Execution Engine of Apache Spark by Takeshi Yamamuro
-21:05 | LT: -
-21:10 | LT: -
+20:40 | 「Taming Distributed/Parallel Query Execution Engine of Apache Spark」 by Takeshi Yamamuro
+21:05 | LT: 「HBase CompleteBulkLoad の仕組みとはまったポイント」 by Mikami Takeshi
+21:10 | LT: 「Cassandra の活用事例とパフォーマンス特性」 by Tomohiro Hashidate
 21:15 | LT: -
 21:20 | 懇親会
 22:30 | 解散
@@ -86,19 +86,24 @@ R&D engineer in NTT, Ph.D. in CS (Database Systems) - Apache Spark committer, Ap
 
 Repro 株式会社 4F イベントスペース
 
+![](https://raw.githubusercontent.com/reproio/repro-tech-meetup/master/assets/images/repro-eventspace.jpg)
+
 ### 設備
 
 - Wi-Fi あります。
 - ディスプレイ接続用の各種アダプターの準備あります。
-- トイレは会場を出て右手にございます。
-- 喫煙室は 9F にあります。喫煙者の方はご利用ください。
+- トイレは会場を出たところにあります。
+- 喫煙室は 9F にあります。
 
 ### アクセス
 
 JR 代々木駅北口改札を出て目の前のビルです。
 1F にマクドナルドがあります。
 
-![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro-access-1.png?raw=true)
+4F エレベータを降りて右手奥に Repro 社の入口があります。
+入っていただいて一番奥にイベントスペースがあります。
+
+![](https://raw.githubusercontent.com/reproio/repro-tech-meetup/master/assets/images/repro-access-1.png)
 
 # 注意事項
 
