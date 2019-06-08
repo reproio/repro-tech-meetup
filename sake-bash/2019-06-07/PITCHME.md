@@ -74,72 +74,84 @@
 ---
 
 @snap[north span-100]
-### 十旭日 純米酒
+### 萩の鶴 夏の猫ラベル純吟別仕込 30BY
 @snapend
 
 @snap[west span-30 text-center]
-<img  src="https://i.imgur.com/BXLpNUM.jpg" width="300" height="300" >
+![](/sake-bash/2019-06-07/sake/haginotsuru.png)
 @snapend
 
-@snap[east span-70 text-left]
-島根県は出雲にある、明治2年創業の酒蔵「旭日酒造」が醸す地酒
+@snap[east span-70 text-left sake-desc]
+宮城、夏季限定のお酒。
+華やかな香りと優しい甘み、微かな炭酸が爽やかさを楽しませてくれる純米吟醸酒。
+
 <br><br>
-地元出雲や島根県内の酒米を中心に自家精米を使用し、出雲の湧き水を仕込み水とした、しっかりとした酒質
+
+<ul>
+<li> 使用米: 美山錦 50％精米
+<li> 度数: 15%
+<li> 酵母: 宮城酵母
+<li> 酒度: -2
+<li> 酸度: 1.5
+</ul>
 @snapend
 
 ---
 
 @snap[north span-100]
-### 悦凱陣 手造り純米酒
+### 山和 中取原酒Rock30BY
 @snapend
 
-@snap[west span-30 text-center]
-<img  src="https://i.imgur.com/Y4pEJ7z.jpg" width="300" height="300" >
+@snap[west span-30 text-center sake-img]
+![](/sake-bash/2019-06-07/sake/yamawa.png)
 @snapend
 
-@snap[east span-70 text-left]
-香川県、金毘羅宮の参道の一角にある、由緒ある蔵元「丸尾本店」。
+@snap[east span-70 text-left sake-desc]
+宮城、氷入れて飲むタイプ。
 <br><br>
-桂小五郎や高杉晋作が潜伏していた事もある蔵で醸されるお酒は、非常に個性的で深い味わいがあり、凱陣流のお酒に魅了されるファンも多い。
+ガチの日本酒の中では比較的ワイン寄りの綺麗な作りの蔵。
+<br><br>
+酸味が料理の味を引き立てる。
+味濃いけど氷入れて飲むにはよし。
 @snapend
 
 ---
 
 @snap[north span-100]
-#### 津島屋 純米吟醸 信州産美山錦 無濾過生
+### 竹雀 純米おりがらみ生30BY
 @snapend
 
-@snap[west span-30 text-center]
-<img  src="https://i.imgur.com/n36hwuy.jpg" height="300" >
+@snap[west span-30 text-center sake-img]
+![](/sake-bash/2019-06-07/sake/takesuzume.png)
 @snapend
 
-@snap[east span-70 text-left]
-岐阜県にある明治26年創業の酒蔵「御代桜酒造」。
+@snap[east span-70 text-left sake-desc]
+岐阜、夏酒でも無いけど、澱（おり）が舞ってて、竹雀自体のやらかさも相まってちょいなめらかな印象。
 <br><br>
-木曽川の伏流水、磨き抜かれた酒米を使い醸されるお酒は、芳醇な香りとコクを持ちながらも飲み飽きないバランスを持つとファンからは評されている。
+独特のフレッシュ感、爽やかさが感じられる。
 @snapend
 
 ---
 
 @snap[north span-100]
-## 田酒 特別純米
+#### るみ子の酒 ブルーボトル純米無濾過生
 @snapend
 
-@snap[west span-30 text-center]
-<img  src="https://i.imgur.com/9bcCZdQ.jpg" height="300" >
+@snap[west span-30 text-center sake-img]
+![](/sake-bash/2019-06-07/sake/rumiko.png)
 @snapend
 
-@snap[east span-70 text-left]
-青森県にある「西田酒酒造店」で醸される日本酒。
+@snap[east span-70 text-left sake-desc]
+三重、夏酒。
 <br><br>
-名前に「田」があるように、醸造用アルコールや醸造用糖類など、田以外の生産物を一切使わず造られるお酒は、純粋な米の旨みを楽しめる逸品。
+無濾過生(つまり濃いめ) の荒ばしり(ドライ目）に加水して14度までアルコール落としている。バランスとれたスイスイ系。あまり冷やさず常温で。
 @snapend
 
 ---
 
 ## では!
 
-乾杯前に注ぎに行きましょう 
+乾杯前に注ぎに行きましょう
 
 ---
 

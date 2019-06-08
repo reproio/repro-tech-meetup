@@ -18,4 +18,11 @@ charts: true
 logo: assets/images/repro-logo-white.png
 footnote: "Repro Sake Bash"
 
-
+# Analytics
+# gatoken:
+# Twitter
+title: "Sake Bash for rubykaigi"
+description: "お酒は美味しい。そしてReproのメンバーにお酒好きも多い。だったらReproで飲めば良いんじゃない？
+そんなヘリウムのような軽い気持ちのイベント。
+ on 2019-05-24"
+thumbnail: sake-bash/2019-05-24/thumbnail.png

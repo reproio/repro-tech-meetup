@@ -9,7 +9,7 @@ transition: none
 
 # Look-and-Feel
 theme: Beige
-theme-override: sake-bash/2019-05-24/PITCHME.css
+theme-override: sake-bash/2019-06-07/PITCHME.css
 
 code-line-numbers: true
 mathjax: TeX-MML-AM_HTMLorMML-full
@@ -18,4 +18,11 @@ charts: true
 logo: assets/images/repro-logo-white.png
 footnote: "Repro Sake Bash"
 
-
+# Analytics
+# gatoken:
+# Twitter
+title: "Sake Bash for Real Wantedly"
+description: "お酒は美味しい。そしてReproのメンバーにお酒好きも多い。だったらReproで飲めば良いんじゃない？
+そんなヘリウムのような軽い気持ちのイベント。
+ on 2019-05-24"
+thumbnail: sake-bash/2019-06-07/thumbnail.png
