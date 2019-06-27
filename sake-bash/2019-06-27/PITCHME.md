@@ -71,7 +71,7 @@
 @snapend
 
 @snap[west span-30 text-center]
-![](/sake-bash/2019-06-07/sake/haginotsuru.png)
+![](/sake-bash/2019-06-27/1_kurosawa.png)
 @snapend
 
 @snap[east span-70 text-left sake-desc]
@@ -89,7 +89,7 @@
 @snapend
 
 @snap[west span-30 text-center sake-img]
-![](/sake-bash/2019-06-07/sake/yamawa.png)
+![](/sake-bash/2019-06-27/2_chochin.png)
 @snapend
 
 @snap[east span-70 text-left sake-desc]
@@ -106,7 +106,7 @@
 @snapend
 
 @snap[west span-30 text-center sake-img]
-![](/sake-bash/2019-06-07/sake/takesuzume.png)
+![](/sake-bash/2019-06-27/sake/3_natsuyago.png)
 @snapend
 
 @snap[east span-70 text-left sake-desc]
@@ -122,7 +122,7 @@
 @snapend
 
 @snap[west span-30 text-center sake-img]
-![](/sake-bash/2019-06-07/sake/rumiko.png)
+![](/sake-bash/2019-06-27/4_jyujiasahi.png)
 @snapend
 
 @snap[east span-70 text-left sake-desc]
@@ -138,7 +138,7 @@
 @snapend
 
 @snap[west span-30 text-center sake-img]
-![](/sake-bash/2019-06-07/sake/rumiko.png)
+![](/sake-bash/2019-06-27/5_ouroku.png)
 @snapend
 
 @snap[east span-70 text-left sake-desc]
@@ -156,7 +156,7 @@
 @snapend
 
 @snap[west span-30 text-center sake-img]
-![](/sake-bash/2019-06-07/sake/rumiko.png)
+![](/sake-bash/2019-06-27/6_matsumoto.png)
 @snapend
 
 @snap[east span-70 text-left sake-desc]
