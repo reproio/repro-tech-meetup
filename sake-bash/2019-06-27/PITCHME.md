@@ -106,7 +106,7 @@
 @snapend
 
 @snap[west span-30 text-center sake-img]
-![](/sake-bash/2019-06-27/sake/3_natsuyago.png)
+![](/sake-bash/2019-06-27/3_natsuyago.png)
 @snapend
 
 @snap[east span-70 text-left sake-desc]
