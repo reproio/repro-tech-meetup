@@ -1,6 +1,7 @@
 
 ## SSID: Repro4Guest
 ## PASS: R3pI2o-20!9
+※小文字のpの後は大文字のアイ
 
 ---
 
