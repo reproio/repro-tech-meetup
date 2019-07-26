@@ -5,7 +5,7 @@
 
 酒好きたちによるスペシャルセレクトされた旬のお酒、それを引き立てるツマと話を肴に楽しみましょう。
 
-# [WIP]Nice Sake Selection
+# (WIP)Nice Sake Selection
 
 ### 丹澤山 若水70生原酒30BY
 
