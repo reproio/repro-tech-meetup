@@ -156,6 +156,13 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
   - [竹雀 純米おりがらみ生30BY]()
   - [るみ子の酒 ブルーボトル純米無濾過生30BY]()
   - [長珍 純吟うすにごり生30BY]()
+- vol.3
+  - [黒澤 生酛純米YSPX青直汲30BY](https://shimizuya.info/kurosawa)
+  - [長珍 サマージュン無濾過生 30BY](http://www.yamanaka-sake.jp/store/products/detail.php?product_id=570)
+  - [夏ヤゴブルー 純米原酒30BY](https://www.sake-tsujimura.com/item.php?sakeID=146)
+  - [十旭日 己亥純米吟醸おりがらみ生30BY](http://www.fukai-nakano.co.jp/cathand/detail-724031.html)
+  - [超王祿 中取30BY](http://www.osakemirai.com/archives/16082186.html)
+  - [澤屋まつもと 守破離山田穂 2016BY](https://www.jizake.com/fs/sanoya/Sake8072_1800)
 
 ## やってみたいことありますか？
 
