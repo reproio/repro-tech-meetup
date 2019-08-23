@@ -163,6 +163,20 @@ google map: https://goo.gl/maps/t7NtRv4rUv92
   - [十旭日 己亥純米吟醸おりがらみ生30BY](http://www.fukai-nakano.co.jp/cathand/detail-724031.html)
   - [超王祿 中取30BY](http://www.osakemirai.com/archives/16082186.html)
   - [澤屋まつもと 守破離山田穂 2016BY](https://www.jizake.com/fs/sanoya/Sake8072_1800)
+- vol.4
+  - [丹澤山 若水70生原酒30BY](http://shopping.kimijimaya.co.jp/shopdetail/000000001579/)
+  - [惣誉 生酛純米吟醸](http://sohomare.co.jp/lineup03.php)
+  - [竹雀 超辛口純米うすにごり生30BY](http://katidoki.com/products/%E7%AB%B9%E9%9B%80-%E7%B4%94%E7%B1%B3-%E7%94%9F%E5%8E%9F%E9%85%92-%E8%B6%85%E8%BE%9B%E5%8F%A3-%E3%81%86%E3%81%99%E3%81%AB%E3%81%94%E3%82%8A-30by/)
+  - [神亀 搾りたて阿波山田錦60生](http://ozakishouten.com/product/%E7%A5%9E%E4%BA%80-%E7%B4%94%E7%B1%B3-%E6%90%BE%E3%82%8A%E3%81%9F%E3%81%A6%E7%94%9F%E9%85%92-30by-1800ml/)
+  - [奥播磨 純米袋吊り雫酒30BY](http://www.kawanosaketen.com/liquor/nihonsyu/kinkichugoku/okuharima/kiji001434.php)
+  - [旭菊　綾花純米無濾過生原酒29BY](http://www.fukai-nakano.co.jp/cathand/detail-725018.html)
+- vol.5
+  - [惣誉 生酛純米吟醸](http://sohomare.co.jp/lineup03.php)
+  - [若駒 美山錦70無加圧採り30BY](http://ozakishouten.com/product/%E8%8B%A5%E9%A7%92-%E7%BE%8E%E5%B1%B1%E9%8C%A670-%E7%84%A1%E5%8A%A0%E5%9C%A7%E6%8E%A1%E3%82%8A-%E7%84%A1%E6%BF%BE%E9%81%8E%E7%94%9F%E5%8E%9F%E9%85%92-30by-720ml/)
+  - [長珍 純米吟醸無濾過生30BY](https://store.shopping.yahoo.co.jp/jizakeyasan/451-1.html#)
+  - [王祿 純米吟醸限定生原酒28BY](http://www.yamanaka-sake.jp/store/products/detail.php?product_id=739)
+  - [綿屋 純米吟醸雄町29BY](https://item.rakuten.co.jp/sakeroman/wataya_014/)
+  - [大那 純米吟醸東条愛山30BY](http://ozakishouten.com/product/daina-jyunmaiginjyou-hiire-720/)  
 
 ## やってみたいことありますか？
 
