@@ -2,9 +2,9 @@
 
 +++
 - title
-  - re:invent 2019 報告会
+  - AWS re:Invent 2019 報告会
 - subtitle
-  - Dec 2-6で開催されていたre:inventの生情報をおとどけ！
+  - Dec 2-6で開催されていたAWS re:Inventの生情報をおとどけ！
 - date
   - 2019-12-18 19:30-
 - 登壇枠
@@ -15,9 +15,9 @@
   - 東京都渋谷区代々木1丁目36-4 全理連ビル4階 イベントスペース
 +++
 
-# AWS re:invent 2019 報告会
+# AWS re:Invent 2019 報告会
 
-Dec 2-6で開催されていたre:invent、参加していたEngineerから生情報をおとどけ！
+Dec 2-6で開催されていた AWS re:Invent、参加していたEngineerから生情報をおとどけ！
 
 ## タイムテーブル
 
