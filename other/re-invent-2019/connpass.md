@@ -46,7 +46,7 @@ TBD
 
 ### [edwardkenfox](https://twitter.com/edwardkenfox) from Repro
 
-TBD
+美大で映像を専攻するかたわら、WEB系の技術やスタートアップの世界に魅力を感じ、個人的にWEBサイトを作ったり音楽系のスタートアップに参画。 2014年11月にエンジニアとしてReproにジョインして以降、管理画面やRepro Webの開発を中心に、サービスの幅広い部分の開発と運用に従事している。バスケとビールが生き甲斐で、好きなAWSサービスはAWS Ground Station。
 
 ![](https://pbs.twimg.com/profile_images/1184087422365126656/w184Adnh_200x200.jpg)
 
