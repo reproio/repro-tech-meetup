@@ -38,11 +38,11 @@
 
 ## 登壇者
 
-### [aka rinrin]() from Photo Create
+### 林 裕一郎(rinrin) from Photocreate
 
-TBD
+システム開発会社を経て2014年に株式会社コトコトを創業。その後キタムラ・ホールディングスグループ(当時CCCフォトライフラボグループ)にジョインし現職。現在はグループ各社のAWS移行プロジェクトや基盤構築などを担当。 最近お気に入りのAWSのサービスはStep Functions。
 
-![]()
+![](https://pbs.twimg.com/profile_images/1141531544558788609/STl8gkuv_200x200.jpg)
 
 ### [edwardkenfox](https://twitter.com/edwardkenfox) from Repro
 
