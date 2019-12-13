@@ -74,6 +74,9 @@ Repro 株式会社 4F イベントスペース
 - エレベータを4Fで降り、右手奥へ
 - Repro社入り口をはいり一番奥へ
 
+![](/assets/images/repro/repro-event-space-2019-12-13.jpg)
+
+
 ### 設備
 
 - Wi-Fi あります
