@@ -15,9 +15,9 @@
 
 ![](/other/re-invent-2019/re_invent_660_x_270.png)
 
-# AWS re:invent 2019 報告会
+# AWS re:Invent 2019 報告会
 
-Dec 2-6で開催されていたre:invent、参加していたEngineerから生情報をおとどけ！
+2019年12月2日〜6日にラスベガスで開催されていたAWS re:Invent 2019の参加者より生情報をお届けする報告会を開催します！
 
 ## タイムテーブル
 
@@ -25,48 +25,46 @@ Dec 2-6で開催されていたre:invent、参加していたEngineerから生�
 ---   | ---
 19:00 | 開場
 19:30 | 乾杯 :beers:
-19:40 | TBD by rinrin
-19:50 | TBD by edwardkenfox
-20:00 | TBD by Masaki Kawaguchi
+19:40 | TBD by [@rinrin](https://twitter.com/rinrinhhhh)
+19:50 | TBD by [@edwardkenfox](https://twitter.com/edwardkenfox)
+20:20 | TBD by [@mominosin](https://twitter.com/mominosin)
 20:10 | 休憩
-20:20 | TBD by Koide
-20:30 | TBD by AWS SA
-20:40 | TBD by -
+20:00 | TBD by AWS SA
+20:30 | TBD
+20:40 | TBD
 20:50 | 懇親会 :beers:
+21:30 | AWS re:Invent 2019 ノベルティ争奪じゃんけん
 22:30 | 解散
 
 ## 登壇者
 
-### [aka rinrin]() from Photo Create
+### 林 裕一郎([rinrin](https://twitter.com/rinrinhhhh)) from Photocreate
 
-TBD
+システム開発会社を経て2014年に株式会社コトコトを創業。その後キタムラ・ホールディングスグループ(当時CCCフォトライフラボグループ)にジョインし現職。現在はグループ各社のAWS移行プロジェクトや基盤構築などを担当。 最近お気に入りのAWSのサービスはStep Functions。
 
-![]()
+![](https://ja.gravatar.com/userimage/62816871/b4fd421f48f15009affaf9ec9a430629.jpg?size=200)
 
 ### [edwardkenfox](https://twitter.com/edwardkenfox) from Repro
 
-TBD
+美大で映像を専攻するかたわら、WEB系の技術やスタートアップの世界に魅力を感じ、個人的にWEBサイトを作ったり音楽系のスタートアップに参画。 2014年11月にエンジニアとしてReproにジョインして以降、管理画面やRepro Webの開発を中心に、サービスの幅広い部分の開発と運用に従事している。バスケとビールが生き甲斐で、好きなAWSサービスはAWS Ground Station。
 
 ![](https://pbs.twimg.com/profile_images/1184087422365126656/w184Adnh_200x200.jpg)
 
-### (pending) [Masaki Kawaguchi aka dmnlk](https://twitter.com/dmnlk) from Base
+### 鈴木 進吾([mominosin](https://twitter.com/mominosin)) from UniFa
 
-TBD
+SIerでオンプレを経験後ベンチャーでAWSと出会う、その後ユニファ株式会社にジョイン。AWSへの移行や、新規構築、他社から引き取ったサービスの運用などを担当。好きなAWSサービスはAWS Fargate。
 
-![](https://pbs.twimg.com/profile_images/378800000419930222/6364c310ef2469b2b234841fdac2bd6f_200x200.jpeg)
-
-### (pending) []() from Gunosy
-
-TBD
-
-![]()
-
+![](https://pbs.twimg.com/profile_images/1204944677918494725/W8DVcRWt_400x400.png)
 
 ### (pending) []() from AWS SA
 
 TBD
 
 ![]()
+
+# AWS re:Invent 2019ノベルティ争奪じゃんけん
+
+AWS re:Invent 2019 の会場で配布されたノベルティがもらえるじゃんけん大会を開催します。もらえるノベルティは当日発表しますが、割と豪華なものを用意する予定ですのでお楽しみに。
 
 # 会場
 
