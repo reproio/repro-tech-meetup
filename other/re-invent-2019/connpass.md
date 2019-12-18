@@ -25,13 +25,12 @@
 ---   | ---
 19:00 | 開場
 19:30 | 乾杯 :beers:
-19:40 | TBD by [@rinrin](https://twitter.com/rinrinhhhh)
-19:50 | TBD by [@edwardkenfox](https://twitter.com/edwardkenfox)
-20:20 | TBD by [@mominosin](https://twitter.com/mominosin)
+19:40 | EventBridge schema registry and discoveryで楽々イベントスキーマ管理 by [@rinrin](https://twitter.com/rinrinhhhh)
+19:50 | Hackathon for Good 参加録 〜また私は如何にして心配するのを止めて優勝したか〜（仮） by [@edwardkenfox](https://twitter.com/edwardkenfox)
+20:00 | 初心者参加録とAWS Lambda Provisioned Concurrencyを比較してみた by [@mominosin](https://twitter.com/mominosin)
 20:10 | 休憩
-20:00 | TBD by AWS SA
-20:30 | TBD
-20:40 | TBD
+20:20 | Amazon SageMaker Studio, Autopilot紹介 〜誰でも簡単にAIを作れる未来は近い!?〜 by [@sasuke_10_23](https://twitter.com/sasuke_10_23)
+20:40 | ジャンル別どんなときに使うかre:Invent 2019のupdate（仮）by kojikomi
 20:50 | 懇親会 :beers:
 21:30 | AWS re:Invent 2019 ノベルティ争奪じゃんけん
 22:30 | 解散
@@ -56,11 +55,15 @@ SIerでオンプレを経験後ベンチャーでAWSと出会う、その後ユ�
 
 ![](https://pbs.twimg.com/profile_images/1204944677918494725/W8DVcRWt_400x400.png)
 
-### (pending) []() from AWS SA
+### 齊藤 諒介([sasuke_10_23](https://twitter.com/sasuke_10_23)) from Photocreate
 
-TBD
+R＆D案件にSESとして2年半程従事した後に、株式会社フォトクリエイトへ入社。主にAWSを活用した機械学習やデータ分析を担当。最近触っているAWSサービスはAWS Glue。
 
-![]()
+<img src="https://pbs.twimg.com/profile_images/1202484484756529152/E7ABJ23U_400x400.jpg" width="200">
+
+### 小宮 孝二 from AWS SA
+
+SIerで色々経験したのち、職を転々としてソシャゲバブルな頃にグリーにはいり高負荷サービスと日夜格闘。また色々あって最近AWS入り。好きなサービスはAmazon ECS。
 
 # AWS re:Invent 2019ノベルティ争奪じゃんけん
 
@@ -74,8 +77,7 @@ Repro 株式会社 4F イベントスペース
 - エレベータを4Fで降り、右手奥へ
 - Repro社入り口をはいり一番奥へ
 
-![](/assets/images/repro/repro-event-space-2019-12-13.jpg)
-
+![](https://github.com/reproio/repro-tech-meetup/blob/master/assets/images/repro/repro-event-space-2019-12-13.jpg?raw=true)
 
 ### 設備
 

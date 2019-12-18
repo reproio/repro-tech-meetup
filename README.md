@@ -48,6 +48,10 @@ Repro Tech Meetupは、スタートアップにおける技術領域での失敗
 1. [reactnative](https://gitpitch.com/reproio/repro-tech-meetup?p=hands-on/5)
 1. [nuxtjs](https://gitpitch.com/reproio/repro-tech-meetup?p=hands-on/6)
 
+### [other](/other)
+
+1. [AWS re:invent 2019 報告会](https://gitpitch.com/reproio/repro-tech-meetup?p=other/re-invent-2019/)
+
 ### [Sake Bash](/sake-bash)([workflow](/sake-bash/ORGANIZE.md))
 
 ![](/assets/images/sake-bash/banner.png)

@@ -1,8 +1,10 @@
 version: "3"
 services:
   pitch:
-    image: store/gitpitch/desktop:pro
+    image: gitpitch/desktop:pro
     volumes:
-      - ./:/repo
+      - ./:/repo:${MOUNT_CONSISTENCY:-consistent}
     ports:
       - 9000:9000
+    environment:
+      SWEEP: "false"
