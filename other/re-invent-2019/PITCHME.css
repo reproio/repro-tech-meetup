@@ -1,0 +1,123 @@
+/*
+ * GitPitch Slideshow Custom CSS Styling
+ *
+ * For details, visit Wiki:
+ * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
+ */
+
+/* overwrite */
+
+.reveal section img {
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+
+.reveal blockquote {
+  width: 100%;
+}
+
+div .img-w-30 > img {
+  max-width: 30%;
+}
+
+div .img-w-100 > img {
+  max-width: 30%;
+}
+
+div .img-w-70 > img {
+  max-width: 70%;
+  background-color: white;
+}
+
+div .img-h-70 > img {
+  max-width: 50%;
+  background-color: white;
+}
+
+div .hiring img {
+  width: 150px;
+  background-color: rgba(255,255,255,.0);
+}
+
+div .assets img {
+  width: 100px;
+}
+
+.reveal blockquote p:first-child, .reveal blockquote p:last-child {
+  dispaly: block;
+}
+
+.reveal p span.slide-title {
+  background: none !important;;
+}
+
+/* original */
+body {
+  /* fallback for old browsers */
+  /* background: #8E0E00; */
+  background: #333744;
+  /* Chrome 10-25, Safari 5.1-6 */
+  /* background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00); */
+  background: -webkit-linear-gradient(to right, #1F1C18, #333744);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /* background: linear-gradient(to right, #1F1C18, #8E0E00); */
+  background: linear-gradient(to right, #1F1C18, #333744);
+}
+
+.reveal pre {
+  width: 100%;
+  box-shadow : none;
+}
+
+.reveal pre code {
+  font-size: 1.2em;
+  line-height: 1.2;
+  max-height: 50vh !important;
+  opacity: 0.95;
+  border-radius: 10px;
+}
+
+.reveal .slides section .code-presenting-annotation {
+  color: white;
+  background: #1f1c18;
+  padding: 1px 15px;
+  border-radius: 15px;
+  opacity: 0.75 !important;
+  font-size: 50% !important;
+}
+
+.reveal p span.slide-title {
+  color: white;
+  background: #54140c;
+  padding: 4px 15px;
+  opacity: 0.75 !important;
+  border-radius: 15px;
+}
+.reveal div.left {
+    float: left;
+    z-index: -10;
+    width: 45%;
+}
+
+.reveal div.right {
+    float: right;
+    z-index: -10;
+    width: 55%;
+}
+
+.reveal a.pro-link {
+    font-size: 0.5em;
+}
+
+#gp-logo img {
+  max-height: 2em;
+  max-width: none;
+}
+
+.gp-tip { font-size : 1.5em; }
+
+.gp-contact { font-size : 1.4em; }
+
+.gp-download { margin-left: 10px; }
+
